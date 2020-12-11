@@ -1,0 +1,20 @@
+{
+  "Cuisine Type": "American Cuisine", 
+  "Business ID": "Rc1lxc5lSKJYd162JHNMfQ", 
+  "Name": "Bea", "Address": "403 W 43rd St", 
+  "Coordinates": {"latitude": 40.7591968, "longitude": -73.9923361}, 
+  "Number of Reviews": 2390, 
+  "Rating": 4.0, 
+  "Zip Code": "10036"
+}
+
+{
+  "cuisine_type": "American Cuisine", 
+  "business_id": "Rc1lxc5lSKJYd162JHNMfQ", 
+  "name": "Bea", 
+  "address": "403 W 43rd St", 
+  "coordinates": {"latitude": 40.7591968, "longitude": -73.9923361}, 
+  "num_reviews": 2390, 
+  "rating": 4.0, 
+  "zipcode": "10036"
+}

@@ -1,0 +1,61 @@
+cuisine_type,business_id,name,address,coordinates/latitude,coordinates/longitude,num_reviews,rating,zipcode
+American Cuisine,Rc1lxc5lSKJYd162JHNMfQ,Bea,403 W 43rd St,40.7591968,-73.9923361,2390,4,10036
+American Cuisine,C-8mGN7lt5rIraO5n-15ug,The Smith,956 2nd Ave,40.755165,-73.967868,2510,4,10022
+American Cuisine,scjoZtbTQHi35xhAlUm2iQ,L'ADRESSE,1065 Ave Of The Americas,40.75403,-73.98539,527,4,10018
+American Cuisine,DRitJoNGTkHXZvH_YpLIAw,Marc Forgione,134 Reade St,40.71647,-74.0095599,904,4.5,10013
+American Cuisine,veq1Bl1DW3UWMekZJUsG1Q,Gramercy Tavern,42 E 20th St,40.738527,-73.988417,2820,4.5,10003
+American Cuisine,_gzXNKarTxagBp6_PkmQKw,Gotham Bar and Grill,12 E 12th St,40.734186,-73.993696,1567,4.5,10003
+Thai Cuisine,_Ki5XZTB8mL9RDYGj7KP0w,22 Thai Cuisine,59 Nassau St,40.70925,-74.0088,173,2.5,10038
+Thai Cuisine,zJ6-ZCrtJA943nsVl2l8gQ,Thai Cuisine,1509 White Plains Rd,40.83811,-73.8638,49,3.5,10462
+Thai Cuisine,rhWaFGReGsmyWAojvGWQlQ,PaPa Thai Cuisine,2115 Frederick Douglass Blvd,40.80346,-73.95647,54,3.5,10026
+Thai Cuisine,_Ge2eC89Z-jlaDDWglfT8g,Pa Pa Thai Cuisine,1069 1st Ave,40.75937782,-73.96241548,187,4.5,10022
+Thai Cuisine,1Fe4lCiMPNVhoEyjg92frA,Kati Thai Cuisine,347 E 14th St,40.73180771,-73.98291016,239,4,10003
+Thai Cuisine,lI91u68v2xTdE70lyioKAg,Lotus Thai Cuisine,7007 Park Ave,40.7929206,-74.0031012,241,3.5,7093
+Mexican Cuisine,sNr7HL0CE9AJu_SJNfRBZA,Soona' Mexican Cuisine,6900 Park Ave,40.79210222,-74.00355506,9,4,7093
+Mexican Cuisine,HLPCElXTqPD6JERdnJM_gQ,Trece Mexican Cuisine & Tequila Bar,54 E 13th St,40.734218,-73.991526,212,3.5,10003
+Mexican Cuisine,hg5LjqQ6pTM4U58nJiDylg,Habanero Mexican Cuisine,141 Lincoln Ave,40.80856,-73.92916,35,4.5,10454
+Mexican Cuisine,JPOjbYV-4NG1C221UVUtiQ,Baja Mexican Cuisine,104 14th St,40.75349,-74.026384,207,3.5,7030
+Mexican Cuisine,xrKa2SpgWzPEEbji3Iw2DQ,The Calaveras,949 Columbus Ave,40.79956,-73.96241,94,4.5,10025
+Mexican Cuisine,Wx6lMnEh7dCmX-9PQF1Ifw,Toloache 50,251 West 50th St,40.762325,-73.9855741,1871,4,10012
+Indian Cuisine,iYh7mB7PDd5ZvZZ4lFPF1w,Anand Indian Cuisine,304 E 78th St,40.77228,-73.95525,111,4.5,10075
+Indian Cuisine,NgD-6ogFGc_c4z5_Ur4k2g,Dhaba Indian Cuisine,108 Lexington Ave,40.742364,-73.982813,1465,3.5,10016
+Indian Cuisine,izRJeBfDQYJmd6ibIQ6Mfg,Mughlai Indian Cuisine,1724 2nd Ave,40.78002,-73.94978,437,4.5,10128
+Indian Cuisine,_z2_1TE_1brlvljiGtJ4mA,Aahar Indian Cuisine,10 Murray St,40.71334,-74.0081,293,4.5,10007
+Indian Cuisine,f-E6w-6rWO8vWshTfboHJg,Banjara Indian Cuisine,100 2nd Ave,40.72711945,-73.98834991,37,4.5,10003
+Indian Cuisine,XKy4Cy4uNgO7rxhH4yFJQQ,Mughlai Indian Cuisine,329 3rd Ave,40.739692,-73.982116,370,4,10010
+Chinese Cuisine,4cNKwCO8XxaF2cz2s7jpZQ,Hui Fu Chinese Cuisine,58 3rd Ave,40.73117,-73.98909,7,3,10003
+Chinese Cuisine,0dDCDQz7DrKkSvu9h2hcQw,Chow House,181 Bleecker St,40.72915,-74.00072,318,4.5,10012
+Chinese Cuisine,wfhMIiMh2A2psCGONOVSlg,Han Dynasty,90 3rd Ave,40.732072,-73.988074,1190,4,10003
+Chinese Cuisine,xq0cX_DgxiJMXwhmEl9kUA,Café China,13 E 37th St,40.74992252,-73.98194641,1558,4,10016
+Chinese Cuisine,jc7lVTvmYMIK5RNpENtS6w,Szechuan Mountain House,23 St Marks Pl,40.72911,-73.98858,290,4,10003
+Chinese Cuisine,0k678lCWQyReNi0lARlOmw,China Blue,135 Watts St,40.724038,-74.009958,669,4,10013
+Vietnamese Cuisine,jjJc_CrkB2HodEinB6cWww,LoveMama,174 2nd Ave,40.7303859,-73.9860613,4590,4.5,10003
+Vietnamese Cuisine,1851MMElaLteR03rnGAMlw,Pho Vietnam,87 Chrystie St,40.717587,-73.9944029,453,4,10002
+Vietnamese Cuisine,_du3ilTsbLqBmEY-ZyfqxA,Van Da,234 E 4th St,40.72341,-73.98307,74,4,10009
+Vietnamese Cuisine,bZQryeTD6hIsT6lSUxzSSw,Hanoi House,119 Saint Marks Pl,40.72698,-73.98357,451,4,10009
+Vietnamese Cuisine,m2Zsy2UAkcDf0cRzk2Yoqw,Madame Vo,212 E 10th St,40.72925,-73.98612,726,4,10003
+Vietnamese Cuisine,Wbmqg0TkOVkzNh3HrJ9DIQ,Vietnaam,1700 2nd Ave,40.7791481,-73.95041656,752,4,10128
+Japanese Cuisine,1j4QUnnFsZ8NYOpnfaYFqQ,Okamisan Japanese Cuisine,102 Macdougal St,40.72934,-74.00093,10,4,10012
+Japanese Cuisine,nyN6xEgKkWTAM4C41nqpkQ,Hana Japanese Cuisine,111 Rivington St,40.71977234,-73.98794556,179,3.5,10002
+Japanese Cuisine,_IkMfWpOkQXRZtJAYJUJIw,Hama Japanese Cuisine,11 W 51st St,40.7597847,-73.97763824,354,4,10019
+Japanese Cuisine,7iaY0eac6AI0VkA0Hpfgkw,Iso Japanese Cuisine,1086 N Broadway,40.97191459,-73.88221735,92,4.5,10701
+Japanese Cuisine,ukTPwlzhb1lJva1RF3i86w,Aki Japanese Cuisine,1273 Broad St,40.83406,-74.18033,271,4,7003
+Japanese Cuisine,t8HLt4lx7-kkk4TQx9h08g,Zen Japanese Cuisine,277 Eisenhower Pkwy,40.7981032,-74.34348202,166,3.5,7039
+Soul Food,Wdt-exLSaHXQRH7V_7-VVg,Spoonfed New York Country,331 W 51st St,40.7636295,-73.9868805,452,4,10019
+Soul Food,tsiC3VpO-hZEb98Qk3p-DQ,Amy Ruth's,113 W 116th St,40.80248,-73.95038,2542,4,10026
+Soul Food,BQcgpQxUM39PMO_YDl_CqA,Freda's Caribbean & Soul Cuisine,993 Columbus Ave,40.80095,-73.96141,539,4,10025
+Soul Food,tiSw-6DIm3-mMORyEIOVyg,The Boil,139 Chrystie St,40.71974,-73.99339,1849,4.5,10002
+Soul Food,4rWJGwb3rjDoZHA0AECa5A,Melba's,300 W 114th St,40.80314688,-73.95650692,998,4,10026
+Soul Food,26E3j9l0XW_onVIUP-ThCw,Heidi's House By The Side Of The Road,308 E 78th St,40.772189,-73.955029,589,4.5,10075
+Italy Cuisine,z8TIY5xLeQptbXxZp3LpsA,Felice 56,15 W 56th St,40.762862,-73.975396,6,5,10019
+Italy Cuisine,7cjT33LfYSk7vrRdEaSr4w,Angeletto Restaurant,890 2nd Ave,40.753188,-73.969365,176,4.5,10017
+Italy Cuisine,MphfKkYFEe0BDQ6hZ0A5fA,Gelso & Grand,186 Grand St,40.71940895,-73.99737779,840,4.5,10013
+Italy Cuisine,OCTiJwvjoK81WoDwsTkFvA,Paesano of Mulberry Street,136 Mulberry St,40.718554,-73.997447,793,4,10013
+Italy Cuisine,O5S9rhY63YPGiQeUcn7PKA,Cardoncello DiVino,43 W 27th St,40.74519,-73.98985,81,4.5,10001
+Italy Cuisine,I2lgw_7DUnwD92ND4PN-Ow,Aunt Jake's,149 Mulberry St,40.7190315,-73.9977161,1358,4,10013
+French Cuisine,ETgJqJHV7BW6pIr9Ox74sA,Amélie,22 W 8th St,40.7327,-73.99766,2576,4.5,10011
+French Cuisine,FiRB9Ek3Xo9JHwXgBYITYg,La Sirène-Soho,558 Broome St,40.72436422,-74.00570869,1583,4.5,10013
+French Cuisine,csVEpHy5KJoFvM1qp5XwLQ,Le Parisien,163 East 33rd St,40.74540793,-73.97914783,931,4,10016
+French Cuisine,vRrVSB-LegwUwIxpkeRVtQ,Le Bernardin,155 W 51st St,40.761557,-73.981763,2461,4.5,10019
+French Cuisine,Ac8y23odvFOIQSKdrV63Uw,Le Bateau Ivre,230 E 51st St,40.7558,-73.96905,424,4,10022
+French Cuisine,KgpOYAG-r_eDsQXFXt0nnQ,Balthazar Restaurant,80 Spring St,40.72273039,-73.99833078,3001,4,10012

@@ -1,0 +1,1501 @@
+cuisine_type,business_id,name,address,coordinates/latitude,coordinates/longitude,num_reviews,rating,zipcode
+Italy Cuisine,z8TIY5xLeQptbXxZp3LpsA,Felice 56,15 W 56th St,40.762862,-73.975396,6,5,10019
+Italy Cuisine,7cjT33LfYSk7vrRdEaSr4w,Angeletto Restaurant,890 2nd Ave,40.753188,-73.969365,176,4.5,10017
+Italy Cuisine,MphfKkYFEe0BDQ6hZ0A5fA,Gelso & Grand,186 Grand St,40.7194089547259,-73.9973777877722,840,4.5,10013
+Italy Cuisine,OCTiJwvjoK81WoDwsTkFvA,Paesano of Mulberry Street,136 Mulberry St,40.718554,-73.997447,794,4,10013
+Italy Cuisine,DoSU8IPq-Py_YV3kYmXPfQ,Trattoria Trecolori,254 West 47th St,40.75998,-73.98671,2264,4,10036
+Italy Cuisine,vVVmHacu2YAxKfpIjhfd1g,NORMA Gastronomia Siciliana,438 3rd Ave,40.743553,-73.980026,319,4.5,10016
+Italy Cuisine,I2lgw_7DUnwD92ND4PN-Ow,Aunt Jake's,149 Mulberry St,40.7190315,-73.9977161,1359,4,10013
+Italy Cuisine,z7H9ApIGopnDnQaglnPTzg,Allora Ristorante,145 E 47th St,40.75433,-73.97277,484,4.5,10017
+Italy Cuisine,04exhf1PZ79_Km9vHAzvfA,Pepe Rosso Social,173 Mott St,40.72007,-73.99618,811,4,10013
+Italy Cuisine,DI_FoHY84hfzTWwlzF76aw,Benito One,174 Mulberry St,40.7200188460948,-73.9969412164592,691,4,10013
+Italy Cuisine,a0IET3_yCFcO36OqGSsisg,Eataly NYC Flatiron,200 5th Ave,40.74195877796,-73.989716662832,5385,4,10010
+Italy Cuisine,O5S9rhY63YPGiQeUcn7PKA,Cardoncello DiVino,43 W 27th St,40.74519,-73.98985,81,4.5,10001
+Italy Cuisine,vjubSxmdG_HoBBgd39geBw,Nino's 46,39 W 46th St,40.7569159,-73.980516,1121,4,10036
+Italy Cuisine,xsQTIeq-WLkp4ParkTQpMQ,PizzArte,69 W 55th St,40.7629335072372,-73.9776668697596,1049,4,10019
+Italy Cuisine,16ZnHpuaaBt92XWeJHCC5A,Olio e Piú,3 Greenwich Ave,40.733826,-73.999852,1975,4,10014
+Italy Cuisine,iEUXrUUqGfUhpgYYSr5Zig,Da Nico Ristorante,164 Mulberry St,40.719685,-73.997062,727,3.5,10013
+Italy Cuisine,HPvz-PHt2PYWV_X9eQSlnA,Il Cortile Restaurant,125 Mulberry St,40.718005,-73.998268,501,3.5,10013
+Italy Cuisine,qBGKigOGn_flCx1apxPzlA,Piccola Cucina Osteria,196 Spring St,40.72506,-74.00322,478,4.5,10012
+Italy Cuisine,WG639VkTjmK5dzydd1BBJA,Rubirosa,235 Mulberry St,40.72275,-73.99622,2051,4.5,10012
+Italy Cuisine,mtmEa4vFYa764G97sqQ9dQ,Sapori D'Italia,105 Mulberry St,40.71735,-73.99855,230,4.5,10013
+Italy Cuisine,jo30o65XFWmgMJS86zFiFQ,La Mela Ristorante,167 Mulberry St,40.719907,-73.997294,751,3.5,10013
+Italy Cuisine,lTa_the-LGQxdwKhwfwVyw,La Nonna,134 Mulberry St,40.718546780939,-73.9975856825191,261,3.5,10013
+Italy Cuisine,2Nwmd7-1d1rI6lb9QSSYYA,Sola Pasta Bar,330 W Broadway,40.72229,-74.00403,192,4,10013
+Italy Cuisine,5Akss-swwfyoSVeIsDBbvw,Basta Pasta,37 W 17th St,40.73881,-73.99407,1392,4,10011
+Italy Cuisine,KL6AUMQI_Ae7_brkK0fy_w,La Vela Dining & Bar,558 11th Ave,40.761082,-73.997872,163,4,10036
+Italy Cuisine,WmK7GXwOnLSTRN1ocyUThg,Puglia Ristorante,189 Hester St,40.7181606872639,-73.9976975651144,451,4,10013
+Italy Cuisine,unjqnjSjpdGyP2Gqg0qJVA,marcellino tratoria & pizzeria,178 Mulberry St,40.72066,-73.99666,39,4,10012
+Italy Cuisine,NqYET0OyJKGfm9dJG8iDcg,Piccola Cucina Enoteca,184 Prince St,40.726284,-74.002151,271,4,10012
+Italy Cuisine,MCnexHfsclcOpLHS4_2U0A,San Carlo Osteria Piemonte,90 Thompson St,40.72517,-74.00212,197,4.5,10012
+Italy Cuisine,YFvF4r2D-wJOgJAOvanaZQ,Gnoccheria by Luzzo's,234 E 4th St,40.723315,-73.983139,349,4,10009
+Italy Cuisine,JyXn_GCGM2DsNYIzgzQrDw,Da Gennaro,129 Mulberry St,40.71832,-73.99794,895,4,10013
+Italy Cuisine,NAlOPUbFQVE0bUu8_wmBLQ,Rezdôra,27 E 20th St,40.73901,-73.9891,106,4,10003
+Italy Cuisine,bdKc4CSJPv-XLgxVwrtPrg,Forlini's Restaurant,93 Baxter St,40.71695,-73.99957,414,4.5,10013
+Italy Cuisine,0Tvwk0hvgaY0QVIsZGTZKQ,Antica Ristorante,8 Stone St,40.7039355145338,-74.0121731758117,484,4.5,10004
+Italy Cuisine,RXCCofQw1EjTcSN0ZeXfRA,Risotteria Melotti NYC,309 E 5th St,40.726673363853,-73.9880919456482,303,4.5,10003
+Italy Cuisine,7Tu5l9UfWVi_v3m4TwJAxQ,Caffe dei Fiori,973 Lexington Ave,40.76935,-73.9627,77,4.5,10021
+Italy Cuisine,T-RXDLq_VEv7s1_SooYIYQ,Osteria 57,57 W 10th St,40.73467,-73.99786,103,4.5,10011
+Italy Cuisine,Cm_knZN7W1MaFEp8MkBBSA,Tramonti La Pizza,130 Saint Marks Pl,40.72667,-73.9836,119,4.5,10009
+Italy Cuisine,hDj_0pbi4mFR5p1H1w6igw,Misirizzi,36 E 4th St,40.7272,-73.99228,127,4.5,10003
+Italy Cuisine,7_hGsGEkHrjgAiYVjrCFnw,Carbone,181 Thompson St,40.728,-74.0001497,923,4,10012
+Italy Cuisine,NlmP5x_Ykznd55Dc85ChUg,Nittis,523 9th Ave,40.7567,-73.99411,117,4.5,10018
+Italy Cuisine,Pu09oBx1ekEZiFt90PsSIw,Tableside Italian Cook Shoppe,345 E 6th St,40.7266287,-73.9863384,233,4.5,10003
+Italy Cuisine,15k7iqFbhf4h8L01yggLqg,Song E Napule,146 W Houston St,40.72813,-74.00188,425,4.5,10012
+Italy Cuisine,cp5k0PKl236X0xaNDYR5Zw,Feroce Ristorante,105 W 28th St,40.74634,-73.99096,54,4,10001
+Italy Cuisine,l7Z0p-PkSwIDPLPY1TRl8A,Emilio's Ballato,55 E Houston St,40.7244923,-73.9944022,312,4,10012
+Italy Cuisine,vpkTNjq9dRh9rT3Nh0pe-A,Nolita Pizza,68 Kenmare St,40.7208883,-73.9962404,14,5,10012
+Italy Cuisine,-Td-YEPTOUq2H3LRWgRxUw,Non Solo Piada,302 W 37th St,40.75414,-73.99245,322,4.5,10018
+Italy Cuisine,qgY41g_eg0eNzewCXmKcaA,Lillo Cucina Italiana,331 Henry St,40.69023,-73.99634,111,5,11201
+Italy Cuisine,UQZmhaPAMdZabid6ccvhTg,Il Punto Ristorante,507 9th Ave,40.75612,-73.99467,340,4,10018
+Italy Cuisine,SbevrHJ2M5Oc8_SHi79YQg,Caffe Napoli,191 Hester St,40.71819,-73.99777,616,3,10013
+Italy Cuisine,jdNdy-MwBtnXoBGC_JVvwQ,Gaia Italian Café,251 E Houston St,40.721653,-73.985346,971,4,10002
+Italy Cuisine,uboO7T3XSnl8iq0uQWhMXA,Café Altro Paradiso,234 Spring St,40.72549,-74.00489,139,3.5,10013
+Italy Cuisine,DCiEo7qucPaEj7Gtdj1U9A,Sant Ambroeus,1000 Madison Ave,40.7752929376282,-73.9629447443084,371,4,10021
+Italy Cuisine,bW3mY-voyav37nU0uaLmNQ,Dante,79-81 Macdougal St,40.72879,-74.00165,289,4,10012
+Italy Cuisine,AUifp6IDKzmorCM6vY2fug,Pepe Giallo,195 10th Ave,40.7468940064083,-74.0049896784992,616,4,10011
+Italy Cuisine,zo4JHfD2nWPUiqgsgDOaHQ,Rao's,455 E 114th St,40.79392,-73.93427,144,4.5,10029
+Italy Cuisine,-FJ0bOC7okZbKvza8ZPzpw,Ristoro Del Cinghiale,122 E 27th St,40.74221,-73.98361,44,4,10016
+Italy Cuisine,IErfGS0DASSJfYU73m0Sqg,Malatesta Trattoria,649 Washington St,40.73285,-74.00847,1215,4,10014
+Italy Cuisine,Fit_iIDn__NPVZpVlKFBFQ,Osteria 106,53 W 106 St,40.79894,-73.96174,97,4.5,10025
+Italy Cuisine,X9f5HH4x3Mi7lo4ph9efvQ,Terre,341 5th Ave,40.671949831792,-73.9837719490146,43,4,11215
+Italy Cuisine,ddyYKrNWkdc5mudrmLaTvA,Flora,1021 8th Ave,40.66452,-73.97989,60,4.5,11215
+Italy Cuisine,26emJlm1YMFyOCezfgVk4g,Da Raffaele,883 First Ave,40.7535386913133,-73.9666010811925,156,4.5,10022
+Italy Cuisine,JLpEKUYAtzBRQwsUL3RPIA,Il Corso,54 W 55th St,40.762463,-73.977161,326,4.5,10019
+Italy Cuisine,Ve6GVzzJpR5QIIPdcn6ViQ,Mercato,352 W 39th St,40.75619,-73.9937,839,4,10018
+Italy Cuisine,aHRcUI_UqFNV87GF7WRIDQ,Aunt Jake's,47 W 8th St,40.73329,-73.99852,206,4,10011
+Italy Cuisine,BP0Uujyof1WKGkLuPbTLKQ,Grotta Azzurra Restaurant,177 Mulberry St,40.720329,-73.997045,508,3,10013
+Italy Cuisine,H_TGP2AgX3IUmzq8Aml79Q,L' Angolo Tribeca,190-A Duane St,40.71734,-74.01044,118,3.5,10013
+Italy Cuisine,FRp1NwIyp6tkDU986cJkXQ,Piccola Cucina Estiatorio,75 Thompson St,40.7246,-74.0029799,64,4,10012
+Italy Cuisine,-7iUpGTNDdy4WjxLGYp-_g,Trattoria Italienne,19 W 24th St,40.7430619,-73.9903948,133,4.5,10010
+Italy Cuisine,JBthOvTegHbrLDiVaCAy5Q,Bigoi Venezia,1415 2nd Ave,40.770036,-73.9577755,213,4.5,10021
+Italy Cuisine,6Z5OWpaeGGazJHR4LfThsw,Palma,28 Cornelia St,40.73115,-74.00233,694,4,10014
+Italy Cuisine,SHG9wQ5PfyXDgJDYkrPu7Q,Vago Restaurant,495 3rd Ave,40.74528,-73.97823,155,4,10016
+Italy Cuisine,yZJbealagfujEkgesAl2hA,Lupa,170 Thompson St,40.7276,-74.000045,1487,4,10012
+Italy Cuisine,kLJfizeHMQqesp1K9mfUtg,Via Quadronno,25 E 73rd St,40.77277,-73.96514,511,4,10021
+Italy Cuisine,Da9aNH6kW3fv4mTzqx3yPw,Caffe Palermo,148 Mulberry St,40.7189596,-73.9972725,540,3.5,10013
+Italy Cuisine,h4VCnZ2aZ33mdenS_ZI7jQ,Mama Mia 44 SW,621 9th Ave,40.759761,-73.992065,541,4,10036
+Italy Cuisine,5EmZzIWxYCrc1KOnbA78-w,Gran Tivoli,406 Broome St,40.72104,-73.99783,44,4,10013
+Italy Cuisine,n_NIY1KTi-R5DPkduEUKIw,Ovest Pizzoteca by Luzzo's,513 W 27th St,40.7507476806641,-74.0030212402344,518,4,10001
+Italy Cuisine,ZUrGqOG2cetGI-KKXk3c2g,Chazz Palminteri Italian Restaurant,30 West 46th St,40.756473,-73.980563,230,4,10036
+Italy Cuisine,xbrQ2dHuQoFJmNxAuOky4A,Vic's,31 Great Jones St,40.72693,-73.99319,435,4,10012
+Italy Cuisine,h37t9rA06Sr4EetJjKrfzw,Don Angie,103 Greenwich Ave,40.73778,-74.00197,270,4.5,10014
+Italy Cuisine,GZvelhGenbfJxc4_SG_RJw,Cielo Italian Restaurant,242 W 49th St,40.76128,-73.9859,430,4,10019
+Italy Cuisine,7dhXkHB_Eg1UJ7Yf9wQCjQ,Sofia's of Little Italy,143 Mulberry St,40.71888,-73.99777,381,3,10013
+Italy Cuisine,FNxOWxts63oDRKwy9Pbfzw,Tarallucci E Vino - Nomad,44 E 28th St,40.7436553,-73.9852171,151,4,10016
+Italy Cuisine,LTi4_wcCVmqQeJ_jgTEbOQ,Emporio,231 Mott St,40.7226371,-73.9951331,760,4,10012
+Italy Cuisine,lwfCl81r5a0mjxDNxNGC9w,Il Buco,47 Bond St,40.72583,-73.99299,643,4,10012
+Italy Cuisine,M4pCWzdBCkp2g_d834a7Hw,Sauce,78 Rivington St,40.720512182453,-73.989400288419,778,4,10002
+Italy Cuisine,BA0_zeBrnugK2l0HHp38mw,Via Della Pace,48 E 7th St,40.7277013287721,-73.9877394513958,525,4,10003
+Italy Cuisine,KCBfW6sWl9Gx-LvMff08jg,Osteria Morini Manhattan,218 Lafayette St,40.7219179851303,-73.9976472073402,1114,4,10012
+Italy Cuisine,o5mMVFk4Hcpk2FuKfgTgdg,Malaparte,753 Washington St,40.73687,-74.00812,303,4,10014
+Italy Cuisine,tLZfepIfSf0a80zHQTbTGQ,Trattoria Zero Otto Nove,2357 Arthur Ave,40.8546515,-73.8883526,732,4,10458
+Italy Cuisine,zwOAiVT4pAmpNGXzj-t5MA,Lilia,567 Union Ave,40.71757,-73.95236,734,4,11211
+Italy Cuisine,Z67mgMkN3RfdPEX5mXsyYA,Piacere,351 Broome St,40.7196979,-73.9951175,664,4,10013
+Italy Cuisine,kr5fRwdHtVwPPwSJxm9Fkg,Il Posto Accanto,190 E 2nd St,40.72238,-73.98403,205,4.5,10009
+Italy Cuisine,V3USzFEGhuoXez4G2Rk11A,Tavola,488 9th Ave,40.755403,-73.994516,892,4,10018
+Italy Cuisine,zjglOaCY8xQu3s2eKnLFzw,Mozzarella & Vino,33 W 54th St,40.76204,-73.97718,251,4,10019
+Italy Cuisine,1qotQS-eDg6_TdBU0cQiPg,Vincent's Restaurant,119 Mott St,40.7179220761959,-73.9975306433213,251,3,10013
+Italy Cuisine,aJJlY5xvqS180wtRIHEWqA,Cotenna,21 Bedford St,40.72903,-74.00357,381,4,10014
+Italy Cuisine,OAqsZMbjv66nOMqlimnYuQ,Uva,1486 2nd Ave,40.7722,-73.95566,2280,4,10075
+Italy Cuisine,4ixWiPyYysS2i8LAg4qzrQ,La Villetta,398 E 52nd St,40.7549171,-73.9650879,76,4,10022
+Italy Cuisine,rp8S7scxOkVVeG7dNneMGQ,L'Artusi,228 W 10th St,40.733714,-74.005068,1761,4.5,10014
+Italy Cuisine,E5rmVdrCn-0uwD2M9nkXdw,Da Capo,1392 Madison Ave,40.7877696714384,-73.9538384601474,191,4.5,10029
+Italy Cuisine,9iC39Z1YjZKbrrCANgzBXg,Sergimmo Salumeria,456 9th Ave,40.754296,-73.995498,661,4,10018
+Italy Cuisine,eVk4F9ixl89zyUHJ1G2Aiw,Luzzos La Pizza Napoletana,211 1st Ave,40.730616,-73.9834846,1024,4,10003
+Italy Cuisine,22nKUyCIbpnzR6R3_g1ptQ,Carmine's Italian Restaurant - Times Square,200 W 44th St,40.7574955824307,-73.9866844540098,3608,4,10036
+Italy Cuisine,oRdM7n-AfBPBGAlH4Q0Sag,My Pie Pizzeria Romana,690 Lexington Ave,40.7608512,-73.9694809,714,4.5,10022
+Italy Cuisine,HD0e3eHwv573qHZOJJitWg,Aurora Soho,510 Broome St,40.723543,-74.003199,447,4,10013
+Italy Cuisine,ugIv_ylUdqRIlx6AD8lTJA,Basso56,234 W 56th St,40.7655,-73.98267,600,4.5,10019
+Italy Cuisine,fyC2cBsQ0FsMJmv0jSworg,Donna Margherita,1304 2nd Ave,40.76652,-73.9598,53,4,10065
+Italy Cuisine,yB4ziqFM_7V8JxJas7CHfA,Ulivo,4 W 28th St,40.7447371960713,-73.9880339428782,283,4,10001
+Italy Cuisine,JOvcJqD5eCFrGjFa6k7vpQ,Zia Maria-Chelsea,318 W 23rd St,40.7454863,-73.9993392,218,4,10011
+Italy Cuisine,Vs8kQ4R381y27AH018gLpg,Supper,156 E 2nd St,40.7229,-73.98527,1259,4,10009
+Italy Cuisine,4eGCuMwKRCCrYHOobEsFpA,Lusardi's,1494 2nd Ave,40.7724199,-73.9555,184,4,10075
+Italy Cuisine,Fuk7jDI2XAcvHxqau5rKWA,Acqua Restaurant NYC,"21 Peck Slip, Water St",40.7082567,-74.001797,360,4,10038
+Italy Cuisine,a-XBTXQM4qigxUgpTmS7Fg,Codino,62 Carmine St,40.7300643486969,-74.0037936652668,62,4,10014
+Italy Cuisine,z-y9GDoRr1S9Ma6b2n0A4A,Enoteca Maria,27 Hyatt St,40.642,-74.07729,381,4,10301
+Italy Cuisine,wOq-Jt26jnFf_rhF4r5D6w,Scampi,30 W 18th St,40.73902,-73.99358,201,4,10011
+Italy Cuisine,VWErTDzcg23iiohqyc1AQQ,Rossopomodoro,118 Greenwich Ave,40.7384763561724,-74.0020935999868,229,4,10011
+Italy Cuisine,clOFor0bFSjse7EUfdRacg,Faro,436 Jefferson St,40.707407,-73.922839,268,4,11237
+Italy Cuisine,nM2AdRp2iSJHi4MgvIrEBg,Oak Tuscan Truffle Restaurant,28 Greenwich Ave,40.735042,-74.00002,78,4.5,10011
+Italy Cuisine,faukkggAc_tuJ4THYlf4fg,La Masseria,235 W 48th St,40.760868632784,-73.986348802868,578,4,10036
+Italy Cuisine,wZkZmjZEJDraLJgAalnHvA,Pisticci,125 La Salle St,40.8141624,-73.960288,820,4,10027
+Italy Cuisine,ZVa3-O6LMxZXSpKG0J1h-w,Piccolo Angolo Restaurant,621 Hudson St,40.7378601855952,-74.0058052539825,538,4,10014
+Italy Cuisine,UtyDjJSV2TYifsPhlHn_7Q,Sal's Little Italy,384 Broome St,40.7205027153381,-73.9966911411265,294,3.5,10013
+Italy Cuisine,ip733nbgjaMMazfQ-Ibhgg,Fiat Cafe,203 Mott St,40.721433,-73.995689,561,4,10012
+Italy Cuisine,IxwuIDcpRa7EpQs7V481Ww,Il Gattopardo,13-15 W 54th St,40.7614994602915,-73.976308999227,148,4,10019
+Italy Cuisine,5TX0X8w5ssIACU_pnBEq6g,Tony's Di Napoli,147 W 43rd St,40.75641,-73.98547,2010,4,10036
+Italy Cuisine,HJg9TbpyWvb6-AFPdb7NCA,King,18 King St,40.7275,-74.00346,151,3.5,10014
+Italy Cuisine,LnMRZhKtOrW1eL04FiPYTg,Senza Gluten,206 Sullivan St,40.7290911050589,-74.0003699151971,543,4,10012
+Italy Cuisine,z5-TEI72RVwwtWG4CEggLw,Lunella Ristorante Italiano,173 Mulberry St,40.720108,-73.997215,214,3.5,10013
+Italy Cuisine,yIFI6afTRP-tBhY6WsUOPg,Popina,127 Columbia St,40.687361962701,-74.0014251909241,49,4.5,11231
+Italy Cuisine,-hUvO0C0A-pGZdiSKvjoFw,Babbo,110 Waverly Pl,40.732283,-73.999284,2373,4,10011
+Italy Cuisine,d5ya04K-2A_hI3Xzqe1HeA,Caffe Buon Gusto,236 E 77th St,40.77249,-73.95713,437,4,10075
+Italy Cuisine,TzVVPWK_4dhdSEpNqZwIhQ,Toscana 49,143 East 49 St,40.7556957079225,-73.9717184007168,220,4,10017
+Italy Cuisine,fuS39acPaRi38DhSSwEI4Q,Felice,15 Gold St,40.70789,-74.00712,335,4,10038
+Italy Cuisine,XHhRAKq6DArQXYhkgvwaow,Spaghetti Incident,231 Eldridge St,40.7223153441439,-73.9899454318763,561,4,10002
+Italy Cuisine,MOwB9YYd-Ko6nVgSB-ltQw,Briciola,370 W 51st St,40.7637997047278,-73.9880919456482,795,4,10019
+Italy Cuisine,R3gSQGB3aEmVpwbKIgOPqg,Fabio Cucina Italiana,214 E 52nd St,40.75667,-73.96912,285,4.5,10022
+Italy Cuisine,BeE1tVTCmorm31fwXvX7Wg,Ora di Pasta,1 W 59th St,40.7644615,-73.9738617,178,4,10019
+Italy Cuisine,0UIUQWmwf_yxyygLXPQ0Hw,Mimmo Cucina Italiana,1690 York Ave,40.77764,-73.94565,70,4,10128
+Italy Cuisine,4YWAdkX4To7SGTRo-A_Wsw,Nonna Beppa Soho,290 Hudson St,40.72564,-74.00713,65,4.5,10013
+Italy Cuisine,OwDRIugcA4LkUuTRqpJsog,Naked Dog,47 Java St,40.7312720665479,-73.9593493647979,188,4.5,11222
+Italy Cuisine,twHJyFgUSd7wzioKQjE7Jw,Galli,45 Mercer St,40.72161,-74.00127,889,4,10013
+Italy Cuisine,HiNUBUR1hFwScd_OvVLQAg,La Pecora Bianca,1133 Broadway,40.74358,-73.9892,516,4,10010
+Italy Cuisine,5MpWHGQ6Qc-M4q1KL_nioA,Bar B,84 7th Ave,40.7395804,-73.999118,171,4.5,10011
+Italy Cuisine,tsvElYYtUBAEdfK6plnxlg,Villa Mosconi,69 Macdougal St,40.72859,-74.002,189,4,10012
+Italy Cuisine,Yubu48l7he-qrNDSeAngbQ,Via Vai,31-09 23rd Ave,40.7741502,-73.9123089,203,4,11105
+Italy Cuisine,os09iVkYkzIg9G1xEIepiA,Momofuku Nishi,232 8th Ave,40.7443479,-73.9988054,568,4,10011
+Italy Cuisine,PajKY49h4SpvSr-TW3lwCQ,Rafele Ristorante,29 7th Ave S,40.7309471231405,-74.0041171779098,458,4,10014
+Italy Cuisine,dc3hkLkAqCSxDWQzrx-g9A,Quality Italian,57 W 57th St,40.7644044527436,-73.9767805051616,1027,4,10019
+Italy Cuisine,b6jOwyX4iaagw8YjXqq1sA,Antonio's Trattoria,2370 Belmont Ave,40.854131,-73.886601,743,4.5,10458
+Italy Cuisine,mTWlEiCUEBlxBAkIikkB1A,Carmine's Italian Restaurant - Upper West Side,2450 Broadway,40.791077,-73.973763,1293,4,10024
+Italy Cuisine,eWMuXtaBzf0H5u0Vf_zpjw,Ciccio,190 6th Ave,40.7263263267119,-74.0034471165676,277,4,10013
+Italy Cuisine,EL5Y6BSinmUte5VW4Eh54Q,Frank,88 2nd Ave,40.7268483205383,-73.9887172038649,673,3.5,10003
+Italy Cuisine,dvkQIG20RjgNi-SwRr_1CQ,MAMO Restaurant,323 W Broadway,40.72186,-74.00382,241,4,10013
+Italy Cuisine,x61Sizu7lqGPMGuKEGHo-Q,Senso Unico,43-04 47th Ave,40.7414137015591,-73.9216857927781,57,4.5,11104
+Italy Cuisine,CAGAWbPE8uPr2VVvEnv0ZA,Ribalta Pizza,48 E 12th St,40.7334346,-73.9916923,536,4,10003
+Italy Cuisine,19zArMBG2qW2k16Y0i2aBA,Obicà Mozzarella Bar Pizza e Cucina,928 Broadway,40.7400486,-73.9893018,426,3.5,10010
+Italy Cuisine,G-op2xLJqocfg1AwJNge8Q,Il Piccolo Bufalo,141 Mulberry St,40.71883,-73.99781,241,3.5,10013
+Italy Cuisine,VqnPcfqYltgxAkIuTaGkYg,Tre,173 Ludlow St,40.72184,-73.987714,461,4,10002
+Italy Cuisine,0zxGc7hit7mFSk2o1PvIdQ,Umberto's Clam House,132 Mulberry St,40.718702,-73.9976166,416,2.5,10013
+Italy Cuisine,yi6jIxzHo-nbAOG4KWuqcw,Maialino,2 Lexington Ave,40.738437,-73.985686,1353,4,10010
+Italy Cuisine,7Oq1UdUHUGZGH_QI6N-0LQ,Hearth,403 E 12th St,40.730006,-73.983225,705,4,10009
+Italy Cuisine,gGkkzrcHh1xS-S55OsuKsw,Santina,820 Washington St,40.739618,-74.008443,638,3.5,10014
+Italy Cuisine,rpVX-o82EEOX8ZDnM28a_Q,Bistango,145 E 50th St,40.75628,-73.97144,258,4,10022
+Italy Cuisine,0ROpM3UcZhprN6dhwK2Hsw,Joe & Pat's Pizzeria,168 1st Ave,40.72892,-73.98411,138,4,10009
+Italy Cuisine,uDJw4dQiySoNCBoUalW1Ww,Lincoln Ristorante,142 W 65th St,40.773359006218,-73.9835011005249,558,4,10023
+Italy Cuisine,C3E8CVVwzKtOv_sRR1WuRQ,Salumeria Rosi,283 Amsterdam Ave,40.77932,-73.9809,477,4,10023
+Italy Cuisine,hzPBADaUBQEL30MGrvKsww,Il Tinello Ristorante Italiano,16 W 56th St,40.76256,-73.97566,262,4.5,10019
+Italy Cuisine,rtivWWzG0XjUuhSrwusTgQ,Fausto,348 Flatbush Ave,40.67597,-73.97181,142,4,11238
+Italy Cuisine,Tgi-rDD3mxFi9uGybZxdaQ,Faun,606 Vanderbilt Ave,40.67826,-73.96885,140,4,11238
+Italy Cuisine,pwzLpR9ys1NkE3ppjT88MQ,Pietro Nolita,174 Elizabeth St,40.7210205244336,-73.994662,439,3,10012
+Italy Cuisine,WYhRkUATHRyXZrE55MArbA,Scalini Fedeli,165 Duane St,40.7173964385114,-74.0093277537459,299,4.5,10013
+Italy Cuisine,gyWc5qJRvu26LVQIShdR4Q,Babbalucci,331 Lenox Ave,40.80894,-73.94496,376,4,10027
+Italy Cuisine,ItyOhaRY5VeNAdK2liPEBg,Maria Restaurant,11 Huguenot St,40.9143109,-73.7736016,68,4.5,10801
+Italy Cuisine,goqTQ4tOD-asC_ZJBW9l7w,Patsy's Italian Restaurant,236 W 56th St,40.76553,-73.98274,865,4,10019
+Italy Cuisine,Zub6WrbrS_4XMI1mPbyeiw,La Panineria,1 W 8th St,40.7324876186231,-73.9967531074097,191,4,10011
+Italy Cuisine,I0N_QtJy7sLiuW_vmvRIhg,Maruzzella,1483 1st Ave,40.77135,-73.95379,108,4,10075
+Italy Cuisine,WYdrEMBXzOcxffpQczHKww,Ortomare Ristorante Pizzeria,994 Columbus Ave,40.80124,-73.96161,28,4.5,10025
+Italy Cuisine,IiDfrdwPZJHbiuHdjaSJKA,Attraversa,225 W Broadway,40.71922,-74.00603,44,4.5,10013
+Italy Cuisine,C3OlQ_y5LcgboyaKlpETYA,Trattoria Casa Di Isacco,536 9th Ave,40.75686,-73.99356,272,4,10018
+Italy Cuisine,zg9Jrtx9rqTXeaqufSOxHQ,Masseria Dei Vini,887 9th Ave,40.7684,-73.98558,429,4,10019
+Italy Cuisine,cGqMEMQFtkB3hIGfLy2R3A,Bar Pitti,268 Ave Of The Americas,40.729047,-74.002153,1005,3.5,10014
+Italy Cuisine,vWa8iPUYDGAMSBCqMwJylQ,MangiPasta,608 E 187th St,40.85527,-73.88731,69,4.5,10458
+Italy Cuisine,d7LM2UaxRQachlWhZGP_tg,Casa Bella Restaurant,127 Mulberry St,40.718179080217,-73.9979933232788,467,3,10013
+Italy Cuisine,DD-hzjrGrWQiymt0Ws751w,Luna Ristorante,115 Mulberry St,40.71766,-73.99836,149,3,10013
+Italy Cuisine,Lesv5BG0_0-8bB49cAjMkg,Roberto's,603 Crescent Ave,40.85372,-73.88834,244,4,10458
+Italy Cuisine,UjzSeETESWzramhdOdWKKQ,Tartina,1034 Amsterdam Ave,40.8035073,-73.9636591,250,4,10025
+Italy Cuisine,VF3wSCRC3mE6JpBQPQXELA,Parm,248 Mulberry St,40.72303,-73.99567,727,3.5,10012
+Italy Cuisine,Q1_UvNyONsaVS_VC1mD9Dw,Osteria Cotta,513 Columbus Ave,40.78554,-73.97263,825,4,10024
+Italy Cuisine,pC_QwLpeL2Enk4hBgDcRqQ,Da Marino,220 W 49th St,40.76102,-73.98526,454,4,10019
+Italy Cuisine,6-ShONYFIM9K8HAUOhZVlw,Da Mikele by Luzzo's,275 Church St,40.718477,-74.004802,341,4,10013
+Italy Cuisine,l7OsDvMOO3ji3fg0nT0QzA,Tony's Di Napoli,1081 3rd Ave,40.76435,-73.96408,639,4,10065
+Italy Cuisine,Aazjxg21VH2cncWYBAv68Q,Sottocasa Pizzeria,298 Atlantic Ave,40.688285,-73.989006,607,4.5,11201
+Italy Cuisine,xzN2k19JXDYjOWAhNw62aw,Adoro Lei,287 Hudson St,40.725612,-74.007916,276,4.5,10013
+Italy Cuisine,cnMNL1O_dVtCdTyQwwOwOQ,Bistango,415 3rd Ave,40.7425771,-73.9800892,684,4,10016
+Italy Cuisine,H_KyiRhwho8rdlw_R93_0Q,Marea,240 Central Park S,40.7674213694566,-73.9810554368179,1972,4,10019
+Italy Cuisine,TZto7AjdA337XIw66AOpUw,Scalinatella Restaurant,201 E 61st St,40.7627823203802,-73.9654829353094,260,4,10065
+Italy Cuisine,1mp7uP6Kz_Zz4UClVfnjFQ,Testo,141 Leonard St,40.708324,-73.946988,183,4.5,11206
+Italy Cuisine,Sp-vnk-waTvKblG_88M4TA,Trapizzino,144 Orchard St,40.72043,-73.98894,209,4.5,10002
+Italy Cuisine,LXdblKc5g1Dp17xiV-Am1w,Trattoria Dell'Arte,900 7th Ave,40.765295646702,-73.98046281606,970,4,10019
+Italy Cuisine,kIm0oeOaVfC9-2flLPVklA,Patrizia's Pizza and Pasta,462-466 2nd Ave,40.7398415,-73.9792862,545,4,10016
+Italy Cuisine,J0OeDwmh5JBhid0A5GvltA,Il Corallo Trattoria,176 Prince St,40.7262073,-74.0018919,923,4,10012
+Italy Cuisine,ezu7Ai6ADfHDYCklvuipWA,Arturo's,1617 York Ave,40.775478,-73.947847,65,4,10028
+Italy Cuisine,XfOa_KyrV7JSFJMOKckGMg,Monte's Trattoria,97 Macdougal St,40.72959,-74.0011,340,4,10012
+Italy Cuisine,nTCFXqiQPTvDfnAxHfA64A,Trattoria Tra di Noi,622 East 187th St,40.85493,-73.8869,132,4,10458
+Italy Cuisine,b42PcC1nCP602fiXF0a9Xg,Barbalu Restaurant,225-227 Front St,40.7074747,-74.0020404,278,4,10038
+Italy Cuisine,MH08_pIRKsUSwfkVYxUE7w,VINATERÍA,2211 Frederick Douglass Blvd,40.8064392068585,-73.9540110111145,423,4,10026
+Italy Cuisine,FKzpfWUpyupl4q74Jt8fTA,Don Antonio,309 W 50th St,40.762711,-73.986708,1381,4,10019
+Italy Cuisine,r2nIYBSyXny1-7XvsL2PVg,Lena's Italian Kitchen,551 2nd Ave,40.742664,-73.977783,132,4,10016
+Italy Cuisine,jku9Fg8JsUbv_LQzg6PK4g,Lavagna,545 E 5th St,40.72406,-73.98226,371,4,10009
+Italy Cuisine,gqTikTCIS01E2m20PzHoDQ,Tarallucci e Vino - East Village,163 1st Ave,40.72896,-73.98454,273,4,10003
+Italy Cuisine,cBmZRsZmUfBg6eMPPM6ypA,Zagara Ristorante Italiano,216 7th Ave,40.743835,-73.996088,193,4,10011
+Italy Cuisine,rJJiGJx3kfMAxtD7P7okHQ,Celeste,502 Amsterdam Ave,40.78666,-73.97599,883,3.5,10024
+Italy Cuisine,rZ9OFoSqy8u4WECfh--ylg,Marta,29 E 29th St,40.7445212750732,-73.9845828515206,848,4,10016
+Italy Cuisine,WdrPI3wo7wOD2ad2cSjPeQ,Denino's Greenwich Village,93 Macdougal St,40.7294,-74.00111,183,4,10012
+Italy Cuisine,V-FCEicobl5Su-R7EVJQNA,La Lanterna Di Vittorio,129 MacDougal St,40.73069,-74.00015,1430,4,10012
+Italy Cuisine,VtJd1l64kqUUyWacwK0J2Q,Veniero's,342 E 11th St,40.72941,-73.98454,1987,4,10003
+Italy Cuisine,_V7YsDQ4Lb41rqfkuPzm1w,Trattoria Pesce Pasta,262 Bleecker St,40.73115,-74.00319,229,4,10014
+Italy Cuisine,A2DV-AQIXRYUMu5Ak5mjxg,Patzeria Family & Friends,311 W 48th St,40.7615,-73.98754,1022,4.5,10036
+Italy Cuisine,CygcAgexrpJGY8iWp7QqnA,Antonucci Cafe,170 E 81st St,40.77574,-73.95689,132,4,10028
+Italy Cuisine,vTn3ww550Rnhz9naIxtjww,Brunetti Pizza,626 Hudson St,40.73829,-74.0054,278,4,10014
+Italy Cuisine,f_1BjTChf6bobreSRpqhsw,Arco Cafe,886 Amsterdam Ave,40.7988462,-73.967065,254,4.5,10025
+Italy Cuisine,32VbG_XgkZIuye0PV-BxaA,Zero Otto Nove,15 W 21st St,40.7407551035259,-73.9914887388588,472,4,10010
+Italy Cuisine,nBy8KtcUHktPFKw-VClG1A,La Pecora Bianca,950 2nd Ave,40.75495,-73.9682718,177,3.5,10022
+Italy Cuisine,ujbH5MZQzC2SSuRF3XvNfQ,Mi Garba,129 4th Ave,40.733253210783,-73.9898487925529,146,4,10003
+Italy Cuisine,a4WZUTKn90dOkeY38JHNjQ,Aurora,70 Grand St,40.715621,-73.964757,580,4,11249
+Italy Cuisine,_KIjhnsaui-wF9OePRZ5NA,Gottino,52 Greenwich Ave,40.7358,-74.00036,288,4,10011
+Italy Cuisine,d7Asc4q2ImoPlA_BhfroTQ,Keste,271 Bleecker St,40.73154,-74.00293,1378,4,10014
+Italy Cuisine,HUY6yj38FXqAQvWUdgL0xA,Sirenetta,568 Amsterdam Ave,40.78881,-73.97459,281,4,10024
+Italy Cuisine,dh5r9-SbN8xJ76XvnayWLQ,Giano Restaurant,126 E 7th St,40.7262256596862,-73.9840574049125,565,4.5,10009
+Italy Cuisine,mwDGX4OH3smoducpde2Elw,Quartino Bottega Organica,11 Bleecker St,40.7255491,-73.9929031,198,3.5,10012
+Italy Cuisine,-KrQ1gOiyXCbffsWyc5SNQ,The Leopard at des Artistes,1 W 67th St,40.773515,-73.978841,209,4,10023
+Italy Cuisine,xeC9vn3dxVVzAMR_aFwfXg,IL Brigante,214 Front St,40.707492,-74.002571,376,4,10038
+Italy Cuisine,qTHBQdWfw1RSCjQwoUcLiw,Lucciola,621 Amsterdam Ave,40.79039,-73.97251,91,3.5,10024
+Italy Cuisine,WIhm0W9197f_rRtDziq5qQ,Lombardi's Pizza,32 Spring St,40.7215934960083,-73.9955956044561,5977,4,10012
+Italy Cuisine,WyyJAcQwfOxKPLgIYetSKA,Caffe Buon Gusto,132 Montague St,40.6945304,-73.9940702,184,3.5,11201
+Italy Cuisine,Gun7lX-5SYRWzJsNsu-U6g,Sant Ambroeus,265 Lafayette St,40.7234184,-73.9965676,146,3.5,10012
+Italy Cuisine,pTWFuMYed409y99N0zY05Q,Barbaresco Restaurant,843 Lexington Ave,40.76539,-73.96556,86,4,10065
+Italy Cuisine,Jwb556DrGTEZryeV7XgZmQ,Bar Primi,325 Bowery,40.725639,-73.991714,591,3.5,10003
+Italy Cuisine,wLzJbddDixAEZrF7VT6_hw,Bono Trattoria,3658 Broadway,40.8301996389829,-73.9473449424522,287,4,10031
+Italy Cuisine,Tp3MF3DNXuW41A10PQ2nFw,Amali,115 E 60th St,40.7633557384716,-73.9686296877489,370,4,10022
+Italy Cuisine,DtnlLLvcqeEUIyZTypHnzw,Il Mulino New York - Downtown,86 W 3rd St,40.729807,-73.999159,534,4,10012
+Italy Cuisine,YT5Ywu9y190B4IGIlBetzA,Morandi,211 Waverly Pl,40.73534,-74.00151,662,3.5,10014
+Italy Cuisine,raqwXUBlnc0e8c7CYmxEJQ,Scarpetta,88 Madison Ave,40.744509,-73.9856,1856,4,10016
+Italy Cuisine,53ZNJNrT91VgvrI0LFjLNQ,Locanda Vini e Olii,129 Gates Ave,40.685007,-73.962943,299,4,11238
+Italy Cuisine,f8ipr8Wdy1_wHhw7JgNqPQ,Da Claudio,21 Ann St,40.71087,-74.00753,432,4.5,10038
+Italy Cuisine,25npnVAlhRjguunYS8zy8w,Piccola Strada,77 E 4th St,40.72662,-73.99019,176,4.5,10003
+Italy Cuisine,_H52GDibhYc9bs8j1o-1_w,Leonelli Taberna,7 E 27th St,40.74398,-73.98698,41,3.5,10016
+Italy Cuisine,J9xVQScnr0lYWl61_mLXMA,Lido,2168 Frederick Douglass Blvd,40.8049797781916,-73.9548260014624,945,4,10026
+Italy Cuisine,d15lwNLOlLSeaAYqPadntw,Sam's Place,132 E 39th St,40.749270880468,-73.977082744053,232,4,10016
+Italy Cuisine,_N92SH1Zi-Hbxn_bNHFz0Q,Noodle Pudding,38 Henry St,40.69979,-73.99203,553,4,11201
+Italy Cuisine,pxtno4adrYTjyQsxngTj9A,dell'anima,600 11th Ave,40.76234,-73.99695,626,4,10036
+Italy Cuisine,lPRb9ksOEzT3ruBFXebKaw,Leonti,103 W 77th St,40.78084,-73.97669,56,4,10025
+Italy Cuisine,yFtOtTd7ncSjFF3QavQ5cA,Crispo,240 W 14th St,40.7392469,-74.0016882,937,4,10011
+Italy Cuisine,N-rwVhnEtXg8yY_TlB_KZw,Del Posto,85 10th Ave,40.7434155953035,-74.007533013261,1404,4,10011
+Italy Cuisine,aSprnLY-6GkMk1cuv0TMeA,Al Di La Trattoria,248 5th Ave,40.675332643247,-73.981340475038,877,4,11215
+Italy Cuisine,-VvrQWfbkQWeuGC4L0KcfQ,il Buco Alimentari & Vineria,53 Great Jones St,40.7264539,-73.992549,529,3.5,10012
+Italy Cuisine,pk89jzL1RsE9U0thf_z6tw,Locanda Verde,377 Greenwich St,40.7198601300801,-74.010039072422,1577,4,10013
+Italy Cuisine,GqTgQEqwf3k5JyE7DHDhjw,Numero 28 Pizzeria Napoletana,176 2nd Ave,40.73041,-73.98595,519,4,10003
+Italy Cuisine,3D6UAhoKnF3A03rX_v5ngA,Bacaro,136 Division St,40.71456,-73.99154,377,4,10002
+Italy Cuisine,zTK8reqKrmV7U71YVHYYjg,Armani Ristorante,717 5th Ave,40.7618463161798,-73.9742299834671,224,4,10022
+Italy Cuisine,HV8xairb2qct7wSHqNwqXw,Levante,26-21 Jackson Ave,40.74764,-73.94173,193,4,11101
+Italy Cuisine,k1zrPPGGMQdlHopP3MnxrQ,Storico,170 Ctr Park W,40.779469,-73.973975,199,4,10024
+Italy Cuisine,3n96VKiKG5Tte8z-U-TaLg,SoleLuna Restaurant,40-01 Queens Blvd,40.7439934462309,-73.9240421354771,371,4.5,11104
+Italy Cuisine,562aZEpTDdYKDe5hWuDyFA,La Gioconda,226 E 53rd St,40.7570686,-73.9684186,155,4,10022
+Italy Cuisine,pIrSHmLYW6Bdjiz-HHWd1Q,Bettolona,3143 Broadway,40.8141032,-73.9597766,290,4,10027
+Italy Cuisine,KogxM0x2p9auUyU4h4CAqQ,Cremini's,521 Court St,40.674968,-73.999242,5,5,11231
+Italy Cuisine,CFR-HzVHKWRMpMAR3LAhzg,Montesacro Pinseria Brooklyn,432 Union Ave,40.71338,-73.95136,28,4.5,11211
+Italy Cuisine,ifIfq2EwEohCgoKnG68_LA,Villa Berulia,107 E 34th St,40.7467827,-73.9806507,152,4,10016
+Italy Cuisine,PQd4M3cuSgdweWgLgZIslQ,Inatteso Pizzabar Casano,28 West St,40.7056571,-74.0172056,309,4,10004
+Italy Cuisine,fmdEiai0e4agyTEqFUWJmw,Amarone NY,686 9th Ave,40.7617199,-73.99002,305,4,10036
+Italy Cuisine,cRUuiiEW7F0uqtgSG-sKCg,Mama Maria's Restaurant,307 Court St,40.68356,-73.99517,117,4,11231
+Italy Cuisine,gqFM-JsHftTRplYbPF64Kg,Ecco,124 Chambers St,40.715129,-74.008865,136,4,10007
+Italy Cuisine,WHQpLvxkCK_BMtF8pIShnQ,Carroll Place,157 Bleecker St,40.7287,-73.99971,1007,4,10012
+Italy Cuisine,geNwD4ySIwA732eK2CvDZw,B Squared,679 9th Ave,40.7615509,-73.9906616,406,4.5,10036
+Italy Cuisine,TWH4MjLtN1fKlF-7n6YXHg,Lil' Frankie's,19 1st Ave,40.723625,-73.988555,1048,4,10003
+Italy Cuisine,QxthR7-GAbqj1cLocOD6Nw,Pizza Secret,72 5th Ave,40.6808,-73.97764,94,4.5,11217
+Italy Cuisine,hpRrYBbKUqv8ewFKDjbjoA,Gersi,316 Court St,40.683438,-73.995711,232,4.5,11231
+Italy Cuisine,ESpIimUxHNF1fFuGBdVwCg,La Pizza & La Pasta,200 5th Ave,40.742344,-73.989952,356,3.5,10010
+Italy Cuisine,IEb99GmOvg585gmwmm4iNA,Azalea Ristorante,224 W 51st St,40.7621418,-73.9841952,264,4,10019
+Italy Cuisine,FpgzHQMSNTTjagrKXxOw5A,San Matteo Pizzeria e Cucina,1559 2nd Ave,40.7746799,-73.95443,263,3.5,10028
+Italy Cuisine,0laCKZiHrdM_ZKdhTFbGgg,Sauce & Barrel,97 Washington St,40.707999,-74.0142651,364,4,10006
+Italy Cuisine,NBgDoMiF4tj5aS7V7zayoA,Antica Ristorante,370 Canal St,40.7206611633301,-74.0043869018555,46,3.5,10013
+Italy Cuisine,JSexQM-wn8HvWmfxu_m5ZA,Gnocco,337 E 10th St,40.72713,-73.9802799,446,4,10009
+Italy Cuisine,bEXTA_Gwo2oVg4gnFd9fNA,Ai Fiori,400 5th Ave,40.7500752,-73.9837835,1223,4,10018
+Italy Cuisine,b6Tpm0PsDqLYZFUuqNte-g,River Deli,32 Joralemon St,40.69368,-73.99858,184,3.5,11201
+Italy Cuisine,tRIHhPKryUZ56SfIz6mLiA,Angelo's Coal Oven Pizzeria,117 W 57th St,40.76492,-73.97794,831,4,10019
+Italy Cuisine,dWc0ijADaD6ZdclJ5LqQdg,Paola's Restaurant,1295 Madison Ave,40.7846546580287,-73.9558692276478,175,3.5,10128
+Italy Cuisine,yc4vsT-Q4Ej1_9hr94DxkQ,Sotto 13,140 W 13th St,40.7372,-73.99919,853,4,10011
+Italy Cuisine,m4MPLIv-WsGdcB7GReE06Q,Quattro Gatti Restaurant,205 E 81st St,40.77552,-73.95587,82,4,10028
+Italy Cuisine,3P8hb1ZOCA8IjEGfqpSpxg,Sfoglia Restaurant,1402 Lexington Ave,40.783535,-73.952719,271,4,10128
+Italy Cuisine,cyLw0vW5MrsF35-A6Dy03w,Saggio,829 W 181st St,40.8514099281625,-73.9395604556239,589,4,10033
+Italy Cuisine,1ZKbUeFAs0ltSnAYq4ELKw,Trattoria L'incontro,21-76 31st St,40.7763330374196,-73.9105868339539,898,4.5,11105
+Italy Cuisine,pK-TQMe7SE_erplC9EWjUA,Bella Gioia,209 4th Ave,40.6775302,-73.9827215,200,4.5,11217
+Italy Cuisine,o7ebhiCJTSsp43ynRDB1qA,Cipriani Downtown,376 W Broadway,40.723567,-74.003003,290,3.5,10012
+Italy Cuisine,0axnkZlDiQcJVc06DDXxGQ,Ristorante Il Melograno,501 W 51st St,40.7654289685161,-73.9914178848267,296,4,10019
+Italy Cuisine,5DoCTugT9AF-P3VspApsyQ,Aita Trattoria,798A Franklin Ave,40.6712095108944,-73.9579255586597,168,4,11238
+Italy Cuisine,73HeiHqXlj8bF1GXXBrn1g,Dia,58 2nd Ave,40.72572,-73.98955,71,4.5,10003
+Italy Cuisine,pL2tig3FxJcrZ4wDIO4TsA,Eataly NYC Downtown,101 Liberty St,40.709716,-74.011714,899,3.5,10006
+Italy Cuisine,GVF4kvXupD18afjpLiPLHA,Marco Polo Ristorante,345 Court St,40.6821975708008,-73.9956817626953,127,3.5,11231
+Italy Cuisine,Tias1_QRB5L-gzoSNNhOMA,Petrarca Cucina E Vino,34 White St,40.7189,-74.00458,160,3.5,10013
+Italy Cuisine,06tnwnEQM2j9A6dC3HC_TQ,Capizzi,547 9th Ave,40.75744,-73.99357,783,4.5,10018
+Italy Cuisine,vAMKgIUWCrYxjfhceCCNAQ,Sandro's,306 E 81st St,40.7742854,-73.9537163,71,4,10028
+Italy Cuisine,ufntl2yxDlAzPJ6G73eAcQ,Regional Restaurant,2607 Broadway,40.79625,-73.97094,379,3,10025
+Italy Cuisine,k5fd-RSdG4IuXnnGSQ5oOw,San Marzano Pasta Fresca,117 Second Ave,40.727989,-73.98845,1098,4,10003
+Italy Cuisine,vjj3MMPkULJUCv8xf3XRiA,San Matteo Takeaway,1731 2nd Ave,40.7801684,-73.9502899,140,4,10128
+Italy Cuisine,MA1QPFSYddVq_KzEldpcRg,Aria Wine Bar,117 Perry St,40.73512,-74.00671,657,3.5,10014
+Italy Cuisine,aLM9irVFlNoVlS9dGuW_Lg,Amata,209 E 56th St,40.759426,-73.967063,79,4.5,10022
+Italy Cuisine,cDUait5j29Pe0QynQ3JtYQ,Gradisca,126 W 13th St,40.73709,-73.99863,366,4,10011
+Italy Cuisine,mkS--Oq4UYJMQizSaKJXEw,Enzos of Arthur Avenue,2339 Arthur Ave,40.8543499,-73.8887699,230,3.5,10458
+Italy Cuisine,QObHX0yR6zd0WfksRDbJTA,Becco,355 W 46th St,40.76083,-73.98981,2787,3.5,10036
+Italy Cuisine,eMSTTuOUlKEnSOr8lPp3Xg,Ammazzacaffè,702 Grand St,40.7113172,-73.9446243,142,4.5,11211
+Italy Cuisine,e-XgOOm0X4Lk-gAX45Bj1Q,Baciccia Pizza e Cucina,426A 7th Ave,40.66377,-73.98437,97,4.5,11215
+Italy Cuisine,BgGz5IdV53bGb4o7opR5zg,Arturo's,106 W Houston St,40.7273563342024,-74.0004944801331,657,4,10012
+Italy Cuisine,tCFhIU4xSN6b7dbg3ApafQ,Tiella,1109 1st Ave,40.7606782444803,-73.9612435559085,184,4,10065
+Italy Cuisine,h9rymMeMUMOxQ9d93U0YDg,Baker & Co,259 Bleecker St,40.7313423,-74.0028996,605,4,10014
+Italy Cuisine,y5b85IZGLxNdksDBFm1GBw,Gene's Restaurant,73 W 11th St,40.735408782959,-73.9977264404297,81,4,10011
+Italy Cuisine,EHINHIbLklEUShuANKjGgw,Tomiño Taberna Gallega,192 Grand St,40.7192978908919,-73.9969160361937,214,4.5,10013
+Italy Cuisine,yREKlCvSuaxcRSVRsCIDUQ,Acqua Santa,556 Driggs Ave,40.71701,-73.95663,257,3.5,11211
+Italy Cuisine,ZfyfGGtr7usMlsQP1LdU2g,Ornella Trattoria Italiana,29-17 23rd Ave,40.7748162,-73.9132582,860,4,11105
+Italy Cuisine,uPe0efNw-uwPybeqccZ1zQ,Osteria Al Doge,142 W 44th St,40.75662,-73.9849,455,4,10036
+Italy Cuisine,EYSIZX7b6Sp6TNc_KNvn7Q,Speedy Romeo,63 Clinton St,40.71951,-73.98514,285,4,10002
+Italy Cuisine,r_fUOUhz-pHZxFDV1hzy0w,Peasant,194 Elizabeth St,40.72171,-73.99428,676,3.5,10012
+Italy Cuisine,MoyxzhaYIsJx-p9IuGGK4w,Stella 34 Trattoria,151 W 34th St,40.7503815541938,-73.9883,651,3.5,10001
+Italy Cuisine,J0c8ZtHPf08TMVeojPkNkQ,Verde On Smith,216 Smith St,40.684437,-73.992234,485,4,11201
+Italy Cuisine,iXV4FMZPru7BB_nwN_8mVw,Maiella,4610 Center Blvd,40.7470416595732,-73.956579002435,830,4,11109
+Italy Cuisine,zj8Lq1T8KIC5zwFief15jg,Prince Street Pizza,27 Prince St,40.7229087705545,-73.9944863319397,3149,4.5,10012
+Italy Cuisine,qrcu1K6f8WGMODdq_A8unw,Volare Restaurant,147 W 4th St Frnt,40.7315434396639,-74.0006124973297,132,4.5,10012
+Italy Cuisine,HJwXGxmXdB1X3gfCZMujjg,Broccolino,446 Dean St,40.6819311529398,-73.9762727916241,255,3.5,11217
+Italy Cuisine,O5Cm2yU32-Epf4HKEFAJEQ,Il Postino,337 East 49th St,40.75373,-73.96749,113,3.5,10017
+Italy Cuisine,ETgJqJHV7BW6pIr9Ox74sA,Amélie,22 W 8th St,40.7327,-73.99766,2578,4.5,10011
+Italy Cuisine,o2SAcKbfOMkA71xUfyee6Q,Rossini's,108 E 38th St,40.74921,-73.97883,189,4,10016
+Italy Cuisine,i5cdbiw1KRyg4w0X44ZBwA,Mezzaluna,1295 3rd Ave,40.771125,-73.959251,141,3.5,10021
+Italy Cuisine,AV9x0hUE0yQUMjUGQNPexQ,Lamarca Cheese Shop,161 E 22nd St,40.73841,-73.9839499,123,4.5,10010
+Italy Cuisine,P2CTp4xyaNCe2AXSiLeOSQ,The Odeon,145 W Broadway,40.71692,-74.00792,617,4,10013
+Italy Cuisine,-tQ9Zlb5d9PPlDz_6UgV7w,Antica Pesa,115 Berry St,40.71884,-73.95865,366,3.5,11249
+Italy Cuisine,E1RvMNZ4re4TnKarjx14Zw,Cacio E Pepe,182 2nd Ave,40.7307352,-73.9862681,494,3.5,10003
+Italy Cuisine,Fu7J2Fwoj_S6Jpg9dULzKg,Pepe Rosso To Go,149 Sullivan St,40.72723,-74.00163,357,4,10012
+Italy Cuisine,dMrF98GlFYIPKYY5NVZHbw,Gemma,335 Bowery,40.72609,-73.99166,646,3.5,10003
+Italy Cuisine,Irw7QQBsndbB2ATXeB4pYA,Da Tommaso,903 8th Ave,40.7646068,-73.9845812,178,3.5,10019
+Italy Cuisine,JliAIBARXi9uISzNG26DVw,Elio's,1621 2nd Ave,40.7767632368091,-73.9526632086427,226,3.5,10028
+Italy Cuisine,4j_n7nPaZrp6_lEInZaA8Q,Aita,132 Greene Ave,40.686412,-73.966629,249,4,11238
+Italy Cuisine,hV26aNvpfq5g34SI6_gvJA,Mama Rao Cucina Italiana,6408 11th Ave,40.6291809,-74.0057526,194,4.5,11219
+Italy Cuisine,5EQOEAkH2Qh3Rv1TcnE7yA,Fiaschetteria Pistoia,114 Christopher St,40.73316,-74.00537,31,4.5,10014
+Italy Cuisine,3uyBZNbDk2vRFBBWZOdIUA,Dominick's Restaurant,2335 Arthur Ave,40.85434,-73.889,330,4,10458
+Italy Cuisine,4K0doiBddco60kl0W04a3Q,Il Forno Hell's Kitchen,709  8th Ave,40.7591217147251,-73.988647715231,231,3.5,10036
+Italy Cuisine,3o0W7asUgP7EEKn8iFWFyA,Casa Nonna,310 W 38th St,40.75496,-73.99247,515,4,10018
+Italy Cuisine,y_tRUBOu3qg7lkaO2Xk1hQ,Frost Restaurant,193 Frost St,40.7183867,-73.9434906,154,4,11211
+Italy Cuisine,fH8DkdRerw5LJ7fZZHRfeA,Leuca,111 N 12th St,40.722121,-73.956678,303,4,11249
+Italy Cuisine,KgxzEspPDlfZ-6_HX70mfg,Ninos Aq,35-01 Ditmars Blvd,40.774944,-73.908585,121,4,11105
+Italy Cuisine,v1M1HIQBVwYatEF_iOmedw,ViceVersa,325 W 51st St,40.7635858415079,-73.9866799425418,247,4,10019
+Italy Cuisine,WNOUPEZ6J8SZVSaK6Q3e-A,Porto By Antonio - Wood Burning Pizza & Pasta,8921 Old River Rd,40.8048834508642,-73.9934416639218,628,4.5,07047
+Italy Cuisine,lP4ynyBoeFPywLg78XkMmw,Cibo E Vino,2418 Broadway,40.790206,-73.9749174,304,4,10024
+Italy Cuisine,MyVbXtvst8X7sbR7gUA_ug,Cacio E Vino,80 2nd Ave,40.726384,-73.988873,325,3.5,10003
+Italy Cuisine,TsO4cjFld0Plznpimtn8uw,Anchor Wine Bar,3508 Broadway,40.8253616094589,-73.9510338753462,278,4,10031
+Italy Cuisine,kqewBLuQDB3euc-s_mRf4A,Otto Enoteca Pizzeria,One Fifth Avenue At 8th St,40.7320605431463,-73.996197909787,2098,3.5,10003
+Italy Cuisine,rJfGgBleDYCVq2rkBr_w-Q,Barano,26 Broadway,40.710372,-73.96794,230,4.5,11249
+Italy Cuisine,lDhlNQHgzyxgi3By7Ko2LA,Fiore,284 Grand St,40.71293,-73.95787,414,4,11211
+Italy Cuisine,gjZpcE-X4zQOEqWQPelLgg,Max,134 W Broadway,40.71688,-74.00835,432,3.5,10013
+Italy Cuisine,GAvyDral555vltKrupUcjw,Osteria Laguna,209 E 42nd St,40.750647,-73.9737998,321,3.5,10017
+Italy Cuisine,ZMFj1vCfQWdSAtwyjqRUlw,Felidia,243 E 58th St,40.76036,-73.96512,542,4,10022
+Italy Cuisine,CfFjKWynWAFLO9mUTxe4Zg,Gaetana's,143 Christopher St,40.732952570801,-74.007623322014,279,3.5,10014
+Italy Cuisine,zww7OtudkcE921UT2ThOSg,Camillo,1146 Nostrand Ave,40.6596,-73.95081,118,4,11225
+Italy Cuisine,vEYEs9McRtRdKBp2XfRNZA,Finestra Restaurant,1370 York Ave,40.76751,-73.95288,82,4,10021
+Italy Cuisine,xKIv_b2L2pUHmsoJ-xOepg,Gran Morsi,22 Warren St,40.7142052394856,-74.0077535494539,334,4.5,10007
+Italy Cuisine,cUNFGQB2I3GI_vqy2OBW3Q,Lattanzi Restaurant,361 W 46th St,40.7607901227454,-73.9901704731246,250,3.5,10036
+Italy Cuisine,6aVgixwks8EgirE1JtyDAQ,John's of 12th Street,302 E 12th St,40.730685,-73.985502,661,4,10003
+Italy Cuisine,mOoZZa6WIsgihc_TqyQcXw,Tarallucci E Vino -Union Square,15 E 18th St,40.7381367771909,-73.9907283558044,359,3.5,10003
+Italy Cuisine,7S8g0G_Ndc3DS-kqsozq8Q,83 1/2,345 E 83rd St,40.775354,-73.951216,160,4,10028
+Italy Cuisine,nSk_zCJESMKGLHyJTPPlZA,Bottino,246 10th Ave,40.74845,-74.00321,278,3.5,10001
+Italy Cuisine,vZ5-JXlJS75k8wmPNS5U5w,Max Soha,1274 Amsterdam Ave,40.811302,-73.958183,405,4,10027
+Italy Cuisine,FhXjAc6nKLf414KxYujUHw,Roberta's,261 Moore St,40.705043534338,-73.93357123374,2737,4,11206
+Italy Cuisine,J9r0qorwR0tKOhrCcl1VGQ,Piccolo Cafe,274 W 40th St,40.7557818,-73.9904619,231,4,10018
+Italy Cuisine,3qIISjUYn1tbqHXi7nCLXg,Sofia Wine Bar,242 E 50th St,40.75502,-73.96913,632,4,10022
+Italy Cuisine,LdWyeeV8DuYINKVTghFwrg,Canaletto,208 E 60th St,40.76174,-73.96569,62,4,10022
+Italy Cuisine,EZNw56hywTm1PJNYOMbfHQ,Morso,420 E 59th St,40.759032,-73.960801,124,3.5,10022
+Italy Cuisine,0SakkRuHhECsDsZ8mRkisQ,IL Triangolo Restaurant,96-01 Corona Ave,40.742591,-73.86736,439,4.5,11368
+Italy Cuisine,Kh0-HmlgmVUkRxR55_Vn1g,Patsy's Pizzeria,2287 1st Ave,40.797157,-73.93488,817,4,10035
+Italy Cuisine,ft2OPgLsquG9d7XrBLULng,Alidoro,18 E 39th St,40.75097,-73.98108,199,4,10016
+Italy Cuisine,TsYrzVVtkKO4Asrk_L9stw,Parm,235 Columbus Ave,40.7764333,-73.9794019,517,3.5,10023
+Italy Cuisine,r6K5RBfhlNbr-g7g3u13KA,L'angolo Trattoria Italiana,696 Anderson Ave,40.8283599182,-73.9863337576389,67,4.5,07010
+Italy Cuisine,ZhjRaJkfCIVopvamUzrEsA,San Gennaro Trattoria Restaurant Bar,2329 Arthur Ave,40.8540465225016,-73.8889484480023,150,4,10458
+Italy Cuisine,eODPY5rejL6CYvN4DEqwrg,Nostro Ristorante,710 5th Ave,40.660738,-73.994285,235,4.5,11215
+Italy Cuisine,lmuX1DybRvpt9LDMHUuKAA,Carrabba's Italian Grill,475 Harmon Meadow Blvd,40.7893563992299,-74.0440932732089,189,3,07094
+Italy Cuisine,UJe9_p6NEl0kA6xHVo5PKw,Amelie,566 Amsterdam Ave,40.78875,-73.97464,162,4.5,10024
+Italy Cuisine,nw85LVh6H3JIiw3ugvhAmw,Lasagna Chelsea Restaurant,196 8th Ave,40.7432418,-73.9996916,491,3.5,10011
+Italy Cuisine,eTneVbjPKdo4gD9HfkDGdA,Santa Panza,1079 Broadway,40.6947,-73.93068,144,4.5,11221
+Italy Cuisine,Ry9w-jFALWYhazi6jjyIKw,Rucola,190 Dean St,40.68562,-73.98587,476,4,11217
+Italy Cuisine,ZlwjT-jygnYqM5qDE0CuLQ,Gigino Trattoria,323 Greenwich St,40.71726,-74.01055,251,3.5,10013
+Italy Cuisine,XcfZqLrXdABSZLViQ34VTw,Chelsea Ristorante,108 8th Ave,40.7405719,-74.0017238,167,3.5,10011
+Italy Cuisine,nTt5cLJVcmBdM640izladw,Carmentas Italian Specialties,50 Starr St,40.70114,-73.92677,69,4.5,11221
+Italy Cuisine,kVrTff8uDMSBAaceBwQ7dg,Saluggi's,325 Church St,40.720104,-74.003578,549,4,10013
+Italy Cuisine,JYE16G0z-wo1MTyYchhVCA,Manzo Ristorante,200 5th Ave,40.7423476668244,-73.9898968277084,317,3.5,10010
+Italy Cuisine,abZ-mEvF6Tj4hfyIg0lKwQ,Vite Vinosteria,31-05 34th St,40.7629734277725,-73.92119564116,559,4.5,11106
+Italy Cuisine,DF7PV0DE9z0LM4ae6XYeYg,Harry's Italian,2 Gold St,40.707555318913,-74.006898168681,564,3.5,10038
+Italy Cuisine,889z8wsV9R1X2CAp63wrsw,Casa Apicii,62 W 9th St,40.7339,-73.99867,134,4,10011
+Italy Cuisine,O6RBNHBleB0mCb2dAanxCw,Casa Lever,390 Park Ave,40.7594607514825,-73.9730327307214,211,3.5,10022
+Italy Cuisine,1u_vkRFPuT8Aeh7Zk3bKyw,Galata Mediterranean Cuisine,212 E 34th St,40.74531,-73.97753,329,4.5,10016
+Italy Cuisine,X8Hl9OezX-Yr9Jir3fsF7g,Posto,310 2nd Ave,40.73483,-73.98282,589,4,10003
+Italy Cuisine,76y4aMBY0lT6zfJLy2EH-Q,Le Zie,172 7th Ave,40.74246,-73.9970699,304,3.5,10011
+Italy Cuisine,gTEoEsssfbjl76Opf5bP9g,L'Amico NYC,849 6th Ave,40.747174,-73.989956,412,3.5,10001
+Italy Cuisine,LRgB2kEKtBxqIxNksTO_PQ,Patrizia's - Williamsburg,35 Broadway,40.71084,-73.96735,607,4,11249
+Italy Cuisine,JrJRfpGicISz_Gt9LkPMvw,Belli Osteria,860 Fulton St,40.6835199838354,-73.9669024162476,236,4,11238
+Italy Cuisine,ieoPAi6nbdEkrwv4vGVSwg,Via Trenta Osteria & Wine Bar,3619 30th Ave,40.7648771022913,-73.9165434257602,433,4,11103
+Italy Cuisine,ywP0OEqRC6sp4NK1-QhW-g,Parm,Brookfield Pl,40.7144510120714,-74.0161083107869,360,3,10080
+Italy Cuisine,Ty1MvJz88DeNmX0eDHeMyQ,Pietro's,232 E 43rd St,40.7506055,-73.9721964,106,4,10017
+Italy Cuisine,Cnqy9w1BFXZFEaChfox0ow,Rosemary's,18 Greenwich Ave,40.7347241,-73.9997973,921,3.5,10011
+Italy Cuisine,Vm6_cXz8hbvZhot0m1aaRg,Italianissimo Ristorante,307 E 84th St,40.7764,-73.95205,113,4,10028
+Italy Cuisine,nHMDOIX32dGbfpuNUwsLNQ,AlMar,111 Front St,40.702662,-73.989177,416,4,11201
+Italy Cuisine,C8Ctyq7pXOPESK8cz_X2CA,Pomodoro Rosso,229 Columbus Ave,40.776317,-73.979187,297,3.5,10023
+Italy Cuisine,rupPZLhd0oRSAmVDaeYaGA,Bocca di Bacco Hell's Kitchen,828 9th Ave,40.7662168,-73.9867943,635,3.5,10019
+Italy Cuisine,F2YbqhVr6hBsFrDCyr6M_w,The Meatball Shop,200 9th Ave,40.7459138,-74.0015369,854,4,10011
+Italy Cuisine,foRWizWrQ32g6Vv4g9UTnA,Nocciola Ristorante,237 E 116th St,40.7973406168505,-73.9382923766971,209,4,10029
+Italy Cuisine,rbIrit8gZwfyEOdEOeX7jg,Orso,322 W 46th St,40.759994,-73.989025,178,4,10036
+Italy Cuisine,LSOpxBBa217HxnJ7VnY2WQ,Il Violino,180 Columbus Ave,40.77506,-73.98087,249,3.5,10023
+Italy Cuisine,Gh69oBruvlEieK1FEFkvWg,Queen Italian Restaurant,84 Court St,40.691356,-73.991905,300,4,11201
+Italy Cuisine,E2zKMwHhz4--dyplQ7gf8A,Pappardella,316 Columbus Ave,40.7792833,-73.9776967,571,3.5,10023
+Italy Cuisine,9lDqOfKeEB15AWfsWIq8mA,Mario's Restaurant,2342 Arthur Ave,40.8542,-73.88857,215,3.5,10458
+Italy Cuisine,mYQMjrtHp8vsEKKNsRz1XA,Union Pizza Works,423 Troutman St,40.7073067,-73.922154,235,4,11237
+Italy Cuisine,5pRxCYQppSq0czjFDN9X3Q,Campagnola Restaurant,1382 1st Ave,40.768817,-73.954833,240,4,10021
+Italy Cuisine,l8IORbpTz9EwCmHJ_TRULw,Avere Ristorante,222 Duffield St,40.6915079,-73.9849649,16,4,11201
+Italy Cuisine,77llOAEwInvK-oC2AHZ4nQ,Coppola's East,378 3rd Ave,40.74165,-73.98154,318,3.5,10016
+Italy Cuisine,xRiLLXjeM2wOvVTYJH2__A,Barboncino Pizza & Bar,781 Franklin Ave,40.67206,-73.95717,912,4,11238
+Italy Cuisine,C3UsLxRyuTM7bTKqs-R1qA,Sistina,24 E 81st St,40.7745592557331,-73.9544119255131,91,3.5,10028
+Italy Cuisine,NGzwDLroGL4JvG81BWliNw,Armondo's Italian Restaurant,7316 Northern Blvd,40.7545652,-73.8934414,48,4.5,11372
+Italy Cuisine,-58--bg-KKUNArp18U4llA,da Umberto,107 W 17th St,40.7396659851074,-73.9958267211914,161,4,10011
+Italy Cuisine,81ATGBKh1Ke6EX_L3qHaIQ,Ferdinando's Focacceria,151 Union St,40.6841934772249,-74.0018677711487,181,4,11231
+Italy Cuisine,So6xT7Hl0HDcPqipvGfZdA,Pastai,186 9th Ave,40.7454222076169,-74.0019670059103,191,3.5,10011
+Italy Cuisine,s5nPO911cYB2chdwqSqT9g,La Nonna Ristorante & Bar,184 Kent Ave,40.718468787527,-73.9639185527139,276,4,11249
+Italy Cuisine,skLDCHQcmivdGx5Qd_qBIA,Il Passatore,14 Bushwick Ave,40.71431,-73.94217,364,4,11211
+Italy Cuisine,jzEaiiRa3497HWdf4QKHIA,La Pizza & La Pasta,4 World Trade Ctr,40.7102419339859,-74.0124460392414,115,3,10006
+Italy Cuisine,piH-TNcmjLq2NHE4ZtbrBA,Zucchero E Pomodori,1435 2nd Ave,40.770632,-73.957562,185,3.5,10021
+Italy Cuisine,ffJddI2ICrCz6q_QWrU5VQ,Da Ciro Brooklyn,458 Myrtle Ave,40.6931299,-73.96716,86,4.5,11205
+Italy Cuisine,tJxAlyeT5PRbUIyJ2wsv-A,Bamonte's,32 Withers St,40.716579,-73.951174,327,4,11211
+Italy Cuisine,R86cJxXMiXRyqzlF24esgg,Lexington Pizza Parlour,1590 Lexington Ave,40.789283,-73.9487429,181,4,10029
+Italy Cuisine,hFmz7HH2og9hn7xNNv20yw,Il Porto Ristorante,37 Washington Ave,40.6974427,-73.9675197,308,4,11205
+Italy Cuisine,t-Pm38_XhMnGfOYgkhaNRA,Le Fanfare,1103 Manhattan Ave,40.736202,-73.955558,160,4,11222
+Italy Cuisine,fTNOwKJ9YbxoIShABCKXdA,DeGrezia Ristorante,231 E 50th St,40.755512,-73.969415,98,4,10022
+Italy Cuisine,hdiuRS9sVZSMReZm4oV5SA,Da Andrea,35 W 13th St,40.736218,-73.99597,725,4,10011
+Italy Cuisine,cp7rJwmk0PeVBuGRo4JJfA,Buon'Italia,75 9th Ave,40.7424836394226,-74.0065133965729,153,4,10011
+Italy Cuisine,gvul1x9MMawVzStJpfGoLA,San Pietro Restaurant,18 E 54th St,40.7605,-73.97443,66,3.5,10022
+Italy Cuisine,9DCZ8Ols3w1sfQBoKEq-hw,Vinum Restaurant & Wine Bar,704 Bay St,40.62482,-74.07478,140,4,10304
+Italy Cuisine,v64bMLxutTS2MWIrywBczA,Piccolo Cafe,313 Amsterdam Ave,40.780258,-73.980115,509,3.5,10023
+Italy Cuisine,eAvP3Q0NCpJs9U0X1pEf-A,Caffe E Vino,112 Dekalb Ave,40.68971,-73.97827,309,4,11201
+Italy Cuisine,lgFApPVpbXnsIFw1CRJORw,Cellini Restaurant,65 E 54th St,40.7600530715894,-73.9727372548065,145,4,10022
+Italy Cuisine,5mOzZ17qU_8ijlP54Q206Q,Safari Restaurant NYC,219 W 116th St,40.80381,-73.9535,181,4.5,10026
+Italy Cuisine,IIsJN_ilLI36zGAF3SMCCQ,La Piccola Cucina,964 Amsterdam Ave,40.8015,-73.96534,112,4,10025
+Italy Cuisine,sB8-R8-FYj-kJrSzTlbmgw,Coppola's West,206 W 79th St,40.7831637424309,-73.9789159423279,298,3.5,10024
+Italy Cuisine,jDIVPYpxQAk1HUAi0NIlQw,Pazza Notte,1375 Avenue Of The Americas,40.7635099,-73.978,738,4,10019
+Italy Cuisine,6tASYtO9zOrXr8-LPnAToQ,Zest Szechuan,45 W 39th St,40.75274,-73.98445,550,4,10018
+Italy Cuisine,bf2gElKkOHClspvNWfdHQA,Cuomo And Sons,7709 Broadway,40.79803,-74.00219,175,4.5,07047
+Italy Cuisine,CBsNd6iuSyiSMPw2pOzRHw,Bar Italia Madison,768 Madison Ave,40.76789,-73.96847,117,3.5,10065
+Italy Cuisine,cRfAN-SRlFuaSd-mp-9iiQ,Restivo Ristorante,209 7th Ave,40.7434605855724,-73.9959991865082,113,3.5,10011
+Italy Cuisine,cEWF70xMbOvOhr4CDkroOw,Pronto Pizzeria,45-19 28th Ave,40.76346,-73.90886,138,4,11103
+Italy Cuisine,yH6t1JWcwkdWG4CS5KPvow,Adrienne's Pizzabar,54 Stone St,40.7043362,-74.0101733,1617,4,10004
+Italy Cuisine,1o5dCnbY1Y9de7ZbdsxUsQ,Barbetta,321 W 46th St,40.76031,-73.98889,229,3.5,10036
+Italy Cuisine,ZtApaQ9G-lyOfE-Y80tauw,Lea,1022 Cortelyou Rd,40.63932,-73.96799,309,3.5,11218
+Italy Cuisine,p4TYRKQ82N5Ntb6RPdLPMg,Bruno's Ristorante,158-22A Crossbay Blvd,40.6595993041992,-73.8433990478516,187,4.5,11414
+Italy Cuisine,LfRiA6RORToZUSJUHkZBVA,Frankies 457 Spuntino,457 Court St,40.677328,-73.997972,775,4,11231
+Italy Cuisine,DKLbMLQHvggfIKw2jj6rnA,Felice 83,1593 1st Ave,40.775049,-73.951078,226,3.5,10028
+Italy Cuisine,1DT6XYMzcekpFQ41Hj44vA,Luzzo's BK,145 Atlantic Ave,40.690706,-73.9952269,175,4,11201
+Italy Cuisine,1A3m0-dOhF2PKRU_8S2YYQ,Le Prive,626 10th Ave,40.76108,-73.99419,126,4.5,10036
+Italy Cuisine,QAGFu7pqCAZUJkYkUB5pjg,Urbanspace Vanderbilt,230 Park Ave,40.754623,-73.976605,635,4,10169
+Italy Cuisine,oNJOIxuZlrTYFWwAFMTdkQ,Tre Otto,1410 Madison Ave,40.788425,-73.953643,166,3.5,10029
+Italy Cuisine,HhY7QDRu7EwXTDY4WT1wSA,Birreria,200 5th Ave,40.74197,-73.9895,1381,3,10010
+Italy Cuisine,Jgaf3JmVaPokYB3ezbhjCQ,Caravaggio,23 E 74th St,40.7734565734863,-73.964729309082,85,3.5,10021
+Italy Cuisine,K9kL1ice5jlkPXcNyTus3Q,Pasta Lovers,142 W 49th St,40.76003,-73.98291,315,3.5,10019
+Italy Cuisine,yZx1kHlBHXwEBZLkX0PRhA,Plado Tasting Bar,192 E 2nd St,40.72242,-73.98397,9,4,10009
+Italy Cuisine,hVqZ4vihjL1gFTD-KdX-Tw,Gennaro,665 Amsterdam Ave,40.79178,-73.9718,377,3.5,10025
+Italy Cuisine,8PyKaU-YM0HOAfxWsjcwmg,Cipriani Le Specialita,120 E 42nd St,40.7516113,-73.9767134,117,4,10017
+Italy Cuisine,XlhWNQRGoWyybfXpGBgE3Q,Il Mulino New York - Uptown,37 E 60th St,40.764144,-73.970195,214,3.5,10021
+Italy Cuisine,j6fSechU9HxzbnK-kjQx1Q,San Matteo Pizza and Espresso Bar,1739 2nd Ave,40.7804,-73.95012,486,4,10128
+Italy Cuisine,WDVzL34VpkiYOtknS-NpWQ,Emilia's Restaurant,2331 Arthur Ave,40.85415,-73.88894,167,3.5,10458
+Italy Cuisine,QGRrPt4QwJNxmpM1urPxQA,Two Toms Restaurant,255 3rd Ave,40.6780586242676,-73.9853210449219,70,4,11215
+Italy Cuisine,eJwKlspmfinMrm-aq9KxEQ,Cozymeal Cooking Classes & Food Tours,136 Madison Ave,40.74617,-73.98431,19,5,10016
+Italy Cuisine,0wzQPZvvbUqhD7D8JNkGZw,Ristorante Grifone,244 E 46th St,40.7525199,-73.97092,112,4,10017
+Italy Cuisine,q8wlm_XUjmSsTdTQKt2qbQ,Erminia Italian Restaurant,250 E 83rd St,40.77594,-73.95346,182,4,10028
+Italy Cuisine,hwR54p9AWwrOATd41l351w,Alberto Restaurant,9831 Metropolitan Ave,40.711109161377,-73.8534774780273,194,4,11375
+Italy Cuisine,NBeQAgTo9hlJxgp9xbMO-w,Tufino Pizzeria Napoletana,36-08 Ditmars Blvd,40.773986,-73.908126,360,4,11105
+Italy Cuisine,-Gc5sTFxoXM3Tiv_dkSJZg,Cecconi's Dumbo,55 Water St,40.7033063330116,-73.9916549604523,608,3.5,11201
+Italy Cuisine,gU6_qALmeWysg2YXMzMrtw,Serafina Fabulous Pizza,1022 Madison Ave,40.7762350782493,-73.9623423504256,311,3,10075
+Italy Cuisine,C2o3Iw-DXjoUJFgQIbiqkQ,BoCaphe,222 Lafayette St,40.722046,-73.997557,1298,4,10012
+Italy Cuisine,uy9JPyjgthV64RCJN-EyAw,Harry Cipriani,781 5th Ave,40.76439,-73.97271,168,3,10022
+Italy Cuisine,0frCoaUJ_XWiz1BXiHBcwg,Ceci Italian Cuisine,46 W 46th St,40.7568271422022,-73.9809948205948,270,3.5,10036
+Italy Cuisine,phB6HvQyOUEZmvgg9KzRmA,Da Franco & Tony Ristorante,2815 Middletown Rd,40.843635,-73.836135,84,4.5,10461
+Italy Cuisine,D0LsGudLqLabXbhEPMkw6A,Aumm Aumm Pizzeria & Wine Bar,7701 Broadway,40.79789,-74.00231,328,4.5,07047
+Italy Cuisine,xKZSIBaGkXX7ppIceuhiQQ,Buca di Beppo Italian Restaurant,1540 Broadway,40.757923,-73.985216,394,3.5,10036
+Italy Cuisine,oIpNF3AJwqZlCs9fmpyFOQ,Pasquale Rigoletto Restaurant,2311 Arthur Ave,40.8538,-73.88925,167,3.5,10458
+Italy Cuisine,G-b9kvnRh0pLi4fsdcmwjg,Joseph's Restaurant,3 Hanover Square,40.70499,-74.00961,75,4,10004
+Italy Cuisine,pGr5QuQU7Ur5GHLvXbT8bw,Paulie Gee's,60 Greenpoint Ave,40.729546,-73.958568,1203,4.5,11222
+Italy Cuisine,WEhkGLKlj-5X1pq_07Syaw,Vesta,21-02 30th Ave,40.76961,-73.92776,667,4,11102
+Italy Cuisine,I0i9YzRBQn6MKIUFIHpeBQ,Park Italian Gourmet,60 W 45th St,40.7562054271632,-73.9814829826355,195,4,10036
+Italy Cuisine,AHVlPpOkiEl9maijGhar-Q,The Meatball Shop,64 Greenwich Ave,40.736125,-74.000607,861,4,10011
+Italy Cuisine,GticI2JB8Iw2ktRfLv6aRQ,Momofuku Ko,8 Extra Pl,40.724776,-73.991682,292,4.5,10003
+Italy Cuisine,LQHegfNHe7ylY3bocrFlpg,Calle Dao - Bryant Park,38 W 39th St,40.752155,-73.984223,1647,4,10018
+Italy Cuisine,qYDoWRdntIApGW6fEUHWIQ,Biricchino,260 W 29th St,40.7488743960857,-73.9954686909914,112,3.5,10001
+Italy Cuisine,5XQgZQF-5N94bkQ2d_PJIQ,Pascalou,1308 Madison Ave,40.78521,-73.95595,203,4,10128
+Italy Cuisine,E-ZJv2SIgzVSi27ZjF1yQQ,The Raging Skillet,335 E Houston St,40.72084,-73.98238,25,5,10002
+Italy Cuisine,ubNySbvyISy8q3oy9tsJaA,Il Pesce,200 5th Ave,40.7421891564824,-73.9898860988724,102,3.5,10010
+French Cuisine,ETgJqJHV7BW6pIr9Ox74sA,Amélie,22 W 8th St,40.7327,-73.99766,2578,4.5,10011
+French Cuisine,csVEpHy5KJoFvM1qp5XwLQ,Le Parisien,163 East 33rd St,40.7454079308793,-73.9791478306885,931,4,10016
+French Cuisine,FiRB9Ek3Xo9JHwXgBYITYg,La Sirène-Soho,558 Broome St,40.7243642217227,-74.005708694458,1583,4.5,10013
+French Cuisine,vRrVSB-LegwUwIxpkeRVtQ,Le Bernardin,155 W 51st St,40.761557,-73.981763,2462,4.5,10019
+French Cuisine,Ac8y23odvFOIQSKdrV63Uw,Le Bateau Ivre,230 E 51st St,40.7558,-73.96905,424,4,10022
+French Cuisine,KgpOYAG-r_eDsQXFXt0nnQ,Balthazar Restaurant,80 Spring St,40.722730394629,-73.998330776327,3001,4,10012
+French Cuisine,xEDD2ScBU3jHhWxlMC7dkQ,Nougatine at Jean-Georges,1 Central Park W,40.76891,-73.98176,1107,4,10023
+French Cuisine,8oWkHl9tITphtI7KY4kT0w,Le Pif,2058 Broadway Ave,40.7774844970442,-73.9817932784042,288,4,10023
+French Cuisine,KIIYvTOc0Uv90aUHEGvoSg,La Grenouille,3 E 52nd St,40.75972,-73.97555,422,4,10022
+French Cuisine,xQ445GaWVN5Aa3sFX9OoIg,Buvette,42 Grove St,40.732704,-74.004317,1676,4,10014
+French Cuisine,JZvegz9gY9sJwAeDPNvMQA,Pitchounette81,245 East 81st St,40.77496,-73.95437,90,4.5,10028
+French Cuisine,s3jou_L_LVYGkNHiuhjlew,Boucherie West Village,99 7th Ave S,40.733063,-74.0028772,1294,4.5,10014
+French Cuisine,1DfbZ0VsSCg9g1KILmnvzQ,Per Se,10 Columbus Cir,40.7681528889558,-73.9827629623657,1607,4.5,10019
+French Cuisine,kHeakps7Gj8EaImiOYaX8g,Le French Diner,188 Orchard St,40.7218274586187,-73.9879689992204,107,4.5,10002
+French Cuisine,RQojRzAYA9Cq87PqwQq5yg,Deux Amis,356 E 51st St,40.7544765,-73.9660238,145,4,10022
+French Cuisine,9vYSRXdp5JtFmqhi0FigMA,Le Relais De Venise L'Entrecôte,590 Lexington Ave,40.7577089110773,-73.9717626571655,774,4,10022
+French Cuisine,rSY3MyWqpuy3dNuUN4zQ_g,Petit Poulet,52 W 33rd St,40.7487053,-73.987317,413,4,10001
+French Cuisine,TQEajJ-kahYPOToGZIyyaA,Cafe Boulud,20 E 76th St,40.77444,-73.96396,706,4,10021
+French Cuisine,obFs12x7mgYPGxgalBd22w,Le Coucou,138 Lafayette St,40.71909,-74.00013,515,4,10013
+French Cuisine,1A3m0-dOhF2PKRU_8S2YYQ,Le Prive,626 10th Ave,40.76108,-73.99419,126,4.5,10036
+French Cuisine,8xYvp9j7j8RCRQGsiRRujQ,La Bergamote NYC,177 9th Ave,40.745044,-74.002863,331,4,10011
+French Cuisine,DZaN3bNWfwcm__sNw5bvDg,Daniel,60 E 65th St,40.7667736797858,-73.967607,1555,4.5,10065
+French Cuisine,TGP5gbAgml0IDRLGCpFnCw,PMF Pardon My French,103 Ave B,40.72473,-73.98115,936,4,10009
+French Cuisine,rKeUUuD4s0e6igmxTqbFnA,Coco J'adore,1 Little W 12th St,40.7396062,-74.005997,89,4.5,10014
+French Cuisine,nBkSqOhZMa1A7Yk3q8VPaA,Dirty French,180 Ludlow St,40.72183,-73.98719,622,4,10002
+French Cuisine,PBUIaPtgnhmdHE3KHglK-g,Jean-Georges,1 Central Park W,40.7691122743293,-73.9814290717583,1857,4.5,10023
+French Cuisine,A8zppFZvBDGUKRSUrzJWMg,Chez Josephine,414 W 42nd St,40.758502,-73.993413,475,4,10036
+French Cuisine,kmcgUxWhwlbmC-FAMTEF2g,Cafe D'Alsace,1695 2nd Ave,40.77916,-73.95104,1171,4,10128
+French Cuisine,g5f6p9jfzB30Mhcu6d5OWA,Petite Boucherie,14 Christopher St,40.73382,-74.00042,107,4.5,10014
+French Cuisine,ykTc4pZYEAY0Esd0yVFSOQ,Vin Sur Vingt,66 W 84th St,40.78492,-73.97291,55,4.5,10024
+French Cuisine,UJe9_p6NEl0kA6xHVo5PKw,Amelie,566 Amsterdam Ave,40.78875,-73.97464,162,4.5,10024
+French Cuisine,qOomR3AwClOGpV1HdqOTFg,Les Enfants de Boheme,177 Henry St,40.7136187,-73.9888503,223,4.5,10002
+French Cuisine,dAHoDxBmzWqfobnTbCHaQA,Frenchette,241 W Broadway,40.71964,-74.00578,203,3.5,10013
+French Cuisine,ndd1BQLqFINytM4kbkCjgQ,La Bergamote,515 W 52nd St,40.7663868,-73.9915846,361,4,10019
+French Cuisine,flcy6dNr4s12PTv6VtBK9Q,LĒNA,137 Eldridge St,40.719135,-73.991758,116,4.5,10002
+French Cuisine,PXTzmqJW7gbK-IkfKBEnFw,Cafe Triskell,33-04 36th Ave,40.7557027855819,-73.9280135680406,421,4.5,11106
+French Cuisine,bQPU31GkNo3TkPnq7iSngg,Jubilee,948 1st Ave,40.75523,-73.965164,195,4,10022
+French Cuisine,xGQ26ijvBi9DKVVG7DQOlA,Le Moulin a Cafe,1439 York Ave,40.7697981,-73.9518043,321,4,10075
+French Cuisine,LF2_slTY37P0Ua8vI4Hr5g,Bistro Les Amis,180 Spring St,40.724678,-74.002624,358,4,10012
+French Cuisine,bqhBU_iyHpaLlq0WSc5Nkw,Jean Claude 2,1343 2nd Ave,40.7680053710938,-73.9592895507812,132,4,10021
+French Cuisine,R-biStUvl2zuhIQFk40GsQ,OCabanon,245 W 29th St,40.7486725,-73.9945145,408,4,10001
+French Cuisine,BULuz2Xjd5Cj14akdUzm1g,Palais by Perfect Pie,134 E 61st St,40.7635381452575,-73.9676880463958,4,5,10065
+French Cuisine,O64wSq9NvecPNPRkz38o8Q,Madame Claude Bis,390 4th St,40.7245930779437,-74.0511194225858,161,4,07302
+French Cuisine,egQkevpRi3g-iKrYIlBpGQ,Cocotte,110 Thompson St,40.72575,-74.00178,316,4,10012
+French Cuisine,C6f_MQaRwIbJ8diailVaCA,L'Appart,225 Liberty St,40.712708,-74.015919,94,5,10281
+French Cuisine,WoZnkXZInggzgQM_LbDpGg,Le Baratin,26 Greenwich Ave,40.735025,-73.999857,206,4,10011
+French Cuisine,9pI_G9xGiTY4YCcfe9eoPA,French Louie,320 Atlantic Ave,40.6879459,-73.988257,360,4,11201
+French Cuisine,5XQgZQF-5N94bkQ2d_PJIQ,Pascalou,1308 Madison Ave,40.78521,-73.95595,203,4,10128
+French Cuisine,tDzTFko0plObIUPwRc31-Q,La cafette,103 Havemeyer St,40.71323,-73.95638,62,5,11211
+French Cuisine,fSQ3CCtFSJ2S8VXDi02-3Q,Cafe Luxembourg,200 W 70th St,40.77741,-73.98312,471,4,10023
+French Cuisine,oyxtaqfFZkP_vC0M6GfkbA,Chez Napoleon,365 W 50th St,40.76346,-73.9883,267,4,10019
+French Cuisine,I-_4uhJkmsnK_dj8n69GLg,La Maison du Croque Monsieur,17 E 13th St,40.735027,-73.992966,327,4,10003
+French Cuisine,7uGPAk8ELYABSzZhXhj7tA,Le Gigot,18 Cornelia St,40.7314099,-74.00197,203,4,10014
+French Cuisine,aUakHsv3bAk6tDtLe96rIA,Lucien,14 1st Ave,40.72339,-73.98817,345,3.5,10009
+French Cuisine,RP02PZPNdhfoL-TjOMiKVg,Table d'Hôte,44 E 92nd St,40.78447,-73.95581,146,4,10128
+French Cuisine,K6ik5ceZaea55wXnmHWz0Q,Bliss 46 Bistro,43-46 46th St,40.7441711,-73.9186707,195,4,11104
+French Cuisine,pDwhlX9jNBGnjvyGR9jYWQ,Gabriel Kreuther,41 W 42nd St,40.754546,-73.982556,399,4.5,10036
+French Cuisine,CsdS-L70jLn-exz34j8h5Q,L'avenue at Saks,8 East 50th St,40.7581416,-73.9766257,57,4,10022
+French Cuisine,DEHWHskp2gSAkfdylc4SNA,Yatenga French Bistro & Bar,2269 Adam Clayton Powell Jr Blvd,40.8142691169743,-73.9441050339131,253,4,10030
+French Cuisine,npiIhpcWePbVT3JYEcy3zg,Wayan,20 Spring St,40.7213813139202,-73.9950757664721,138,4,10012
+French Cuisine,g3jNtkQZVZrrC823oBxdtg,Lafayette,380 Lafayette St,40.727617,-73.993464,866,3.5,10003
+French Cuisine,6S62Z7e0UP82shutXERUzA,Cafe Du Soleil,2723 Broadway,40.8000739,-73.9682123,382,3.5,10025
+French Cuisine,WO_cLlSr6eFYMXy0T6BvHA,Le Pif,465 W 23rd St,40.7476868,-74.0037054,167,4.5,10011
+French Cuisine,3y_-DwmoM198umnZHSOmKQ,Yves,385 Greenwich St,40.72021,-74.00996,58,4,10013
+French Cuisine,JUGgD5WXc8eU5MoBKrfSGA,L'Atelier de Joël Robuchon,85 10th Ave,40.743052,-74.007872,116,4.5,10011
+French Cuisine,3pgbgiPTA2WmZ9fsDKlojA,La Mirabelle,102 W 86th St,40.78636,-73.97262,118,4,10024
+French Cuisine,nRO136GRieGtxz18uD61DA,Eleven Madison Park,11 Madison Ave,40.7416907417333,-73.9872074872255,2096,4.5,10010
+French Cuisine,844H9r0tRQZmxiEtjeTW0A,The Bar Room,9 W 53rd St,40.7610309319265,-73.9765593703613,484,4,10019
+French Cuisine,uVo8WHNQo3iU0dhoUKM0kw,Le P'tit Paris Bistro,256 Prospect Park W,40.659,-73.98173,351,4,11215
+French Cuisine,DU_DMCalguwdsnmLOJX3mg,La Cigogne,215 Union St,40.683501,-73.999304,346,4,11231
+French Cuisine,ZOfk6Ao0db5icjc0WEq7zg,Bacchus Bistro & Wine Bar,409-411 Atlantic Ave,40.68692,-73.98437,457,4,11217
+French Cuisine,ZxfXy-odIz_Xi1i9Uu00pg,La Bonne Soupe,48 W 55th St,40.76232,-73.97702,701,3.5,10019
+French Cuisine,NMVRHrkdp68twl4CWo1I5A,Marseille,630 9th Ave,40.759806,-73.991378,865,4,10036
+French Cuisine,escMR9M42UsHQIglAz1pJw,Bubba's Bistro,31-13 Ditmars Blvd,40.775832308033,-73.9100879056678,353,4,11105
+French Cuisine,HUEj_yVB1E2mNNxW5PqUtQ,Bistro Vendome,405 East 58th St,40.7588875,-73.961963,127,4,10022
+French Cuisine,t-ODuKsmRseJoTEVKQzsdg,Pates Et Traditions,52 Havemeyer St,40.71485,-73.95466,820,4.5,11211
+French Cuisine,a8D87UlkkR3HixryrAay9w,Coco Bistro,233-235 Front St,40.70757,-74.00184,55,4,10038
+French Cuisine,C2o3Iw-DXjoUJFgQIbiqkQ,BoCaphe,222 Lafayette St,40.722046,-73.997557,1298,4,10012
+French Cuisine,gtXP0CmOnBbgfnff7VXa7A,Pastis,52 Gansevoort St,40.73928,-74.00695,87,4,10014
+French Cuisine,NMCUMp39CPenji-UbFnuCA,Mountain Bird,2162 2nd Ave,40.7938199,-73.9398521,180,4.5,10029
+French Cuisine,EF4M55USa1ZNy1rP5Kuk2w,Chez Moi,135 Atlantic Ave,40.6907305802403,-73.99551244328,359,4,11201
+French Cuisine,FyFeyjndrXHDnN-z9-qv_w,Augustine,5 Beekman St,40.71141,-74.006814,225,4,10038
+French Cuisine,bTyyPU8A4pz9dieLSZPMdA,Le Rivage,340 W 46th St,40.76023,-73.98957,417,4,10036
+French Cuisine,EaNRl3vlDOsNF-gkCR5mBA,La Sirène-UWS,416 Amsterdam Ave,40.7838,-73.97806,50,4,10024
+French Cuisine,8XHbZIKDQbXhyKIGiukVeQ,Boucherie Union Square,225 Park Ave S,40.73715,-73.98789,610,4.5,10003
+French Cuisine,51_f1MyuRFpEIpzb57YmEA,Hendriks,557 3rd Ave,40.747395,-73.97649,361,4,10016
+French Cuisine,cJREPXNhyznkLrKhjg9hoA,Tournesol,5012 Vernon Blvd,40.74239,-73.95451,402,4,11101
+French Cuisine,mxDfu4bHwSXoCr3FRpyMsw,L'Antagoniste,238 Malcolm X Blvd,40.685019,-73.929617,269,4.5,11221
+French Cuisine,Okbtt-ISFB3kuoxkl2wVgg,The Simone,151 E 82nd St,40.77682,-73.95698,92,5,10028
+French Cuisine,YWYbLfHO5FjnCQ_uuy6Kdg,Vin et Fleurs,69 Thompson St,40.72448,-74.00327,382,4,10012
+French Cuisine,sySAZxvH4LvSGJRLmCP19A,Aux Epices,121 Baxter St,40.7181073647053,-73.9991025383579,304,4,10013
+French Cuisine,_sipbeIM-EtR4cIzleEUhg,Cafe Rue Dix,1451 Bedford Ave,40.6740232907878,-73.9538387930572,340,4,11216
+French Cuisine,dvkQIG20RjgNi-SwRr_1CQ,MAMO Restaurant,323 W Broadway,40.72186,-74.00382,241,4,10013
+French Cuisine,9f6chaCx20d1A0Abo6NzUw,Chateau 49 Bar A Vin,924 2nd Ave,40.75428,-73.9687299,60,4.5,10022
+French Cuisine,ZWPgzW0qqtksyI3GxCPM-Q,Little Frog Bistro & Bar,322 E 86th St,40.77722,-73.95092,185,4,10028
+French Cuisine,FZh1ZBFrb46tkRdZuMA7hQ,Troquet,155 Grand St,40.7200024863923,-73.9990466250079,142,4,10013
+French Cuisine,GBJOu9Rk4JqqWjB8ddYudw,La Mercerie,53 Howard St,40.7202236743825,-74.0021909441629,137,3.5,10013
+French Cuisine,ZjU9qd-RR55cEEKufmdN5Q,Cathédrale Restaurant,112 E 11th St,40.7316,-73.98951,18,4,10003
+French Cuisine,qLL_x4uzDHCgXd9lwaGxjw,Frevo,48 W 8th St,40.73313,-73.99867,10,4.5,10011
+French Cuisine,ckA5dhV4ve-QZXUBFI6TUA,Le Coq Rico,30 E 20th St,40.7385919,-73.9888939,322,4,10003
+French Cuisine,8nXo6lNJlXQQIdy8Kf7J9Q,Tessa,349 Amsterdam Ave,40.7814059,-73.97918,360,4,10024
+French Cuisine,Bx9ufqCtxxdl2l6pT3J45g,Petrossian Boutique & Cafe,911 7th Ave,40.7658521957585,-73.979433064085,358,4,10019
+French Cuisine,lu0XMmcPyFGvIgqRcbU_4g,Le Jardinier,610 Lexington Ave,40.7582033,-73.9713074,31,4,10022
+French Cuisine,oF3yOAqGpIGRbjtOzvSxoA,Bouley Test Kitchen,31 West 21st St,40.7411629,-73.9921063,28,4.5,10010
+French Cuisine,V69n3YrAs59GenGB2jLVrA,Orsay,1057 Lexington Ave,40.772384,-73.960433,269,3.5,10021
+French Cuisine,UJDb0M1eF4KkxJdCTh67cw,Shun,610 Lexington Ave,40.7582033,-73.9713074,34,4.5,10022
+French Cuisine,Su-MRJLlxUtjU_-V5viYYA,French Roast,2340 Broadway,40.7877322,-73.9767123,543,3,10024
+French Cuisine,giL47kf_ln3aqJNWhGuNCA,Pinky's Space,70 E 1st St,40.72355,-73.98879,11,4.5,10003
+French Cuisine,nlmFAz_93gjSUfmvmv8Tog,Le Grainne Cafe,183 9th Ave,40.7454064780449,-74.0024026704959,609,3.5,10011
+French Cuisine,CcxreLJbZsO6Z775-hMWpw,St Tropez Wine Bar,304 W 4th St,40.73704,-74.00386,127,4.5,10014
+French Cuisine,mjGdtrh0tX7I91GM9dlMNg,MIMI,185 Sullivan St,40.7283483,-74.0006612,133,4,10012
+French Cuisine,qcvGRJT3QedXz7p3_CDmmA,Bel Ami,30 E 68th St,40.7689753,-73.9670732,179,4,10065
+French Cuisine,HJg9TbpyWvb6-AFPdb7NCA,King,18 King St,40.7275,-74.00346,151,3.5,10014
+French Cuisine,3zbz9kLrLKHCBeGrNhMMGA,L'Accolade,302 Bleecker St,40.732484,-74.003915,48,4.5,10014
+French Cuisine,nU4XBdvxDABXqZ6CnB8Dig,Clinton Street Baking Company,4 Clinton St,40.721128,-73.983933,4861,4,10002
+French Cuisine,I6KHYESZdZQz0fnMaMyIpQ,Zusik,202 W14th St,40.73864,-74.00029,84,5,10011
+French Cuisine,sBL7J7s4Rnul40-MB0hXbA,Perrine,2 E 61st St,40.7652523152915,-73.9719824881672,74,4,10065
+French Cuisine,PE0g0ox_CojtHpPJLjmPpQ,Le Petit Rooster,491 Columbus Ave,40.78489,-73.97312,24,4,10024
+French Cuisine,5nODUmSo5UeIzBg7tX-QnQ,Maison Kayser,1294 3rd Ave,40.7713534588679,-73.9597375208537,676,4,10021
+French Cuisine,iQB37FNqD_G5_QMrp9ovnw,Jadis,42 Rivington St,40.7210234741789,-73.9910054106201,488,4,10002
+French Cuisine,xN7JOFf3nBBDxvZ1M4Slbg,Barbès Restaurant,1300 Park Ave,40.7529899,-74.02924,149,4,07030
+French Cuisine,Du4yrt8aWlBhOeEjhEH3ww,St Tropez - Soho,194 Spring St,40.72498,-74.00328,48,4.5,10012
+French Cuisine,CwAE-SZzIa8A2AUiF0wZ8w,Paname Restaurant,1068 2nd Ave,40.7587122741301,-73.9654768081818,95,4,10022
+French Cuisine,P2CTp4xyaNCe2AXSiLeOSQ,The Odeon,145 W Broadway,40.71692,-74.00792,617,4,10013
+French Cuisine,fAPkN79fe7Gjq7A6fj6s9Q,Bistro Eloise,75-57 31st Ave,40.7587335,-73.8920429,117,4.5,11370
+French Cuisine,1z5Nu66M6W8mk5Ap4osZwA,The NoMad Restaurant,1170 Broadway,40.7449,-73.988482,1437,4,10001
+French Cuisine,M-sTctogJErjLmoLiuyb4w,Brasserie Ruhlmann,45 Rockefeller Plz,40.759120073535,-73.978181445687,262,3,10111
+French Cuisine,-7iUpGTNDdy4WjxLGYp-_g,Trattoria Italienne,19 W 24th St,40.7430619,-73.9903948,133,4.5,10010
+French Cuisine,dMhRafXdr765DHe0k-QfaQ,ABC Kitchen,35 E 18th St,40.738085,-73.989472,2921,4,10003
+French Cuisine,lw4ZMgn-QBh_5W1ipNHjaw,La Goulue,29 E 61st St,40.7648,-73.9699213,72,3.5,10065
+French Cuisine,TIjtmaeUZexPZvcBz73VCw,Le Barricou,533 Grand St,40.71118,-73.95003,1236,4,11211
+French Cuisine,pV-f6jq8mqNWymbPyPNmzg,BOBO,181 W 10th St,40.734489440918,-74.0026245117188,519,4,10014
+French Cuisine,myYOl6CDu1fieWKxXn-1Og,Little Prince,199 Prince St,40.7267198,-74.0027459,305,3.5,10012
+French Cuisine,jeJfYLekXo3yxUpDfNukyQ,Cafe Matisse,167 Park Ave,40.82503,-74.10933,335,4.5,07070
+French Cuisine,hAmf5Tfs0OhllZHAmO-12g,Tartinery Hudson Eats,225 Liberty St,40.712338,-74.01588,368,4,10281
+French Cuisine,xrKa2SpgWzPEEbji3Iw2DQ,The Calaveras,949 Columbus Ave,40.79956,-73.96241,95,4.5,10025
+French Cuisine,6hw4ibsutVoMl_RK0aAJ7Q,The Black Derby,310 W 4th St,40.737266,-74.00399,173,4.5,10014
+French Cuisine,M6Eiyx9LXMetMUxsYe-fvw,Ponty Bistro,2375 Adam Clayton Powell Blvd,40.8175925,-73.9412695,381,4,10030
+French Cuisine,M85t-iOAbMpO9mVIKAgwMw,Le Garage,157 Suydam St,40.6993863968861,-73.9265948743181,141,4,11221
+French Cuisine,TCJrcryBkI6eg2HYThoiKg,Petite Crevette,144 Union St,40.68396,-74.0018,312,4,11231
+French Cuisine,sqbSuwMNFg76ys2yNpbgVg,Bouley at Home,31 W 21st St,40.7410869985191,-73.9921929272335,108,4,10010
+French Cuisine,15_ODtslmB59M-FxU-mvUQ,Bagatelle,1 Little W 12th St,40.739654,-74.005915,713,3.5,10014
+French Cuisine,a0AvIH1UnFmqAXhZDEQtrw,Tocqueville Restaurant,1 E 15th St,40.73662,-73.99272,350,4,10003
+French Cuisine,2VpurA2lb-q90nmALklNcA,Perry St,176 Perry St,40.73442,-74.00971,929,4,10014
+French Cuisine,k74Lwp6Prr3yFgoPx0HSDA,Reverence,2592 Frederick Douglass Blvd,40.8184806,-73.9448795,7,4.5,10030
+French Cuisine,M7FR0flXH4yUq5Gh7-7Vog,Fedora,239 W 4th St,40.73457,-74.00306,351,4,10014
+French Cuisine,6AC4yhUdnh64zE6b5-n6OQ,Renaissance Harlem,2245 Adam Clayton Powell,40.8133399,-73.94467,181,4,10027
+French Cuisine,50fWXrNECQQYght4ZWeBXQ,Taureau,558 Broome St,40.72452,-74.00569,569,4.5,10013
+French Cuisine,43w_Xf2HWy5z8ilkPI8cLQ,Houston's Restaurant,1 Riverside Sq Mall,40.905192,-74.031119,680,4,07601
+French Cuisine,qEbQbYZxurnuVxDrNHQUJg,La Boite en Bois,75 W 68th St,40.7749214172363,-73.9802398681641,212,4,10023
+French Cuisine,qf9ONR0LAAFZ8fLDRkVHww,Mori,351 5th Ave,40.671718,-73.983902,83,4.5,11215
+French Cuisine,sVG1whNWHhlbjP6p027YcA,Brindle Room,277 E 10th St,40.72829,-73.98271,1004,4,10009
+French Cuisine,PHSsvGDW6Rh2pGWEDTrDew,Death Ave,315 10th Ave,40.75112,-74.00208,556,3.5,10001
+French Cuisine,kMljfja7weqfl_lzspjzHA,Cafe Cluny,284 W 12th St,40.737385,-74.003966,708,4,10014
+French Cuisine,hD55NUiGDK7STQ8oy9QDPA,Le Monde,2885 Broadway,40.8058021,-73.9658246,465,3,10025
+French Cuisine,BA6wd1pZTVu1DmrtiyTs8g,Raoul's Restaurant,180 Prince St,40.72615,-74.00216,477,4,10012
+French Cuisine,6UcYACF-byUBkn5jumAAfQ,Rotisserie Georgette,14 E 60th St,40.764352,-73.971732,202,4,10022
+French Cuisine,IVjpsmmsgc42k9K2RZR3Qg,Le Fond,105 Norman Ave,40.7258415222168,-73.9511032104492,142,4.5,11222
+French Cuisine,F2YGnF0og_7fHNd880byCQ,Vin Sur Vingt,201 W 11th St,40.73661,-74.00129,202,4,10014
+French Cuisine,63nYipWuA42RZmESBMUNkQ,The Bluebell Cafe,293 3rd Ave,40.73845,-73.98321,598,4,10010
+French Cuisine,r_QEUVdoo8dsKR9fK31w3w,Paradis Des Gouts,1136 Broadway,40.69333,-73.92931,44,4.5,11221
+French Cuisine,3J9hH7EJdBv7_TjaQQqsJQ,Le Grill de Joël Robuchon,85 10th Ave,40.74303,-74.00779,35,4,10011
+French Cuisine,3V20VbC45XL4TBYTL9DrOg,David's Cafe,110 St Marks Pl,40.7269310030458,-73.9843428879976,185,4,10009
+French Cuisine,1jBTtOBWbE-XRxyp7NyHvg,Saju,120 W 44th St,40.7565,-73.98427,282,3.5,10036
+French Cuisine,aTFkjo0scqmOgsFF5kuGXg,Claudette,24 5th Ave,40.7330367619291,-73.9960286909289,365,4,10011
+French Cuisine,l3USyZNhkkTsG-6-rHvsew,Wine:34,127 E 34th St,40.7467540555211,-73.9802000666539,71,4,10016
+French Cuisine,vYc_dbmC4yK7X_-3vQ74ig,Mont Blanc 52,344 W 52nd St,40.7641908730716,-73.9867371497641,80,4.5,10019
+French Cuisine,5LqclCP-RTj61-5QNo0jZw,Maison Harlem,341 St Nicholas Ave,40.8121862892803,-73.9516100875101,460,4,10027
+French Cuisine,q-QEwZi32JCnjb7zbY-PQw,Soogil,108 E 4th St,40.72551,-73.98838,92,4,10003
+French Cuisine,0j4yPmK9rOS52-mgKoq0Eg,Maison Yaki,626 Vanderbilt Ave,40.67749,-73.96913,51,4,11238
+French Cuisine,K8Z10Tx2rwx6CcHV8FcuJg,Chez Lucienne,308 Lenox Ave,40.8079409,-73.9448598,450,3.5,10027
+French Cuisine,OkiPb6gNNRmcbB4zIIMx0g,Big Tiny,244 Smith St,40.6834507,-73.992855,47,4.5,11231
+French Cuisine,1bcaN1lL4GeROa-JoGal9Q,Bistro Le Steak,1309 3rd Ave,40.77147,-73.959,134,4,10021
+French Cuisine,Ps0cOZevNA1M9M5_z7W3oQ,Joseph Leonard,170 Waverly Pl,40.7336021670705,-74.001675412843,649,4,10014
+French Cuisine,GticI2JB8Iw2ktRfLv6aRQ,Momofuku Ko,8 Extra Pl,40.724776,-73.991682,292,4.5,10003
+French Cuisine,yDStP6k9r9CS0bcwSNbIyw,Couleur Café,435 7th Ave,40.6633799,-73.98433,195,4,11215
+French Cuisine,eL1ojVz0QYCZ7xJOii46LQ,Papilles,127 E 7th St,40.72637,-73.98403,59,5,10009
+French Cuisine,scjoZtbTQHi35xhAlUm2iQ,L'ADRESSE,1065 Ave Of The Americas,40.75403,-73.98539,529,4,10018
+French Cuisine,2BRJP7YeiNuWSwyn2TdAoA,Kafana,116 Ave C,40.72432,-73.97851,392,4,10009
+French Cuisine,tD1pDzU-x8gGodC4nGnY9g,NORMA'S,119 W 56th St,40.7641277134065,-73.9783795227192,1687,3.5,10019
+French Cuisine,mHBhUxHgDGjsB1LJl4qW0w,Hillstone Restaurant,888 3rd Ave,40.7582412110122,-73.9688767764436,1060,4,10022
+French Cuisine,5ZEFbq_AQV5VQFG2JKYzlA,Giorgio's of Gramercy,27 E 21st St,40.7394209879325,-73.9885425567627,731,4,10010
+French Cuisine,WA6HwJ3UlGWWCeJdOTlLWw,The Pandering Pig,209 Pinehurst Ave,40.855144,-73.937599,109,4,10033
+French Cuisine,uoT2_Wrt1noD6kZOID7tUg,Jane,100 W Houston St,40.72732,-74.00026,3106,4,10012
+French Cuisine,U1H_LiA_-9NtaSbehPdODw,Ratatouille,154 E 39th St,40.7489198,-73.9763381,253,4,10016
+French Cuisine,iX-JFBFrKAJuv07uhHoi5g,Maison Kayser,2161 Broadway,40.7819579516292,-73.9812961672168,212,3.5,10024
+French Cuisine,xZ96vaoL-cQjfotmUKtjJQ,Barn Joo 35,34 W 35th St,40.74964,-73.98582,1755,4.5,10001
+French Cuisine,Knbn0h4MA1KX5Fv3eZfK4w,Nice Matin,201 W 79th St,40.78337,-73.97847,725,3.5,10024
+French Cuisine,gQD8p65fHAAZTE7lHR6rYQ,Savann Mediterranean  Cuisine Restaurant,2280 Frederick Douglass Blvd,40.80848,-73.95201,193,4,10027
+French Cuisine,XBWO26QblInZGftnSDD94A,Maman Tribeca,211 W Broadway,40.7188969,-74.0062207,242,4,10013
+French Cuisine,7DnZWIn1Dcsvq-_pIXXFZQ,Hortus NYC,271 5th Ave,40.74545,-73.98652,142,4.5,10016
+French Cuisine,bmBaNYCqL2i1iHiHDbIl_w,Côté Soleil,50-12 Skillman Ave,40.7460754,-73.913918,204,4.5,11377
+French Cuisine,Rc1lxc5lSKJYd162JHNMfQ,Bea,403 W 43rd St,40.7591968,-73.9923361,2391,4,10036
+French Cuisine,mosd9Voq5Ws6k6Uduii_ww,Bar Boulud,1900 Broadway,40.7718443592464,-73.9818808860381,844,3.5,10023
+French Cuisine,bEXTA_Gwo2oVg4gnFd9fNA,Ai Fiori,400 5th Ave,40.7500752,-73.9837835,1223,4,10018
+French Cuisine,tC6CzF4fxzHJQ4RFUdT30g,Maison Vivienne New York,116 E 60th St,40.76309,-73.96868,2,1.5,10022
+French Cuisine,uBGjcW-GuYy_qSvMykuISA,Pommes Frites,128 Macdougal St,40.730022,-74.000152,845,4.5,10012
+French Cuisine,ypqK8DWM8Bcs43YveSJnNw,Manhatta,28 Liberty St,40.70797,-74.0088899,385,4.5,10005
+French Cuisine,3PabSEZ2ESexVFZznyozVw,Delice & Sarrasin,20 Christopher St,40.73377,-74.00065,374,4,10014
+French Cuisine,82wA_Vfg_eDckx23d3dA_g,Sel Rrose,1 Delancey St,40.7200099,-73.993839,471,4,10002
+French Cuisine,l2b6HJGarUxoeLnM9syTmg,Compagnie des Vins Surnaturels,249 Ctr St,40.7205157,-73.9981652,117,4.5,10013
+French Cuisine,S5aiRMdfmptZiRWdJ4mhYQ,Jules Bistro,65 Saint Marks Pl,40.72818,-73.98607,496,3.5,10003
+French Cuisine,Vc7JEi0Hj6XYfSMFEUMKGg,Caviar Russe,538 Madison Ave,40.76075,-73.97379,125,4.5,10022
+French Cuisine,eCb2VMBFGDgfKCMB4DUPvQ,La Cantine,60 St Nicholas Ave,40.70664,-73.9206,5,5,11237
+French Cuisine,QUNchfxuTOOmjAXkHivYdQ,Patisserie Des Ambassades,2200 8th Ave,40.80603,-73.95381,299,3,10026
+French Cuisine,uA0ua1WnE43E0PrQxni65g,Poulette Rotisserie,790 9th Ave,40.7648963928223,-73.9875030517578,172,4,10019
+French Cuisine,3gtheZvv3Or0YzWXIl3SJg,Benoit,60 W 55th St,40.7625640535871,-73.9772810679851,448,3.5,10019
+French Cuisine,zOTRYxeyHl1vRMyDkzGqog,Gaby Brasserie Française,44 W 45th St,40.75613,-73.98154,100,3,10036
+French Cuisine,0Q3xCYWK2N-wJfXjLa9dFg,Bâtard,239 West Broadway,40.7195533039813,-74.0057982895201,381,4,10013
+French Cuisine,rQpO1Eie_zmeAOQ9s-T0sQ,Hole in the Wall,15 Cliff St,40.70837,-74.00563,490,4.5,10038
+French Cuisine,cCesIqo-LQt0cRlZAnrAZQ,Friedman's,132 W 31st St,40.748297,-73.990649,2285,4,10001
+French Cuisine,np98mkA22LYf6kCwCL59pw,Rabbithole Restaurant,352 Bedford Ave,40.7122932799856,-73.9628687873483,799,4,11211
+French Cuisine,mv8dMMzzrzalso3sYCP_QA,Cafe Luluc,214 Smith St,40.68447,-73.99214,1347,4,11201
+French Cuisine,VvsZAnEwU4c8Xkyrzx05Nw,Anytime,23 W 32nd St,40.74779,-73.98674,951,4.5,10001
+French Cuisine,dYqWosnE1UlJs4Wx-M_u_A,Oda House,76 Ave B,40.7240282,-73.9821844,346,4,10009
+French Cuisine,0Q13lJ3OHXOuBVpN6jeTjw,Tartine,253 W 11th St,40.7362899,-74.00344,967,4,10014
+French Cuisine,vQcK7BH6maW9dAZWJOuW3Q,The Mermaid Inn,570 Amsterdam Ave,40.7887398925594,-73.9744491607132,1056,4,10024
+French Cuisine,J3NT61-AH5d5Gu5tFJhYSw,The Cabin NYC,205 E 4th St,40.72393,-73.98383,130,4,10009
+French Cuisine,C-8mGN7lt5rIraO5n-15ug,The Smith,956 2nd Ave,40.755165,-73.967868,2509,4,10022
+French Cuisine,puIxzUYl8hhVfWJRaMsZcA,The Mercer Kitchen,99 Prince St,40.72481,-73.99876,1549,3.5,10012
+French Cuisine,dS2VNgvdLCAxImvcVBV6wA,Papillon Bistro & Bar,22 E 54th St,40.760463700357,-73.9742553564245,392,3.5,10022
+French Cuisine,49ST--X1jcIPzUIM1O3K6w,Mominette,221 Knickerbocker Ave,40.7032458,-73.9258954,653,4,11237
+French Cuisine,vApeod35mjcuiwrdLnobmQ,Tout Va Bien,311 W 51st St,40.7634048461914,-73.986213684082,313,3.5,10019
+French Cuisine,j5iCXa7HRk5LKZ-XOvTjLQ,Le Petit Parisien,251 E 53rd St,40.7570146,-73.9673265,113,4.5,10022
+French Cuisine,EOANRwg2TqxqAJ6O7e-YNA,Racines,94 Chambers St,40.71463,-74.00752,125,4,10007
+French Cuisine,0yMlU3xbdawYFXmjNc0dhw,The Harrow New York,720 10th Ave,40.76419,-73.99182,188,4.5,10019
+French Cuisine,OqNmzS2N2I750zYgUC6IgA,Riverpark,450 E 29th St,40.7393734243765,-73.9734843398117,790,4,10016
+French Cuisine,Gc7OVEIs4HodL4hw9U3C3w,Copinette,891 1st Ave,40.75407,-73.96623,97,4,10022
+French Cuisine,66T7rXIZvcVg7XicY6QObg,Oscar's Place,466 Hudson St,40.7318649,-74.0064011,198,4.5,10014
+French Cuisine,-P7qAIG1wr_gXW3nzIq5TA,Flex Mussels,174 East 82nd St,40.77637,-73.95646,1013,4,10028
+French Cuisine,59dXrRQE3JVItSneV3a1bg,Le Veau D'or,129 E 60th St,40.76316,-73.96814,93,3.5,10022
+French Cuisine,TNymQn5Fb0GobRGbax1vRQ,Pergola Des Artistes,252 W 46th St,40.75926,-73.98729,117,3.5,10036
+French Cuisine,ieoPAi6nbdEkrwv4vGVSwg,Via Trenta Osteria & Wine Bar,3619 30th Ave,40.7648771022913,-73.9165434257602,433,4,11103
+French Cuisine,uq5rHbGtBFwCwPkokIkKvQ,JoJo,160 E 64th St,40.76506,-73.96571,127,4,10065
+French Cuisine,TWVmYLuG-w6fsrzKpmX6XQ,Brasserie 8 1/2,9 W 57th St,40.7638,-73.97518,443,3.5,10019
+French Cuisine,zXuwcp_d3h6fVa9CarmWzw,Bistro Cassis Restaurant,225 Columbus Ave,40.776195,-73.97927,236,3.5,10023
+French Cuisine,B_kcyXzmkJlFI9pSl7PHvw,Restaurant Ukiyo,239 E 5th St,40.72699,-73.98922,62,4.5,10003
+French Cuisine,-udRA8VRsQJoIaT-kxCrGg,Ipanema Restaurant,43 W 46th St,40.757072217349,-73.9807795529175,1303,4,10036
+French Cuisine,_F-GTYP0Cfc6LGamqRhXgQ,Boutique Bistro Bar,33-01 Ditmars Blvd,40.775414,-73.9093017,54,4.5,11105
+French Cuisine,fFkqEyupjc5x2iJQIPcpLw,Ruffian,125 E 7th St,40.7264,-73.98411,193,4.5,10009
+French Cuisine,SUbNA5z-LokTPQj5cdds8Q,A.O.C.,314 Bleecker St,40.7328715,-74.004005,599,3.5,10014
+French Cuisine,ys6rqS7Cr1IZ2kB1TNYE4w,Sauvage,905 Lorimer St,40.72356122013,-73.9518526761375,204,3.5,11222
+French Cuisine,IGZkGbwE36iE1yaDW5NNKA,The Flying Cock,497 3rd Ave,40.745296,-73.978073,499,4,10016
+French Cuisine,g8vu1G_fZLrPpGf2UHk6-Q,Crepes on Columbus,990 Columbus Ave,40.80104,-73.96178,533,3.5,10025
+French Cuisine,srhEv1OqoK9W5JRdiMWDyw,Ayza Wine & Chocolate Bar,11 W 31st St,40.7471774721074,-73.987011312828,1601,4,10001
+French Cuisine,TdUhTJ7hCt0uANqHIcltOA,Olivier Bistro,469 4th Ave,40.6688499963761,-73.9896939343586,312,4,11215
+French Cuisine,WS0ipFMNDJDy_MOylP-JGw,Felix,340 W Broadway,40.7226295,-74.0037455,395,3,10013
+French Cuisine,uuDvk4EsRUkeTj4jVKJOpw,Rue 57,60 W 57th St,40.7640285260993,-73.9770378404755,1086,3.5,10019
+French Cuisine,1VBeb3BF8R8cwuCYGeMrVg,Zaca Cafe,426A Marcus Garvey Blv,40.6822299,-73.93803,81,4.5,11216
+French Cuisine,KtL6xhVJZq6dzAYlfcHvyw,Vaucluse,100 E 63rd St,40.76515,-73.96758,234,4,10065
+French Cuisine,K_RLEEEkMmlis5hteYlYUQ,Majorelle,28 E 63rd St,40.7657132,-73.9692137,51,4,10065
+French Cuisine,lXGCo-K7eftxRT_6E59-Iw,Union Square Cafe,101 E 19th St,40.73775,-73.987874,1186,4,10003
+French Cuisine,g6R8iwi__IDy8plQy0v9WQ,Café Gitane,242 Mott St,40.7231802723335,-73.9946175625656,707,4,10012
+French Cuisine,1TjhL68uTF473c3E-cuLiw,La Bonbonniere,28 8th Ave,40.737769995088,-74.004336265057,348,4,10014
+French Cuisine,MHtbBc2np3sR7jiV9GphNg,Tribeca's Kitchen,200 Church St,40.7162705535921,-74.0072225927912,459,4,10013
+French Cuisine,9vQca1DMqfbDGssiqEd6Hw,Le Gamin,108 Franklin St,40.728299,-73.957153,199,3.5,11222
+French Cuisine,BQRfaq0U75B5EEblBZ2Aqg,The Ribbon,220 West 44th St,40.7576,-73.98693,117,4,10036
+French Cuisine,PYcL2z9gHj6-ZTlViT9Nqw,Minetta Tavern,113 Macdougal St,40.7300047976758,-74.0006073834151,2151,4,10012
+French Cuisine,NwrqmFGO-utVOG-eeDDuXg,Penelope,159 Lexington Ave,40.74371,-73.98152,2091,3.5,10016
+French Cuisine,1_JZHKkWQBozYQ00fephWQ,Pistache,630 Flushing Ave,40.6996109,-73.9479221,6,5,11206
+French Cuisine,-b3J-5K_beWyGxQ1Id7KQg,Jeepney,201 1st Ave,40.730294,-73.9835395,1056,4,10003
+French Cuisine,_gzXNKarTxagBp6_PkmQKw,Gotham Bar and Grill,12 E 12th St,40.734186,-73.993696,1567,4.5,10003
+French Cuisine,LQHegfNHe7ylY3bocrFlpg,Calle Dao - Bryant Park,38 W 39th St,40.752155,-73.984223,1647,4,10018
+French Cuisine,fuS39acPaRi38DhSSwEI4Q,Felice,15 Gold St,40.70789,-74.00712,335,4,10038
+French Cuisine,I6optu9x0JAf8oT5lqJ8qw,Blue Dog Cookhouse & Bar,308 W 50th St,40.76244,-73.98674,1202,4,10019
+French Cuisine,aixlpNVteSFpBS9o_HUsNQ,Beaubourg,225 Liberty St,40.71156,-74.01533,274,3,10281
+French Cuisine,BtVnZmPY51ZWGY63-mzJ7A,ON,110 Madison Ave,40.74502,-73.98513,83,4.5,10016
+French Cuisine,gISZs8okQgFIpd-yz9aC4w,Café Henri,1010 50th Ave,40.742559,-73.953697,672,4,11101
+French Cuisine,1raNn0l3I4H9PcAJce69Sw,Sojourn,244 E 79th St,40.77343,-73.95568,602,4,10075
+French Cuisine,UA2M9QFZghe-9th2KwLoWQ,Burger & Lobster,39 W 19th St,40.74007,-73.99344,5281,4,10011
+French Cuisine,yNC4kI9Md0Csd6zqr3oeFw,The Mark Restaurant,25 E 77th St,40.775355,-73.96333,242,3.5,10075
+French Cuisine,CyIf24YrOuiikkYVnHjoog,Uncle Momo,289 Grove St,40.71835,-74.04396,159,4,07302
+French Cuisine,uDWRGAtDW1z7lWpRCfuXAg,Maison Kayser,8 W 40th St,40.752321,-73.982692,382,3.5,10018
+French Cuisine,ddKmJRZ3D1iS-gbZq03OWQ,Friedmans,228 W 47th St,40.7595053740559,-73.9854379268717,454,4,10036
+French Cuisine,ssGhu4n3emZ9kEPVf371IQ,Cookshop,156 10th Ave,40.7454251,-74.0056084,2052,4,10011
+French Cuisine,ZgyvDF_hOWas3SXe0Hj7hA,Schilling,109 Washington St,40.70857,-74.014,144,4,10006
+French Cuisine,y0HfYHoQJaguVCRuYVTIJg,Effy's Kitchen,1393B  2nd Ave,40.7693069,-73.95823,82,4,10029
+French Cuisine,iL88ZmIUC_9Obf-r6YN1Ew,Le Souk Restaurant,510 Laguardia Pl,40.72793,-73.99928,383,3.5,10012
+French Cuisine,bjSOXAOXFLMATHlrnWb_3A,Tree Bistro,190 1st Ave,40.72966,-73.98359,336,3.5,10009
+French Cuisine,9w3zIx0-n7qPLQynU8saHA,AOC East,1590 First Ave,40.77469,-73.95075,125,4,10028
+French Cuisine,K_0tNvQd7gyabfJrodf-tw,Archer & Goat,187 Lenox Ave,40.80432,-73.94835,62,4.5,10026
+French Cuisine,F4vv1nvkqN8ktbn_a4lj1g,Asiate,80 Columbus Cir,40.7689502648012,-73.9831059158054,546,4,10023
+French Cuisine,R15b1EaOvR3xe9xLacMJdg,DB Bistro Moderne,55 W 44th St,40.75594,-73.98211,683,3.5,10036
+French Cuisine,6KcS6hc2j4kJi2XTGxC1eg,Bodrum Mediterranean Restaurant,584 Amsterdam Ave,40.78935,-73.97411,374,4,10024
+French Cuisine,_LJFf9YqpYxvExTvVxb7Rw,The Modern,9 W 53rd St,40.7610060884932,-73.9767725608521,971,4.5,10019
+French Cuisine,DE0ROwygh-86i4s-WLp8wQ,Maman Soho,239 Centre St,40.72028,-73.9984,459,4,10013
+French Cuisine,sMDm_LwAvZd0w7NIpk8rZg,St. George Tavern,103 Washington St,40.70838,-74.01408,106,3.5,10006
+French Cuisine,fe1PZT1Fm_qpmlgiRnKuiQ,Lucky Strike,59 Grand St,40.72216,-74.00348,274,3.5,10013
+French Cuisine,5m-TrbqMNnwJvOd7pAt6OA,Raclette,511 E 12th St,40.7289298,-73.980601,1265,4,10009
+French Cuisine,n-JSnKZcF1Bs-RPcIlb0qw,Elephant & Castle,68 Greenwich Ave,40.736214,-74.000729,532,4,10011
+French Cuisine,yvhhKv2CDjuJsC4ecG848g,Le Bilboquet,20 E 60th St,40.76381,-73.97058,152,3.5,10022
+French Cuisine,8cT6XDwI9KiCaoVohlx42Q,BXL Zoute,50 W 22nd St,40.74174,-73.992627,397,4,10010
+French Cuisine,emTmnLlesIwxRofQ34ntdA,Juliette,135 N 5th St,40.71699,-73.9591036,863,3.5,11249
+French Cuisine,IOHaEgK1zDvUvB3SfKuGCw,Parker & Quinn,64 W 39th St,40.7525862175813,-73.9850713153442,1291,4,10018
+French Cuisine,CoPDX5NCTYOW1cM_HsO5RA,Le Midi,11 E 13th St,40.7350747572983,-73.9931811690485,381,4,10003
+French Cuisine,Xd_l7jtUAZZAAvK8-mI2Jw,The Smith,1150 Broadway,40.74424,-73.98878,893,4,10010
+French Cuisine,mBZUWdasmua9XOsWy8xdWA,Jacques,204 E 85th St,40.77792,-73.95422,183,3.5,10028
+French Cuisine,aJqjC4uAo6vhOpsVNCiMDA,Samba Kitchen,661 9th Ave,40.76095,-73.99115,420,4.5,10036
+French Cuisine,TQzGf4k3HXyMbnNkYKKQSw,Oxalis,791 Washington Ave,40.673109,-73.9626279,79,4.5,11238
+French Cuisine,tV2IY8q92bOEwVC4McgPjw,Wallse,344 W 11th St,40.7354552762594,-74.0082208400924,261,4,10014
+French Cuisine,NqwwyMMXIS-JnwdDQBQT9A,Bazar Tapas Bar and Restaurant,31 W 26th St,40.74437,-73.99014,377,4,10010
+French Cuisine,W5j4EA1fDT3EKdXdKABG3Q,El Porron,1123 1st Ave,40.7612513,-73.9609554,334,4,10065
+French Cuisine,yc4vsT-Q4Ej1_9hr94DxkQ,Sotto 13,140 W 13th St,40.7372,-73.99919,853,4,10011
+French Cuisine,3LRZQolTdyps07RSoaIXpA,Poco - NYC,33 Avenue B,40.7225107,-73.9829025,1514,3.5,10009
+French Cuisine,GlTdgd8780RNXLvz8bTmFg,Egg Shop,151 Elizabeth St,40.7204574688656,-73.9952510689421,1068,4,10012
+French Cuisine,HTZ9GOR_Cylt6bxG55co7Q,Demarchelier Restaurant,50 E 86th St,40.7805,-73.9587,220,2.5,10028
+French Cuisine,00jHmlu0elBhzBsw7Y5pww,Jack & Nellie's,10825 Ascan Ave,40.7178794,-73.8410497,650,4,11375
+French Cuisine,OwcGML0xYT-t4vmMthgOkA,Match 65,29 E 65th St,40.7673434,-73.9682993,198,3.5,10065
+French Cuisine,zv29TbzPs9-rD5ql0qWw5A,The Shadmoor,1066 2nd Ave,40.75866,-73.9655499,268,4.5,10022
+French Cuisine,K9_vumaLO80LXgoPNJJvRQ,The Terrace and Outdoor Gardens,701 7th Ave,40.75923,-73.9841,34,4.5,10036
+French Cuisine,LJaLQby_H8E9eHvcIW0xnw,Spoon Table & Bar,40 East 33rd St,40.7469069957733,-73.9831063896418,404,4,10016
+French Cuisine,PGpCaNkB1meojnbgRmb2gQ,Buena Vista Restaurant & Bar,536 9th Ave,40.75686,-73.99356,132,4.5,10018
+French Cuisine,jt_mFVGnAcPx27vIz4o29A,Fig & Olive - Meatpacking,420 W 13th St,40.7406284811719,-74.0068594359003,1336,3.5,10014
+French Cuisine,N66LlG3W6Tw5LhUtAE7h1w,Cafe Un Deux Trois,123 W 44th St,40.75667,-73.98414,572,3.5,10036
+French Cuisine,Xu8H24NxJJxEE-9wGp_AMA,The Brazen Tavern,356 W 44th St,40.7593269348145,-73.9913101196289,353,4.5,10036
+French Cuisine,iexl39DYyy_76Xq3ExaJkQ,Excuse My French,96 Orchard St,40.71844,-73.98981,264,4.5,10002
+French Cuisine,01isnBO1rFO2LTOeNfYl9w,Hillstone Restaurant,378 Park Ave S,40.7427534,-73.9847308,916,4,10010
+French Cuisine,26E3j9l0XW_onVIUP-ThCw,Heidi's House By The Side Of The Road,308 E 78th St,40.772189,-73.955029,589,4.5,10075
+French Cuisine,U5hCNNyJmb7f3dmC1HTzSQ,Junior's Restaurant & Bakery - 45th St.,1515 Broadway,40.7582662685627,-73.98654,4387,4,10036
+French Cuisine,hmdm-dO72hLsMQwQRcGEUQ,Atrium Dumbo,15 Main St,40.7033899,-73.9904923,653,3.5,11201
+French Cuisine,HD0e3eHwv573qHZOJJitWg,Aurora Soho,510 Broome St,40.723543,-74.003199,447,4,10013
+French Cuisine,e4YHihk1HFJ1EB7oD7dKDw,Sel et Poivre,853 Lexington Ave,40.76559,-73.96542,125,3.5,10065
+French Cuisine,DhBhEWMVLDxYF14a1znUvA,Lighthouse,145 Borinquen Pl,40.7104080536563,-73.9539040490168,255,4,11211
+French Cuisine,u-MUL83NUy2gsbV80WZnAA,The Marshal,628 10th Ave,40.76122,-73.99396,709,4,10036
+French Cuisine,6ujYWjs1FTksvuVxuzjUYA,Almond,12 E 22nd St,40.7400817871094,-73.9887542724609,1009,3.5,10010
+French Cuisine,JYNBy2r3LVhJbLHE1bASfg,The Smith,1900 Broadway,40.7716201269986,-73.9818377981476,1586,4,10023
+French Cuisine,LJfveecaTYurCxv1Al9iFw,Bar Six,502 Ave Of The Americas,40.736389,-73.997146,226,3.5,10011
+French Cuisine,oSKS8tI6-3yzRDq-VRuvPw,Cleo,444 Park Ave S,40.7448,-73.98324,97,4,10016
+French Cuisine,SaYTVG7wHCMDBofHCgXPaA,Dutch Freds,307 W 47th St,40.76071,-73.98793,1395,4.5,10036
+French Cuisine,oLg2HxLYChgvMRTK5ZSdKQ,Kurant,1091 2nd Ave,40.75971,-73.96521,197,4,10022
+French Cuisine,FBB7VTxx3gwsXwEUNRt6lg,TAK Room,20 Hudson Yards,40.7491302490234,-73.9923629760742,73,4,10001
+French Cuisine,uric708MW7rP8YuaQIG0ig,la côte,199 Warren St,40.7141973,-74.0398011,111,4,07302
+French Cuisine,vGS5X12NYXCl8NpynlxRuw,Oscar Wilde,45 W 27th St,40.74514,-73.9900399,563,4,10001
+French Cuisine,veq1Bl1DW3UWMekZJUsG1Q,Gramercy Tavern,42 E 20th St,40.738527,-73.988417,2821,4.5,10003
+French Cuisine,8luFI6XwdopipGzC4EzSOw,Intersect by Lexus - NYC,412 W 14th St,40.74115,-74.00624,117,4.5,10014
+French Cuisine,mOL7TxRDJGutaEtVA8_hUg,Sadelle's,463 W Broadway,40.72624,-74.00013,588,3.5,10012
+French Cuisine,Bdneg2FELG-GNQnc-zq1YA,Kāwi,20 Hudson Yards,40.7538408290715,-74.0003704647111,128,4,10001
+French Cuisine,XoDR_T-ZKYJtZgCocEDcyA,Print,653 11th Ave,40.76452,-73.99586,886,4,10036
+French Cuisine,Sj3JYCbaEFrAqUzRrenQbg,Jora Restaurant & Bar,47-46 11th St,40.7438054,-73.9515007,561,4.5,11101
+French Cuisine,eVBVn6bjwl_mMLxN-35_6w,Hotel Chantelle,92 Ludlow St,40.71843,-73.98909,1289,3.5,10002
+French Cuisine,Rmm6fu7kejcnMoSlVLyl3w,Ortzi,120 W 41st St,40.75442,-73.98578,96,4,10036
+French Cuisine,jYhbUh1TV7SCfPxjIhVpcg,Baar Baar,13 E 1st St,40.7244378855031,-73.9915524,586,4,10003
+French Cuisine,2pAophYMUh4-gVi-KJjOwA,Konbini NY,312 5th Ave,40.74701,-73.98583,6,3,10001
+French Cuisine,ZcwkYG95JHKKiLzJ8nrVYA,Cafe Select,212 Lafayette St,40.721816,-73.997927,443,3.5,10012
+French Cuisine,ch_0KLIdNlRPlbyhdOYgKg,Home Cooking New York,158 Grand St,40.720086,-73.998574,29,4.5,10013
+French Cuisine,Pr-q47vsmM4aoc2t_Sfk8w,Momofuku Noodle Bar,10 Columbus Cir,40.76847,-73.983092,223,4,10019
+French Cuisine,FFwDFLVBTQvuacl4l1ODew,Gentleman Farmer,40 Rivington St,40.7210141970542,-73.9910638332367,276,4,10002
+French Cuisine,6nnhmOgTeI6QmQS1LhMD9Q,RDV Rendezvous,2072 Frederick Douglass Blvd,40.802040664408,-73.956772898909,155,4,10026
+French Cuisine,Nnuz_Ic0IdWOUbl64r4Hkg,Fonda Park Slope,434 7th Ave,40.663631439209,-73.9846343994141,782,4,11215
+French Cuisine,PwrYnl3j3YCGzILX_5UHpw,Davelle,102 Suffolk St,40.71852,-73.98605,100,4,10002
+French Cuisine,8SehQovJOuQDLbtzLLYLyw,RH Rooftop Restaurant,9 9th Ave,40.73985,-74.00639,228,4,10014
+French Cuisine,0FaLilJs2VN83hOEBcBnPg,Au Za'atar,188 Avenue A,40.728901,-73.981185,754,4,10009
+French Cuisine,ME0627wYk0ikhX2yf1fN7w,HAVEN Riverfront Restaurant and Bar,2 Main St,40.803426,-73.9907,766,4,07020
+French Cuisine,0WjxE8_KSd2bUFUA4WSn9A,El Gauchito,9460 Corona Ave,40.7419904147065,-73.8679747455745,181,4,11373
+French Cuisine,MbLH5wjrqEJAid5woCAh5g,Le Singe Vert,160 7th Ave,40.742311,-73.997587,239,3.5,10011
+French Cuisine,W0k5HHTa7IJsR51Nf7fOmA,Times Square Diner,807 8th Ave,40.7614036889404,-73.9869685269328,866,4,10019
+French Cuisine,klAhw3xLQi9GF1tf_HnS7w,Izakaya MEW,53 W 35th St,40.7501853096499,-73.9863203465939,2174,4,10001
+French Cuisine,StF9WWWbrRzEOmNAcEINcA,Balzem,202 Mott St,40.721408,-73.995415,415,4,10012
+French Cuisine,S3Fw7s_GA94lJLbLFrqZrw,Bouchon Bakery & Cafe,10 Columbus Cir,40.768538,-73.982923,1354,4,10019
+French Cuisine,qNVN0dsnl4akLNueEoY-Hw,Gem,116 Forsyth St,40.7190867,-73.9923073,29,4,10002
+French Cuisine,MonQfsHY4TOCRwsiFOuWkg,Peach Mart,20 Hudson Yards,40.7164977,-74.0089735,50,4,10001
+French Cuisine,_0WFGjXuenlBixOlbSlGeQ,Crown Shy,70 Pine St,40.7063449,-74.0076944,157,4.5,10005
+French Cuisine,MyQV4i518ZO4CLudtR8gLA,The Bar Room,117 E 60th St,40.763409,-73.968449,492,4,10022
+French Cuisine,VCqNjupCWZ5INzOcyBMJSg,The Grey Dog - Union Square,90 University Pl,40.733828,-73.993052,1016,4,10003
+French Cuisine,5S8ZK9XLdl4l645twbNYZQ,Boqueria UES,1460 2nd Ave,40.771522,-73.956073,701,4,10075
+French Cuisine,icZcEK39HXuL2q08i4EkkQ,Bessou,5 Bleecker St,40.725502,-73.992675,223,4,10012
+French Cuisine,tvqtAjAyc7dplVVwhw3VZQ,La Contenta Oeste,78 W 11th St,40.7352,-73.99808,189,4,10011
+French Cuisine,4PeBRQZgHMW80J5YIaT39A,The Loyal,289 Bleecker St,40.7321627859791,-74.0033025943349,180,4,10014
+French Cuisine,l9b8NbDyhKhnjLKtUwlPwQ,Olea,171 Lafayette Ave,40.6877844,-73.9706046,841,4,11238
+French Cuisine,bOHWY14f1u8rR1t2ggmbYw,B Cafe East,240 E 75th St,40.7709199,-73.95759,411,4,10021
+French Cuisine,nSUIB7itn5ufTUzwa1IgxA,Frenchy's Food Truck,341 Eastern Pkwy,40.6706988393431,-73.9577984064817,67,5,11238
+French Cuisine,1LIptXhtDh58vAA-QPFL4w,Cask Bar & Kitchen,167 E 33rd St,40.745414,-73.979004,1325,4,10016
+French Cuisine,-u02f3nAME2AcjDwioLWsw,Sarabeth's,40 Central Park S,40.7651603703266,-73.9755199656067,1777,3.5,10019
+French Cuisine,zV5u8sr2u9x_oxq7BNuKKw,Le Marais,150 W 46th St,40.758,-73.98429,284,3,10036
+French Cuisine,xTWpl9DgIkkr5B8h8_xUpA,Lokal 83 Mediterranean Kitchen,473 Columbus Ave,40.7842696,-73.9734941,283,4.5,10024
+French Cuisine,SysAthrDghPL62a6OElOCQ,Local 92,92 2nd Ave,40.726957,-73.9885354,395,4,10003
+French Cuisine,jh42MR1OQFAFMhe_pQEzmw,Rustic Table,504 W 42nd St,40.759624,-73.9958265,791,4,10036
+French Cuisine,eTR6nfHvQzvKX7Dcd6JrfA,District Social,252 W 37th St,40.75369,-73.99136,646,4,10018
+French Cuisine,axqp3pGJXnTLgq2QrPyDyQ,Benemon,108 E 4th St,40.72551,-73.98838,518,4.5,10003
+French Cuisine,34-HPDO5GxVlVl4pZ-Bg3w,Kilo,857 9th Ave,40.767137,-73.9866739,446,4,10019
+French Cuisine,ehUuSk5gPTCQmwS_ubgKRA,Upstate,95 1st Ave,40.7263139141197,-73.9864901976935,1790,4.5,10003
+French Cuisine,L5iUBm_rH6cmjNyNVQV62A,Upper Story by Charlie Palmer,979 3rd Ave,40.76096,-73.96626,33,4.5,10022
+French Cuisine,cRmRAl5HHJcysKBSrHivHA,Lamano,265 W 20th St,40.7433797337789,-73.9994259551167,84,4,10011
+French Cuisine,MNNpsRXe7Wt5m3Jla9Wk0w,The Alcove,41-11 49th St,40.7459065,-73.915103,792,5,11104
+French Cuisine,zXCGF0XtqjOv1s4DUHOtqg,Hart's Restaurant,506 Franklin Ave,40.681458,-73.955893,86,4.5,11238
+French Cuisine,sMUYF6hEsuptyXiwNLaK-Q,Charlie Palmer Steak,47 West 38th St,40.75194,-73.98481,208,4,10018
+French Cuisine,RyVOeKAWLT2srJqpGNFHXw,Le Mistral,330 5th St,40.671555,-73.984566,44,4,11215
+French Cuisine,1aD88qNRb08LGBkl84GQTA,Little Collins,667 Lexington Ave,40.759912,-73.96964,792,4.5,10022
+French Cuisine,AKHA6ZU8uM3vmLwH2hqH_A,Loring Place,21 W 8th St,40.73299,-73.99754,370,4.5,10011
+French Cuisine,uLWp1QR_W2WJImMnB706hg,Mexicue,160 8th Ave,40.74202,-74.00046,355,4,10011
+French Cuisine,xMUZfoyzyJoTfZxrEZus4Q,Mom's Kitchen & Bar,701 9th Ave,40.76247,-73.9901,609,4,10019
+French Cuisine,pDUQF3IgvqZfT31luMgwTA,CK14  The Crooked Knife,232 W 14th St,40.739015,-74.001506,513,4,10011
+French Cuisine,9HkUue6kUfTIQUlLynWLMQ,Bosie,506 Laguardia Pl,40.7277403,-73.9995539,917,4,10012
+French Cuisine,7KO4zcBtc2-2M5kJLfl0kw,Jolie Cantina,241 Smith St,40.683532,-73.992288,402,4,11231
+French Cuisine,yk-urU0Zz41LiTS2ZBZf1Q,Romanian Garden,43-06 43rd Ave,40.7449088452058,-73.921469294812,120,3.5,11104
+French Cuisine,uwStYTWVMr-0BihJD7CmSQ,Choc O Pain,157 1st St,40.7375,-74.03219,305,4,07030
+French Cuisine,k5NAz3-goMXKoUqPfOZ1Hw,The Smith,55 3rd Ave,40.7310675,-73.9886217,1910,3.5,10003
+French Cuisine,bhO25n-KN55UrqSOAb9CUQ,Maison Kayser,921 Broadway,40.7400284,-73.9897079,431,3.5,10010
+French Cuisine,j69WHdRCVQTypfe7hQWauw,Brasserie Cognac East,963 Lexington Ave,40.769097,-73.96286,99,3.5,10021
+French Cuisine,zwFS-FcGe062to_rWWkLCw,Bouchon Bakery,1 Rockefeller Plaza,40.7582232250109,-73.9788105906568,767,4,10111
+French Cuisine,RYoc4EBUNOtgbg7c32OG9A,Atoboy,43 E 28th St,40.74364,-73.98456,325,4.5,10016
+French Cuisine,fV_caNsGFhpA796cDS85GQ,Lymm Bistro,16 Bridgewater Street,53.381091,-2.478931,1,3,WA13 0AB
+French Cuisine,qY1o1MhoRyN84RRhUJtvpQ,Her Name Is Han,17 E 31st St,40.74626,-73.98473,1125,4,10016
+French Cuisine,Lw044EfH1h3XhUhri3ExfA,BLACKBARN,19 E 26th St,40.7431036278527,-73.9870538457459,566,4,10010
+French Cuisine,Fl2z1edJw3MONc9rERWRMg,B2 Harlem,271 W 119th St,40.80613,-73.95317,247,4,10026
+French Cuisine,JbpjgLAk4DaP0zvY7dP9Hw,Elysian Cafe,1001 Washington St,40.7486464,-74.027349,517,3.5,07030
+French Cuisine,ooYUO3Pq_qypc1NXFzeLYQ,City Vineyard,233 West St,40.7205582,-74.0118093,760,4,10013
+French Cuisine,PnGSE8JGbMZKtdHi9go7Kg,The Milling Room,446 Columbus Ave,40.7835485472543,-73.9744088718635,437,4,10024
+French Cuisine,FkA9aoMhWO4XKFMTuTnl4Q,Atla,372 Lafayette St,40.7271874,-73.9938924,264,3.5,10012
+French Cuisine,9o4y3IqpFDaj8FddJ6oi2A,Clement,700 5th Ave,40.7616602403771,-73.9752098617798,137,4,10019
+French Cuisine,s4_ruNWE136n8awcA9oBbA,The Smile,26 Bond St,40.726621,-73.993545,472,3.5,10012
+French Cuisine,zo4mcEfVKaktdj_gnSFhGQ,Cafe Katja,79 Orchard St,40.7177673,-73.990589,767,4.5,10002
+French Cuisine,cpfBJVV-5Jo5w2KcbOBtVQ,Chez Oskar,310 Malcolm X Blvd,40.6822491,-73.9290779,474,3.5,11233
+French Cuisine,e_EQojNWskn_hFbKA_UZ-Q,Balvanera,152 Stanton St,40.72063,-73.98539,217,4.5,10002
+French Cuisine,FvXuQowHsViFdkpF5M6Xvw,Mila Cafe,694 Columbus Ave,40.791465,-73.96891,138,4,10025
+French Cuisine,uby3glEc0Brt9LAoCI0WTg,L'Express,249 Park Ave S,40.738162056865,-73.987646111269,792,3.5,10003
+French Cuisine,N7ux8gAg5udFTgZ2Y5P-6A,Ceci-Cela,14 Delancey St,40.7202848335508,-73.993055798842,549,4,10012
+French Cuisine,TJdISkgdqOsOaV6T2x_QPg,OliVine,36-03 Ditmars Blvd,40.7744,-73.90781,48,4.5,11105
+French Cuisine,Vs2IM_3Hyhh7FrzagM_9cQ,Mar's,34-21 34th Ave,40.758364,-73.924101,248,4,11106
+French Cuisine,8lLs3dsSN-Am2_EtNfbXqA,Community Food & Juice,2893 Broadway,40.8057975769043,-73.9656753540039,875,3.5,10025
+French Cuisine,0yg9DS4RDceQ6HgH3Jx80Q,Sean's Bar & Kitchen,42 West 48th St,40.75801,-73.98008,266,4,10036
+French Cuisine,ArfL-sU2FaB73WV1qQ4c6Q,Simple Cafe & Restaurant,346 Bedford Ave,40.71244,-73.96275,172,4,11249
+French Cuisine,bZUHH0TVoqb-vkC5V84DOQ,Beasts & Bottles,151 Atlantic Ave,40.69059,-73.99503,162,3.5,11201
+French Cuisine,zscLFr_wQUmSRGkup2YjpA,Mexicue,1429 3rd Ave,40.77536,-73.95628,148,4,10028
+French Cuisine,FeSynfcDT4qB2kDixHUQCA,Danji,346 W 52nd St,40.764,-73.98686,984,4,10019
+French Cuisine,6jsGtz0vwEGZ44urQKQkeQ,Shopsin's,88 Essex St,40.718595,-73.988157,701,4,10002
+French Cuisine,i38R1KxL99JoG-Ns7FyyGw,12 Chairs,56 MacDougal St,40.72759,-74.0024,484,4,10012
+French Cuisine,FNxOWxts63oDRKwy9Pbfzw,Tarallucci E Vino - Nomad,44 E 28th St,40.7436553,-73.9852171,151,4,10016
+French Cuisine,h9rymMeMUMOxQ9d93U0YDg,Baker & Co,259 Bleecker St,40.7313423,-74.0028996,605,4,10014
+French Cuisine,E6Y4ICdoqtYkFilRLfrOHA,Ducks Eatery,351 E 12th St,40.7306252,-73.9846268,611,4,10003
+French Cuisine,7y7E2wavr-HBwEmq2snMLw,Saxon + Parole,316 Bowery,40.72521,-73.99247,759,4,10012
+French Cuisine,fMJQBBesd6IBq8vyL79Wqg,Mokum,464 Amsterdam Ave,40.78541,-73.9769,61,4,10024
+French Cuisine,pNYcGGAj4AYaExlmrEmfUw,Harry's,1 Hanover Sq,40.704512,-74.009834,665,4,10004
+French Cuisine,kaSd6qzlsxn__ILDtGf3iA,Alice's Tea Cup,102 W 73rd St,40.77802,-73.9787,1105,4,10023
+French Cuisine,VMugGjWqmOfCXnYv_7aFWw,Kubeh,464 Avenue Of The Americas,40.7355205142767,-73.9979605809656,213,4,10011
+French Cuisine,hGo9KArKThuOKxNbwmNpoA,Ruby's Cafe,219 Mulberry St,40.7223288,-73.996326,1125,4,10012
+French Cuisine,ZDcEBxf3MMKg6UIh5KEt5Q,Chef Toni's Cooking Adventures LLC,967 Columbus Ave,40.8001216379953,-73.9620435126282,18,4.5,10025
+French Cuisine,45hQHMdFxw0mh7ZTU--cDQ,The Grange Bar and Eatery,1635 Amsterdam Ave,40.8225233274899,-73.949358447155,715,4,10031
+French Cuisine,-olla_BldF5Y84I9ezRNdA,Hourglass Tavern,373 W 46th St,40.760952,-73.9903269,740,4,10036
+French Cuisine,p5JbHNDAXBJpqcGTsmTMBQ,Mother's Ruin,18 Spring St,40.72135,-73.99502,441,3.5,10012
+French Cuisine,mWS4umRg2AyykyAClMrIRw,The Penrose,1590 2nd Ave,40.7755334102308,-73.9532487460327,1124,4,10028
+French Cuisine,ybZ4bVTE4NWBKIm829_Ivg,Soigne Restaurant,486 6th Ave 12 Ste,40.66643,-73.98545,202,4,11215
+French Cuisine,QvQilClGyuKFz08TBsoJNA,Le District,225 Liberty St,40.7126473617984,-74.0157784596443,520,3.5,10281
+French Cuisine,Tgi-rDD3mxFi9uGybZxdaQ,Faun,606 Vanderbilt Ave,40.67826,-73.96885,140,4,11238
+French Cuisine,MctQwL9Mp5X7DJk13VoERg,Westville Chelsea,246 W 18th St,40.74175,-74.00007,1087,4,10011
+French Cuisine,q1uIqB8PvyCCX8TajaRYBg,The Little Owl,90 Bedford St,40.7323808291402,-74.0053009986877,1249,4,10014
+French Cuisine,fmrtc7AsD7GS3BAfJ8QQHQ,Gentleman Farmer - Fort Greene,378 Myrtle Ave,40.69307,-73.9711,153,4.5,11205
+French Cuisine,Z-hDHjP4Eza6BA4G97tzVA,BLVD Bistro,2149 Frederick Douglass Blvd,40.8043626,-73.9557515,767,4,10026
+French Cuisine,lcI9kOcRqxxMhM4b5pHqsg,Dawa's,51-18 Skillman Ave,40.7456869,-73.9126859,218,4.5,11377
+French Cuisine,ul5xrEoxwdyRCL6YGhaShw,Danny's French Cuisine,13-46 127th St,40.7854,-73.84144,14,4,11356
+French Cuisine,WYdrEMBXzOcxffpQczHKww,Ortomare Ristorante Pizzeria,994 Columbus Ave,40.80124,-73.96161,28,4.5,10025
+French Cuisine,GCAQmtRdNhqVit5KGJ46Qg,Estela,47 E Houston St,40.724759,-73.994728,498,4,10012
+French Cuisine,B8uEWQoTILlTNajCmJVOcQ,Mezetto,161 E Houston St,40.7228863781236,-73.9889362576721,580,4,10002
+French Cuisine,W4hobe10Fy54MKqmLaObEg,Cafe Mogador,101 St Marks Pl,40.727258767439,-73.9845085144043,1852,4,10009
+French Cuisine,s4dRPq3hzy2Df-pCDHcVSg,The Crooked Knife,29 E 30th St,40.7451615,-73.9842359,600,3.5,10016
+French Cuisine,3xJAmXIUO8cRSnPcUoMdCw,Spring Natural,98 Kenmare St,40.7212623953819,-73.9969895035028,770,3.5,10012
+French Cuisine,J9xVQScnr0lYWl61_mLXMA,Lido,2168 Frederick Douglass Blvd,40.8049797781916,-73.9548260014624,945,4,10026
+French Cuisine,Nbqzy3ea5_x2zXWkdWlUIQ,Sake Bar Hagi 46,358 W 46th St,40.76057,-73.99008,260,4,10036
+French Cuisine,Uv13OfDr0fm5Jk2Dk4uFvQ,Hank's Juicy Beef,84 Chambers St,40.7143487,-74.0072147,238,4.5,10007
+French Cuisine,MOwB9YYd-Ko6nVgSB-ltQw,Briciola,370 W 51st St,40.7637997047278,-73.9880919456482,795,4,10019
+French Cuisine,UQZmhaPAMdZabid6ccvhTg,Il Punto Ristorante,507 9th Ave,40.75612,-73.99467,340,4,10018
+French Cuisine,92m23CB9r9XrPFK7_7-SmQ,Flip'n Toss,82 Christopher St,40.73341,-74.00364,149,4.5,10014
+French Cuisine,kuSkLiSq9gHuytBBOOYeeQ,La Ripaille,605 Hudson St,40.73728,-74.00591,110,3.5,10014
+French Cuisine,neGi6_5VznwF4RGLgQ2dBg,Harold's,2 Renwick St,40.7243505276733,-74.0085487285094,138,3.5,10013
+French Cuisine,IiDfrdwPZJHbiuHdjaSJKA,Attraversa,225 W Broadway,40.71922,-74.00603,44,4.5,10013
+French Cuisine,ZhbHXqkEYNKLAbamW5peJQ,Narcissa,25 Cooper Sq,40.7279081084989,-73.9909284946934,498,3.5,10003
+French Cuisine,CO3lm5309asRY7XG5eXNgg,Rahi,60 Greenwich Ave,40.7360271,-74.0005436,403,4.5,10011
+French Cuisine,ikazsJps1k-Br2FbunwCtg,Spot Dessert Bar,13 St Marks Pl,40.72939,-73.98892,2881,4,10003
+French Cuisine,pk89jzL1RsE9U0thf_z6tw,Locanda Verde,377 Greenwich St,40.7198601300801,-74.010039072422,1577,4,10013
+French Cuisine,D13m2P0qKQUWNqIW-lpHZg,Yaso Tangbao,220 E 42nd St,40.74998,-73.973,238,3.5,10017
+French Cuisine,dVAI5zh29psdbHp9wGXwVQ,M Star Cafe,19 Division St,40.713928,-73.99652,283,3.5,10002
+French Cuisine,Ucxhqn56VtC-eYjdNsg7Og,Vitae,4 E 46th St,40.7555884,-73.9785483,763,4,10017
+French Cuisine,qs1aolxd2bPxv2aGoUtIPg,Andrews Coffee Shop,463 7th Ave,40.7517535734003,-73.9899742755447,382,3,10018
+French Cuisine,-593H2__eJeiSBT4pU7Wfw,Viand,517 Columbus Ave,40.7856907,-73.972613,76,4,10024
+French Cuisine,_NS1hEZ0LPwaTG4R6jxgnw,Cafe Sabarsky,1048 5th Ave,40.7813294606411,-73.9603686332703,487,4,10028
+French Cuisine,v0DwpyNrKeS2ZhfMjVu8lg,CajunSea & Oyster Bar,32 W 33rd St,40.7483352,-73.9867701,1190,4,10001
+French Cuisine,OYKNRBU-unLF-r0bRZwY3A,Peaches,393 Lewis Ave,40.6818070319111,-73.9346463688382,1076,3.5,11233
+French Cuisine,N81_5xlY7dpEqrygi8lVOA,Public Kitchen,215 Chrystie St,40.7230205730996,-73.9919801428914,199,3.5,10002
+French Cuisine,MCnexHfsclcOpLHS4_2U0A,San Carlo Osteria Piemonte,90 Thompson St,40.72517,-74.00212,197,4.5,10012
+French Cuisine,nw5_0jb_u2a6nUt4Je09Xg,Casa Del Chef,39-06 64th St,40.7462089684205,-73.8999964166707,207,4.5,11377
+French Cuisine,5IGFJRN06HiclnivxaFThQ,El Pote Español Restaurant,718 2nd Ave,40.74758,-73.97362,168,4,10016
+French Cuisine,SXWnyFNLCehVlJPRxk7gAg,Anejo Tribeca,301 Church St,40.7193829,-74.004417,343,4,10013
+French Cuisine,wpye6v-2fIx7Z2Sz12XubA,Barawine,200 Lenox Ave,40.8045311,-73.9473801,319,3.5,10027
+French Cuisine,FJepPR5CYRggxRwAjlqg6A,Bowery Road,132 4th Ave,40.7333427,-73.9901924,195,4,10003
+French Cuisine,Xk3BVvlX-KXh6kJhbClMKw,Fine & Rare,9 E 37th St,40.7501754760742,-73.9821929931641,292,4.5,10016
+French Cuisine,x_YWFkTcxEu1lo8Nlrog5A,Milk & Honey Cafe,1119 Newkirk Ave,40.634356735221,-73.9661046515558,932,4,11230
+French Cuisine,Isda3V_1L9cjkJ2Jiz8dhw,The Bedford,110 Bedford Ave,40.720019,-73.9555259,370,3.5,11249
+French Cuisine,oopgHvduXbtgwNRmybEhgQ,Sons of Essex,133 Essex St,40.720315,-73.987774,1198,4,10002
+French Cuisine,7YsZno_m9TQqKd-DHpttuw,Abigail's Kitchen,85 MacDougal St,40.7289635,-74.0015413,247,3.5,10012
+French Cuisine,Gun7lX-5SYRWzJsNsu-U6g,Sant Ambroeus,265 Lafayette St,40.7234184,-73.9965676,146,3.5,10012
+French Cuisine,r-EDS_eO70HUgDmOk5_8Qw,Juniper Bar,237 W 35th St,40.7522805974308,-73.9916151018524,540,4,10001
+French Cuisine,Hoq8s-NePq6_3QxJhR7oNA,Bocaditos Bistro,4863 Broadway,40.8668498343787,-73.9239908382297,370,4.5,10034
+French Cuisine,5MpWHGQ6Qc-M4q1KL_nioA,Bar B,84 7th Ave,40.7395804,-73.999118,171,4.5,10011
+French Cuisine,ZgIfySJ3cnB1svoyJAiCzg,Buenos Aires,513 E 6th St,40.7253150939941,-73.983039855957,521,4,10009
+French Cuisine,ghXmKZpOwbfCl3i1UOg9qg,10 Corso Como,200 Front St,40.707053,-74.00278,66,4,10038
+French Cuisine,a-XBTXQM4qigxUgpTmS7Fg,Codino,62 Carmine St,40.7300643486969,-74.0037936652668,62,4,10014
+French Cuisine,5K0b-fEk96xUJCV_5ytNog,Contra,138 Orchard St,40.719878,-73.989063,309,4,10002
+French Cuisine,euO-c5OpErE3UJCAliC4Bw,Mellow Yellow,1729 1st Av,40.77929,-73.94785,257,4.5,10128
+French Cuisine,AIKjw2QLvVNdha3TciJYzg,Boqueria,171 Spring St,40.724912,-74.0021299,959,4,10012
+French Cuisine,Gn7oaWjBoEGHe1_bfsBikg,Virginia's,647 E 11th St,40.72666,-73.9773,164,4,10009
+Vegetarian Cuisine,Bb0h5Rs8ugSM2CjulRhfBw,Spicy Moon,328 E 6th St,40.72674,-73.98722,190,4.5,10003
+Vegetarian Cuisine,XipQLDbyTl5tsLlyzAWzug,Jajaja,162 E Broadway,40.7141530317142,-73.9904247969389,808,4.5,10002
+Vegetarian Cuisine,tguMh2GgOcU9fu6WN3dqpw,The Original Buddha Bodai 佛菩提 Kosher Vegetarian Restaurant,5 Mott St,40.7138543,-73.9989484,949,4,10013
+Vegetarian Cuisine,DodCeSN_hkXCJDoJ0uVxKg,Nix,72 University Pl,40.73323,-73.99359,512,4,10003
+Vegetarian Cuisine,0bDtHB75wr16A_8zUm_2ng,Quantum Leap,1103 1st Ave,40.7605446023707,-73.9614734438973,34,4.5,10065
+Vegetarian Cuisine,MidK0WWI0_1tZL8AuR7Jhw,Candle 79,154 E 79th St,40.774627,-73.958697,1310,4,10075
+Vegetarian Cuisine,TzhAlljC_843JO7UDDUIaQ,The Tang - Upper West Side,920 Amsterdam Ave,40.80006,-73.96639,136,4.5,10025
+Vegetarian Cuisine,O1fUmxt3kbV-rnyjBtzAfw,THEP Thai Restaurant,1439 2nd Ave,40.77078,-73.95727,825,4.5,10021
+Vegetarian Cuisine,9DceMTrjyVqBgQRqgR6GWw,Red Bamboo,140 W 4th St,40.7313183707867,-74.0003546456233,1681,4,10012
+Vegetarian Cuisine,elLwg1PVFUEnoyKpzMP8DQ,Bali Kitchen,128 E 4th St,40.725371,-73.987617,128,4.5,10003
+Vegetarian Cuisine,KxyH5zvTyXawl17lHjA4SQ,Beyond Sushi,134 West 37th St,40.75247,-73.98845,442,4.5,10018
+Vegetarian Cuisine,h0PVO3fYw37f7VUH4UA3jQ,XYST,44 West 17th St,40.73874,-73.99444,277,4.5,10011
+Vegetarian Cuisine,NKI1VvfXYluRjnq4S6yEuw,Divya's Kitchen,25 1st Ave,40.72378,-73.98849,329,4.5,10003
+Vegetarian Cuisine,ZrdTKStTAo2pchslOev1KQ,Chennai Garden by Tiffin Wallah,127 E 28th St,40.74298,-73.98274,758,4,10016
+Vegetarian Cuisine,qHi_FA4zSEkFshXQ4Chc9A,Jiang Diner,309 E 5th St,40.72665,-73.98838,82,4,10003
+Vegetarian Cuisine,QaolMEijS7L6eodSneOdng,Tridim West,467 Columbus Ave,40.78412,-73.97368,43,4.5,10024
+Vegetarian Cuisine,Ohi-o00luDtU7TMpVtJHJw,Blossom,187 9th Ave,40.745513,-74.002365,1020,4,10011
+Vegetarian Cuisine,PqqnNrUtU7XTKQvUM4cyqQ,Bar Verde,65 2nd Ave,40.7260849061034,-73.9897361397743,209,4.5,10003
+Vegetarian Cuisine,j0Q-yyxS2WiL3foCJEV4eg,Dirt Candy,86 Allen St,40.7179075,-73.9907183,621,4,10002
+Vegetarian Cuisine,goKn7tKTIqpNPM_jR2yRCg,Leyla,108 W 74th St,40.77882,-73.97834,48,4.5,10023
+Vegetarian Cuisine,FoR70YoGSb4_QavCe1WZEw,Beyond Sushi,229 E 14th St,40.7329,-73.98588,911,4.5,10003
+Vegetarian Cuisine,yFub1BhKEP-W-_ZM3_nJoQ,Bodhi Kosher Vegetarian Restaurant,77 Mulberry St,40.71641,-73.99931,339,4,10013
+Vegetarian Cuisine,q7U2GCMWIZxIqWeMDml0LQ,Pure Ktchn,352 West 46th St,40.76053,-73.98992,268,4.5,10036
+Vegetarian Cuisine,1gK-0_lGqjxbwiHWcXXdzg,ABCV,38 E 19th St,40.7379039812942,-73.9888740099824,461,4,10003
+Vegetarian Cuisine,0dDCDQz7DrKkSvu9h2hcQw,Chow House,181 Bleecker St,40.72915,-74.00072,318,4.5,10012
+Vegetarian Cuisine,KXD44wWmrGf7mzyyr0bikw,P.S. Kitchen,246 W 48th St,40.76066,-73.98664,380,4,10036
+Vegetarian Cuisine,IJg3TdXz8IzKTfcspmr8MQ,Seasoned Vegan,55 Saint Nicholas Ave,40.800664,-73.952757,1092,4,10026
+Vegetarian Cuisine,B3_K2kUVbYOU0VaLcj_LTw,Thai Villa,5 E 19th St,40.73902,-73.99065,2919,4.5,10003
+Vegetarian Cuisine,ESObaNki6C-ivZpSHIO8yQ,Areppas,115 E 23rd St,40.740077,-73.985479,18,3,10010
+Vegetarian Cuisine,liZmIO0FqZwslLJfLDkfgw,Wayla,100 Forsyth St,40.71828,-73.99275,155,4.5,10002
+Vegetarian Cuisine,rGmGim1ZDCxnF8n4NiKrYQ,Vegetarian Dim Sum House,24 Pell St,40.715023,-73.998161,545,3.5,10013
+Vegetarian Cuisine,x5HLJVEOYF-cCmGEZFu9yA,The Candle Cafe,1307 3rd Ave,40.771434,-73.959146,896,4,10021
+Vegetarian Cuisine,jjJc_CrkB2HodEinB6cWww,LoveMama,174 2nd Ave,40.7303859,-73.9860613,4595,4.5,10003
+Vegetarian Cuisine,kqJApXkfFn42SZZG7QTc4w,Go Zen,144 W 4th St,40.7313398845326,-74.0005102638063,557,4,10012
+Vegetarian Cuisine,tf3RVircY9-8adku41N6VQ,Superiority Burger,430 E 9th St,40.72739,-73.98355,575,4,10009
+Vegetarian Cuisine,i6RhqnCJ_oUfTu5LikGXUg,Dun Huang - East Village,300 E 12th St,40.73081,-73.98568,253,4.5,10003
+Vegetarian Cuisine,r271Tv2uqJtIcghCFRa8BQ,Haile Bistro,182 Ave B,40.72783,-73.97951,193,4.5,10009
+Vegetarian Cuisine,u8mQ5BU8dKL5zuSv3_ZzJg,The Chick Shop,805 3rd Ave,40.75537,-73.97054,58,4.5,10022
+Vegetarian Cuisine,VvsZAnEwU4c8Xkyrzx05Nw,Anytime,23 W 32nd St,40.74779,-73.98674,951,4.5,10001
+Vegetarian Cuisine,xWbM508dFehV9wv2VcnXEw,Nansense,,40.7409334862577,-73.9941683732428,9,5,10011
+Vegetarian Cuisine,qH8PVeddtVs9cKN2pwgdkQ,Hwa Yuan,42 E Broadway,40.7137,-73.99598,215,4,10002
+Vegetarian Cuisine,Z_fT0KLZV3y80LHUMlmbig,Khiladi NYC,175 Avenue B,40.727536,-73.97926,30,4.5,10009
+Vegetarian Cuisine,xWUL-j6TQyKQHIfOtetu-Q,Hangawi,12 E 32nd St,40.746737,-73.984662,1124,4,10016
+Vegetarian Cuisine,5QI6QXNJThnqWQFO7y0VOw,Injera,11 Abingdon Sq,40.7370922,-74.0051453,563,4,10014
+Vegetarian Cuisine,WVsPyl-DGRu0O_rQYdIMVQ,The Best Sichuan,47 W 39th St,40.75266,-73.98459,22,4,10018
+Vegetarian Cuisine,xrKa2SpgWzPEEbji3Iw2DQ,The Calaveras,949 Columbus Ave,40.79956,-73.96241,95,4.5,10025
+Vegetarian Cuisine,jYhbUh1TV7SCfPxjIhVpcg,Baar Baar,13 E 1st St,40.7244378855031,-73.9915524,586,4,10003
+Vegetarian Cuisine,C2E1E0o-ssSrf_dokwxTXg,Massawa,1239 Amsterdam Ave,40.8099,-73.95856,267,4,10027
+Vegetarian Cuisine,noBCTbD1Ylf5QR7PXy-rkA,Cafe Himalaya,78 E 1st St,40.7232289034083,-73.9879441220901,608,4,10009
+Vegetarian Cuisine,2tTUnW5filzR3YG-G7rZ0w,Benyam Cuisine,2795 Frederick Douglas Blvd,40.82522,-73.94058,97,5,10039
+Vegetarian Cuisine,qhXIW0LDT4XsoN2IE6dZHg,Ahimsa Garden,265 E 10th St,40.72849,-73.98319,91,4.5,10009
+Vegetarian Cuisine,xq0cX_DgxiJMXwhmEl9kUA,Café China,13 E 37th St,40.7499225208569,-73.9819464127197,1558,4,10016
+Vegetarian Cuisine,ySzkBv-_DTNT30eONPnAkg,Zoma,2084 Frederick Douglass Blvd,40.802258,-73.956537,377,4,10026
+Vegetarian Cuisine,uwj3FOQ0ucGOxk3vBXaBCg,Teranga,1280 5th Ave,40.79632,-73.94942,33,4.5,10029
+Vegetarian Cuisine,VbFYau70iG_s6UNFwYtGVQ,Xu's Public House,15 Union Square W,40.73589,-73.9917,50,4.5,10003
+Vegetarian Cuisine,LT0yyLNM84EiJj9DL0rfHA,Hui Restaurant & Bar,314 E 70th St,40.76701,-73.95846,119,4.5,10021
+Vegetarian Cuisine,tXZOJhUUknjTRRo9j4ckZg,Farida Central Asian Cuisine & Grill,498 9th Ave,40.75568,-73.99441,226,4.5,10018
+Vegetarian Cuisine,1_pK5aQ47atF50oAKHADhA,Indian Accent,123 W 56th St,40.7643344624229,-73.9787312885132,528,4.5,10019
+Vegetarian Cuisine,mUl0wtO7tPkBocuJqZ-7Dw,Dun Huang -  Grand Central,320 Lexington Ave,40.74922,-73.97785,143,4.5,10016
+Vegetarian Cuisine,rn6SmSqAYx2kLFIAxytMMQ,Kajitsu,125 E 39th St,40.7498614,-73.9777215,224,4,10016
+Vegetarian Cuisine,rp_TaJRjaNmOCb8vJ2S_sw,Blossom on Columbus,507 Columbus Ave,40.7853146,-73.9728638,358,4,10024
+Vegetarian Cuisine,RBjVu2fFv9NPkV8XD9R9yw,BKK Eatery,138 E 34th St,40.746043,-73.9795058593154,51,4.5,10016
+Vegetarian Cuisine,pwarWuPn7Aw_il-epzJEgg,Awash Ethiopian Restaurant,338 E 6th St,40.72658,-73.98682,314,4,10003
+Vegetarian Cuisine,cfa699KGi9Ki-U_mCMVJvg,Caravan of Dreams,405 E 6th St,40.7261704450824,-73.9856490472387,516,3.5,10009
+Vegetarian Cuisine,Dr_eezrA2Cc_azMYnwhRkA,Sup Crab,97 Bowery,40.71733,-73.99502,140,4,10002
+Vegetarian Cuisine,sCC7-hSdCkNPExejZT9BAQ,The MasalaWala,179 Essex St,40.72191,-73.98666,1420,4.5,10002
+Vegetarian Cuisine,-OixbLnFLCzQclxCSbUQ8w,Up Thai,1411 2nd Ave,40.7698275926665,-73.9576330868512,2134,4.5,10021
+Vegetarian Cuisine,kSX8M82uUAcw5vfhn8jMng,Meske Ethiopian Restaurant,468 W 47th St,40.762576205372,-73.99281265198,300,3.5,10036
+Vegetarian Cuisine,xscOfj1dMkEKvhrRruLpIg,Quantum Leap,226 Thompson St,40.72916,-73.99874,659,4,10012
+Vegetarian Cuisine,UC3n_0vZ5zI1fvi7UzNZAg,Sabai Thai Restaurant,432 Park Ave S,40.74422,-73.98365,218,4.5,10016
+Vegetarian Cuisine,eCjQpniDmsnw3Hc9qP0ASw,Queen of Sheba,650 10th Ave,40.76193,-73.99347,599,3.5,10036
+Vegetarian Cuisine,cTE0e96GYzet799EJeStoQ,Chama Mama,149 W 14th St,40.7384,-73.99892,150,4.5,10011
+Vegetarian Cuisine,3dZsX3mqbVsLEXPwMYKPsw,Zaika New York,230 E 44th St,40.75135,-73.97209,113,4.5,10017
+Vegetarian Cuisine,PomCcGt5U33ooa6OMnsstg,Two Tablespoons,East 45th Street & Vanderbilt Avenue,40.75435,-73.97698,82,3.5,10169
+Vegetarian Cuisine,pCfGgX0WxGASGM4-Yhr2Pw,Hao Noodle Chelsea,343 W 14th St,40.7406999,-74.00436,304,4.5,10014
+Vegetarian Cuisine,VoAuIReq_cPUrFwxbWqG_Q,SalaThai Restaurant,307 Amsterdam Ave,40.7801199,-73.98032,268,4.5,10023
+Vegetarian Cuisine,qm1J_dPA5IHij1oAnoZwHw,nonono,118 Madison Ave,40.74545,-73.98499,536,4.5,10016
+Vegetarian Cuisine,15svH3HiVDwHMSIlRYpk6A,Ashoka Indian Restaurant,489 Columbus Ave,40.78477,-73.973027,238,4.5,10024
+Vegetarian Cuisine,jvPYm9rYK-5ddnjU30Oz4Q,Avant Garden,130 E 7th St,40.7261499,-73.98402,302,4.5,10009
+Vegetarian Cuisine,r7z65v8cnBP0MhGP4oQ0bQ,Oda House,406 E 73rd St,40.768084,-73.954979,40,4.5,10021
+Vegetarian Cuisine,RJiU4vY5Rk6Dp4xew6FPFQ,Sumela Mediterranean Cafe & Grill,1606 1st Ave,40.7750785978051,-73.950450334847,114,4.5,10028
+Vegetarian Cuisine,jIbFA311ECY4Fv4L0JikdQ,Just Pho,252 W 31st St,40.74989,-73.99425,90,4.5,10001
+Vegetarian Cuisine,qrncvjkiKN5Z-JC06ygy6A,Hutong,731 Lexington Ave,40.761551,-73.967443,131,4,10022
+Vegetarian Cuisine,4b43TOXpskBPZqQzbKkwDQ,Le Botaniste,127 Grand St,40.7204278,-74.0002028,118,4.5,10013
+Vegetarian Cuisine,g4EXxoV0z_TnyWF8h9xMKQ,May Kaidee East Broadway,215 E Broadway,40.7140637,-73.987464979291,45,4.5,10002
+Vegetarian Cuisine,iUEvASoukxI6vrCYWYyK8g,Kati Shop,162 E 55th St,40.75899,-73.96883,143,4.5,10022
+Vegetarian Cuisine,shp52ABKmbCEOB4dku0low,Samudra NYC Restaurant,826 9th Ave,40.76609,-73.98683,35,4.5,10019
+Vegetarian Cuisine,3uEkZEAp7biQEtt0S7W1Vg,Vatan Indian Vegetarian,409 3rd Ave,40.74236,-73.9803699,615,4,10016
+Vegetarian Cuisine,x0k5kFArHLijdY8-NEQ7Xg,Bengal Tiger Indian Food,58 W 56th St,40.763167,-73.977131,1738,4.5,10019
+Vegetarian Cuisine,7CM15wd5d8WC_pHR674YXA,Hummus Kitchen,1613 2nd Ave,40.7763650431587,-73.9529693360589,783,4,10028
+Vegetarian Cuisine,d8zSYpArh4oXpxeJWNA4Pg,Nish Nush,88 Reade St,40.715688,-74.007695,690,4.5,10013
+Vegetarian Cuisine,jc9O616hTW9CFn4KRyEgrw,Jahlookova,2531 Frederick Douglass Blvd,40.81691,-73.94665,14,4.5,10030
+Vegetarian Cuisine,L0OIOw6u8SF79OkDkRx_AA,Luthun,432 E 13th St,40.73004,-73.98182,23,4.5,10009
+Vegetarian Cuisine,p3E_1wktqB-Z4qtqqO9F-A,Terri,60 W 23rd St,40.74252,-73.9923,845,4,10010
+Vegetarian Cuisine,LjBKkUSpMwrpo99hXgtHYw,Franchia Vegan Cafe,12 Park Ave,40.7474712051298,-73.9812423408763,884,4,10016
+Vegetarian Cuisine,3oB2_2vpeIyxJt1GvlcZBA,Baodega,7 W 20th St,40.74014,-73.99178,66,4,10011
+Vegetarian Cuisine,yV7brOiTLS3Lmwws8e3nXA,Dil-e Punjab Deli,170 9th Ave,40.74482,-74.00206,189,4.5,10011
+Vegetarian Cuisine,JhJLPp6KuBcD3CHCkEKJ_A,Cocoron,16 Delancey St,40.72031,-73.99305,975,4,10002
+Vegetarian Cuisine,tbg4gR3jUUllR28cySo2kg,Awash Ethiopian Restaurant,947 Amsterdam Ave,40.800641,-73.965098,447,4,10025
+Vegetarian Cuisine,6eVNHrnp67ZniJYLik1qig,Yara,319 E 53rd St,40.75646,-73.9662,69,4.5,10022
+Vegetarian Cuisine,ut-560tVcs2g-ZU0Y_qqHQ,Saar Indian Bistro,241 W 51st St,40.7626659,-73.9847093,150,4.5,10019
+Vegetarian Cuisine,upaVTWhLsxcu1HXqN8iHVQ,Ladybird,111 East 7th St,40.726769311104,-73.9847712789363,247,4,10009
+Vegetarian Cuisine,EbX_9tqAJs4gW51gZpOB7g,Rasa,25 W 8th St,40.7327654,-73.9975674,673,4,10011
+Vegetarian Cuisine,2l6f0IXKZkxyq0L4EaoaFQ,The Butcher's Daughter,19 Kenmare St,40.720706862742,-73.9948451276474,1175,3.5,10012
+Vegetarian Cuisine,Up2LI3M1Uz3qJncRo0WgVw,Pho Shop,141 W 72nd St,40.7782,-73.980202,32,4.5,10023
+Vegetarian Cuisine,oowNI_aUmGEFa_VW8BFgRg,Tri Dim Shanghai,1378 3rd Ave,40.77395,-73.95793,341,4,10075
+Vegetarian Cuisine,3PabSEZ2ESexVFZznyozVw,Delice & Sarrasin,20 Christopher St,40.73377,-74.00065,374,4,10014
+Vegetarian Cuisine,0GftSP2dRwEzujkv2VKIgA,Wok Wok,11 Mott St,40.71406,-73.99883,876,4,10013
+Vegetarian Cuisine,3xJAmXIUO8cRSnPcUoMdCw,Spring Natural,98 Kenmare St,40.7212623953819,-73.9969895035028,770,3.5,10012
+Vegetarian Cuisine,7DnZWIn1Dcsvq-_pIXXFZQ,Hortus NYC,271 5th Ave,40.74545,-73.98652,142,4.5,10016
+Vegetarian Cuisine,MaZWYgvu08NLQVRcDGGvqQ,Zhen Wei Fang,207 Bowery,40.72128,-73.99343,156,4,10002
+Vegetarian Cuisine,OgM6WwztLVavBQBmb_g5aw,Tara Rose,384 3rd Ave,40.74176,-73.98123,70,4.5,10016
+Vegetarian Cuisine,HEs6llkn3wIP1ATXeIZQew,Pippali,129 E 27th St,40.74233,-73.98331,722,4,10016
+Vegetarian Cuisine,XvoCikGtd7v3DoaVUzSWgQ,Plant Food + Wine,67 2nd Ave,40.7261989,-73.989751,77,4,10003
+Vegetarian Cuisine,1TLoaB7SXJZo3W5f4OGm8w,Ayurveda Cafe,706 Amsterdam Ave,40.79305,-73.97132,305,4,10025
+Vegetarian Cuisine,-Q8MYIWoE4EsGQtudIOY0w,Bua Thai Ramen & Robata Grill,1611 2nd Ave,40.77635,-73.95308,344,4,10028
+Vegetarian Cuisine,T-RXDLq_VEv7s1_SooYIYQ,Osteria 57,57 W 10th St,40.73467,-73.99786,103,4.5,10011
+Vegetarian Cuisine,szM38YfE8k9SERJoKY8BQw,Eat Offbeat,69 Charlton St,40.727033,-74.0058979,12,5,10014
+Vegetarian Cuisine,wfhMIiMh2A2psCGONOVSlg,Han Dynasty,90 3rd Ave,40.732072,-73.988074,1190,4,10003
+Vegetarian Cuisine,N-yJYDnCQzO3w5n2Zmtc0A,Makina Cafe,,40.7602619,-73.9932872,40,4.5,11101
+Vegetarian Cuisine,J0vr8Jpe9t7UgoybpbgkFQ,Bajeko Sekuwa,43-16 Queens Blvd,40.7431256,-73.9209581,83,4,11104
+Vegetarian Cuisine,3nATnhLyWRvbUGRwK2zdXQ,Zen Yai Noodle Bar,208 Grand St,40.713897,-73.960337,9,4.5,11211
+Vegetarian Cuisine,z1OgXX3L9Ipl2mu-Hf4ADw,VIV,717 9th Ave,40.76277,-73.98969,784,4,10019
+Vegetarian Cuisine,2UxAkvKkkWNwqZi9H0OzWw,Dian Kitchen,435 E 9th St,40.72772,-73.98321,182,5,10009
+Vegetarian Cuisine,SRlMTom32vVRkyvISUnnFQ,The Cinnamon Snail,2 Penn Plz,40.7503205369552,-73.9919686739076,482,4,10001
+Vegetarian Cuisine,B9_TgZa8rgW5oZOtXZUMCw,Laut Singapura,31 E 20th St,40.73895,-73.98896,58,4,10003
+Vegetarian Cuisine,FXhSEZfIqjMZh4hR0_8jMQ,China Xiang 中国湘,360 W 42nd Street,40.7582902125633,-73.9925113993899,429,4,10036
+Vegetarian Cuisine,6NcU2JAznLr9dDHp6GgQyw,Doaba Deli,945 Columbus Ave,40.7994,-73.9624,223,4.5,10025
+Vegetarian Cuisine,8mmM20X369_Do04kW7-TTA,Holy Cow,15 W 29th St,40.74588,-73.98792,208,4,10001
+Vegetarian Cuisine,zBf-m72ATTPTey-_9vu3Yw,Peacefood Cafe,460 Amsterdam Ave,40.785326,-73.97713,1239,4,10024
+Vegetarian Cuisine,1_S2RxVWOidWcgbU2tBQBQ,Maharlika,111 1st Ave,40.72695,-73.98611,1484,4,10003
+Vegetarian Cuisine,6Ydx_lx6xQX16UQ0y0LjVg,Village Natural,46 Greenwich Ave,40.735622,-74.000244,139,3.5,10011
+Vegetarian Cuisine,TcuWyuZAORVnQBPCMNbTgw,Beyond Sushi,62 W 56th St,40.76331,-73.97717,639,4.5,10019
+Vegetarian Cuisine,3ik-lT8Pu7PAc_04af1J0w,Ginger Root Vegan,1164 1st Ave,40.7624720969574,-73.9595977571168,110,4,10065
+Vegetarian Cuisine,Bzprbnm51unkJqh9xtlQ7g,Abyssinia Ethiopian Restaurant,268 W 135th St,40.8158229565315,-73.9458632469177,230,4,10030
+Vegetarian Cuisine,iUOijKvgnv_4Iu758CqlOg,Hotel Tortuga,246 E 14th St,40.73239,-73.98545,498,3.5,10003
+Vegetarian Cuisine,x3NeZ4xToUxVKDoZ32D5tg,NY Dosas,50 Washington Sq S,40.7308386079893,-73.99863779767,424,4.5,10014
+Vegetarian Cuisine,FvCslLyo0SlDKI52bEDekQ,Nish Nush,41 John St,40.709472,-74.007949,272,4.5,10038
+Vegetarian Cuisine,d96eV2MmIFi4zNNOxBdIZQ,The Dumpling Shop,124 2nd Ave,40.7281980640218,-73.9877445929247,111,4.5,10003
+Vegetarian Cuisine,koh-4_SAbshwZ8EBRmXcmg,B&H Dairy,127 2nd Ave,40.7284584,-73.9881668,457,4.5,10003
+Vegetarian Cuisine,l4fwf8VwAokv3MWT45Ab7g,Bunna Cafe,1084 Flushing Ave,40.705042,-73.928078,566,4.5,11237
+Vegetarian Cuisine,v0opDMezc6pKgdfR22KUnQ,Da Tang Szechuan,18 W 38th St,40.75128,-73.98376,172,4.5,10018
+Vegetarian Cuisine,_Ge2eC89Z-jlaDDWglfT8g,Pa Pa Thai Cuisine,1069 1st Ave,40.7593778206059,-73.9624154842934,187,4.5,10022
+Vegetarian Cuisine,xZ96vaoL-cQjfotmUKtjJQ,Barn Joo 35,34 W 35th St,40.74964,-73.98582,1755,4.5,10001
+Vegetarian Cuisine,eTzH9lmkmouNlmuJ77i8Ow,Angaar,283 Columbus Ave,40.7782,-73.97802,76,4.5,10023
+Vegetarian Cuisine,g8i7ZoTri1fUGkaIM6fP9A,Souen,326 E 6th St,40.7266693115234,-73.9873733520508,319,3.5,10003
+Vegetarian Cuisine,GtfhGhWmr1kQ4EnFTlwg7w,by CHLOE,185 Bleecker St,40.729219,-74.001021,1629,4,10012
+Vegetarian Cuisine,OFfZUS-nu6NDnsWe1B2bUQ,TONCHIN NEW YORK,13 W 36th St,40.7502727,-73.9844951,933,4.5,10018
+Vegetarian Cuisine,nxTEuWKzkK1tCF4LrhFSUQ,Pig and Khao,68 Clinton St,40.71926,-73.98475,1554,4,10002
+Vegetarian Cuisine,hKKDfUPcDX_c-RCWBMOr1w,Bombay Sandwich Co.,48 W 27th St,40.7450715521913,-73.990359620218,386,4,10001
+Vegetarian Cuisine,ar25bKrHdK6PlQPIN2vrJg,CAVA,678 6th Ave,40.741658,-73.99337,33,4.5,10010
+Vegetarian Cuisine,O8i5XlvcfzH1q-wpfURrpg,Ayada Thai - Chelsea Market,75 9th Ave,40.74222,-74.00466,31,4,10011
+Vegetarian Cuisine,EBK0OkVMBg_n_KxAU_4DZg,Double Zero,65 2nd Ave,40.7261288,-73.9896645,449,4.5,10003
+Vegetarian Cuisine,Z9t-ou4JhiBu-n4-F7hDng,Meet Noodles,50 3rd Ave,40.73097,-73.9891,132,4.5,10003
+Vegetarian Cuisine,t6PzD4uzBOfyCLcd_lT8cQ,Sathi,216 3rd Ave,40.73621,-73.98528,75,4.5,10003
+Vegetarian Cuisine,9pMhRYYgV7E9L7pzECtJKA,The Drunken Munkey - UES,338 E 92nd St,40.78098,-73.94751,955,4.5,10128
+Vegetarian Cuisine,JdNzj7EGQLC9eqqw3SYBPg,The Organic Grill,123 1st Ave,40.72737,-73.98578,432,3.5,10003
+Vegetarian Cuisine,E8atCW6l6y1SVeEXbbXzEA,Sacred Chow,227 Sullivan St,40.72959,-73.99944,545,4,10012
+Vegetarian Cuisine,5-cv4xv4IBao7N1LSH6tHA,Der Krung Thai Cuisine,860 9th Ave,40.7670715,-73.9861371779099,210,4,10019
+Vegetarian Cuisine,0k678lCWQyReNi0lARlOmw,China Blue,135 Watts St,40.724038,-74.009958,669,4,10013
+Vegetarian Cuisine,m9Q9x-Hcxp24gZCaTTJY-A,Sahib,104 Lexington Ave,40.74232,-73.9830099,190,4,10016
+Vegetarian Cuisine,43r4ynjeIZeQI1w7SWARuQ,Topaz Noodle Bar,129 W 56th St,40.7644424438477,-73.9789733886719,608,4,10019
+Vegetarian Cuisine,UDPjpm-bpDVzxGaVYJ9NYw,Peace Garden,342 E 47th St,40.752081,-73.968143,7,4.5,10017
+Vegetarian Cuisine,MAwtBgCmrY-i_jbmXlDMkw,Peacefood Cafe Downtown,41 E 11th St,40.7332670924819,-73.9929751334153,718,4,10003
+Vegetarian Cuisine,kS2CP48K66yL2TwIhUqy_A,Tamarind,99 Hudson St,40.71909,-74.00892,880,4,10013
+Vegetarian Cuisine,RABCwRzA1YCSpIWuk9LgqA,Urban Vegan Kitchen,41 Carmine St,40.7302,-74.00368,387,4,10014
+Vegetarian Cuisine,A-ert0jDRBfku9ogyW_mEg,Spice Symphony,150 E 50th St,40.7558937072754,-73.9715347290039,423,4.5,10022
+Vegetarian Cuisine,1XK53gaHMFQIA4VW3B6k1Q,Abaita,145 E 49th St,40.755541483222,-73.9718742367706,60,4,10017
+Vegetarian Cuisine,BtVnZmPY51ZWGY63-mzJ7A,ON,110 Madison Ave,40.74502,-73.98513,83,4.5,10016
+Vegetarian Cuisine,pBNMZp_tKCAfRNx7-ybcHQ,Calle Dao - Chelsea,461 W 23rd St,40.7476515,-74.0037312,503,4.5,10011
+Vegetarian Cuisine,WJS06XxRdc6DD1s4LWE9HA,Fish Cheeks,55 Bond St,40.7258,-73.9927,480,4.5,10012
+Vegetarian Cuisine,87WfLan3_7K_OYPYd5zUIA,La Shuk,1569 Lexington Ave,40.78863,-73.94875,354,4.5,10029
+Vegetarian Cuisine,qrydcGQpeDP_1oFvx3qOeg,Somtum Der,85 Ave A,40.7252151982238,-73.9842741682317,693,4,10009
+Vegetarian Cuisine,74FFOreAgPphSwSZlfZzgw,Jones Wood Foundry,401 E 76th St,40.7703854340118,-73.9535711917713,610,4,10021
+Vegetarian Cuisine,CO3lm5309asRY7XG5eXNgg,Rahi,60 Greenwich Ave,40.7360271,-74.0005436,403,4.5,10011
+Vegetarian Cuisine,tzqQfzjVhmrhX0DypHOfOw,Perfect Taste,51B Canal St,40.71508,-73.99157,64,4.5,10002
+Vegetarian Cuisine,scTDvJ2M2jDbb1ntVeIyxA,Hao Noodle and Tea By Madam Zhu's Kitchen,401 6th Ave,40.7334863190479,-73.9998929006093,664,4,10014
+Vegetarian Cuisine,S7ivv5O0beH3U9cV3cRD_Q,Jujube Tree,35-02 30th Ave,40.76512,-73.91821,362,4.5,11103
+Vegetarian Cuisine,oSKS8tI6-3yzRDq-VRuvPw,Cleo,444 Park Ave S,40.7448,-73.98324,97,4,10016
+Vegetarian Cuisine,CEEUDBFxvUPKGlA65qJ8JQ,by CHLOE,60 W 22nd St,40.74197,-73.99292,743,4,10010
+Vegetarian Cuisine,urSuhjbH6DK2nvP08IESwA,The Cinnamon Snail,2 Pennsylvania Plz,40.75007,-73.992215,1066,4.5,10121
+Vegetarian Cuisine,deGWrCulECC2mYKDIbQYwA,TSISMIS,143 Orchard St,40.72012,-73.98932,31,4,10002
+Vegetarian Cuisine,jh42MR1OQFAFMhe_pQEzmw,Rustic Table,504 W 42nd St,40.759624,-73.9958265,791,4,10036
+Vegetarian Cuisine,FXDMFBM-rV2s5MHzA33d2g,Bombay Grill House,764 9th Ave,40.76415,-73.98806,238,4,10019
+Vegetarian Cuisine,Dqu-5RxNbbpBsL1Ssht9Ng,Hunan Slurp,112 1st Ave,40.72669,-73.98563,194,4,10009
+Vegetarian Cuisine,OLSSJIp8pu5UlugTF7tuHA,Ootoya Chelsea,8 W 18th St,40.738767,-73.992778,1350,4,10011
+Vegetarian Cuisine,rtGTCIPxmnf41DUYGfaCTg,Bap,516A 3rd Ave,40.74618,-73.97802,109,4.5,10016
+Vegetarian Cuisine,6QAE-LRmL3OEsHXGT9kuNw,Thy’s Noodles,97 Lexington Ave,40.7419297393756,-73.9827849547527,68,4.5,10010
+Vegetarian Cuisine,Qx01ny6b5PIBJlvI5mhjCA,19 Cleveland By Nish Nush,19 Cleveland Pl,40.72164,-73.99722,111,4.5,10012
+Vegetarian Cuisine,1u_vkRFPuT8Aeh7Zk3bKyw,Galata Mediterranean Cuisine,212 E 34th St,40.74531,-73.97753,329,4.5,10016
+Vegetarian Cuisine,HotAOU7WRHZcxpppEDwnfg,Taco Dumbo,114 W 47th St,40.75811,-73.9831455,12,4,10036
+Vegetarian Cuisine,m5Whyz8O8jM4DrE808h71g,Darbar Grill,157 E 55th St,40.759357,-73.968826,519,4,10022
+Vegetarian Cuisine,McU7XI3HoWFELTDaGc1SEw,Ginger and Lemongrass,153 Rivington St,40.71912,-73.98567,305,4,10002
+Vegetarian Cuisine,jc7lVTvmYMIK5RNpENtS6w,Szechuan Mountain House,23 St Marks Pl,40.72911,-73.98858,292,4,10003
+Vegetarian Cuisine,lYIZYnnEpjbWu7ZM-SuCkQ,Taladwat,714 9th Ave,40.76262,-73.98936,200,4.5,10019
+Vegetarian Cuisine,RC58AacE9s8VMMCz0boE4A,Berber Street Food,35 Carmine St,40.7302376195336,-74.0033399462744,34,4.5,10014
+Vegetarian Cuisine,j0n_poMVZnODYOFviLbh0Q,Taim West Village,222 Waverly Pl,40.736002376347,-74.0019588366439,1505,4.5,10014
+Vegetarian Cuisine,Xf6e3HaP0AgMBxY7dEDkOA,99 Favor Taste,285 Grand St,40.7176199,-73.99249,1751,4,10002
+Vegetarian Cuisine,4KzqwQus39gXgrwrDXAjWA,Eléa,217 W 85th St,40.78754,-73.9765199,71,4,10024
+Vegetarian Cuisine,zcgPjeIpjYDDVbTar9mfAQ,Goemon,29 Kenmare St,40.72083,-73.99509,132,4,10012
+Vegetarian Cuisine,xeIhR9gx0OsTdoQ0mmEUsA,Badshah,788 9th Ave,40.76483,-73.98756,262,4,10019
+Vegetarian Cuisine,SP4bvMvxel_UPdof_er3HA,Taco Mahal,73 7th Ave S,40.732337,-74.003303,505,4.5,10014
+Vegetarian Cuisine,MbwsCB7echBlVwzfJ_9c9g,Old Tbilisi Garden,174 Bleecker St,40.7287707,-74.0008161,403,3.5,10012
+Vegetarian Cuisine,0yMlU3xbdawYFXmjNc0dhw,The Harrow New York,720 10th Ave,40.76419,-73.99182,188,4.5,10019
+Vegetarian Cuisine,NCgrRnQocOpc8DW0XbZOww,29. Private Kitchen,,40.7491302490234,-73.9923629760742,5,5,10001
+Vegetarian Cuisine,p2zm0HnXZkI2yCAuYLb45g,Thai Market,960 Amsterdam Ave,40.80132,-73.96529,979,4,10025
+Vegetarian Cuisine,u_3TLN0u6LyOL01vdjFOug,Champs Diner,197 Meserole St,40.7084397372605,-73.9407808520115,1442,4,11206
+Vegetarian Cuisine,s3jou_L_LVYGkNHiuhjlew,Boucherie West Village,99 7th Ave S,40.733063,-74.0028772,1294,4.5,10014
+Vegetarian Cuisine,ypqK8DWM8Bcs43YveSJnNw,Manhatta,28 Liberty St,40.70797,-74.0088899,385,4.5,10005
+Vegetarian Cuisine,3VZrUBCmSUt37jMB13-7yQ,The Hummus & Pita,616 8th Ave,40.7556856020028,-73.9907276053871,377,4,10018
+Vegetarian Cuisine,guwS_mhhUjOT5d8sYfEluQ,Adyar Ananda Bhavan,1071 1st Ave,40.759381,-73.962489,315,4,10022
+Vegetarian Cuisine,2jHud9AFiBYLrPlmz0UyqA,Roasted Masala,914 Columbus Ave,40.79846,-73.96366,28,4.5,10025
+Vegetarian Cuisine,yPWE_stCrD48WZ-xaxfz_A,The Burp Kitchen,7000 Kennedy Blvd E,40.790152,-74.000747,68,4.5,07093
+Vegetarian Cuisine,2LFYEpREb8A0gr-rQSrnXA,Indian Project,243 W 38th St,40.75426,-73.99028,307,4,10018
+Vegetarian Cuisine,GGRMY-twaqZf_NIAprBJkg,Junzi Kitchen,135 W 41st St,40.754886,-73.985688,73,4.5,10036
+Vegetarian Cuisine,V2A9Leycc5_FEpgQC34i7Q,India Kitchen,493 9th Ave,40.7555499,-73.9949174,286,4,10018
+Vegetarian Cuisine,ZjU9qd-RR55cEEKufmdN5Q,Cathédrale Restaurant,112 E 11th St,40.7316,-73.98951,18,4,10003
+Vegetarian Cuisine,J0bWu6D6dp4UG0zgkP-Eog,Meskerem Ethiopian Cuisine,124 Macdougal St,40.72991,-74.00025,393,3.5,10012
+Vegetarian Cuisine,YMtQ5NZY3WUn3tetby6Uog,Taste of Persia,12 W 18th St,40.73891,-73.99298,313,4.5,10011
+Vegetarian Cuisine,lQ8Fzgji9qmgRXkFcvAsVQ,Chong Qing Xiao Mian,796 9th Ave,40.76513,-73.98753,296,4,10019
+Vegetarian Cuisine,vjubSxmdG_HoBBgd39geBw,Nino's 46,39 W 46th St,40.7569159,-73.980516,1121,4,10036
+Vegetarian Cuisine,Wdt-exLSaHXQRH7V_7-VVg,Spoonfed New York Country,331 W 51st St,40.7636295,-73.9868805,453,4,10019
+Vegetarian Cuisine,s5JNxy0eAFgxS2Poi73ODw,Málà Project,41 W 46th St,40.75693,-73.98056,259,4,10036
+Vegetarian Cuisine,7gZGVdqMch7ls0IGO3DijQ,AGORA TURKISH RESTAURANT,1565 2nd Ave,40.77492,-73.95412,514,4.5,10028
+Vegetarian Cuisine,8XHbZIKDQbXhyKIGiukVeQ,Boucherie Union Square,225 Park Ave S,40.73715,-73.98789,610,4.5,10003
+Vegetarian Cuisine,9E5i1t-X9DbCnVQrczkkTA,Blossom Du Jour,617 9th Ave,40.759613,-73.992088,397,4,10036
+Vegetarian Cuisine,ddFY9PpygYagv7-jVduB2Q,Counter & Bodega,266 W 23rd St,40.745,-73.9982,74,4.5,10011
+Vegetarian Cuisine,olRNNJCJ2TJvPRmjBiOcGA,Silky Kitchen,137 E 13th St,40.73297,-73.98829,187,4.5,10003
+Vegetarian Cuisine,7cjT33LfYSk7vrRdEaSr4w,Angeletto Restaurant,890 2nd Ave,40.753188,-73.969365,176,4.5,10017
+Vegetarian Cuisine,m6bu1AGIIIM9GNn9_cjsmg,Uncle Boons,7 Spring St,40.7211328622237,-73.9943286309159,903,4,10012
+Vegetarian Cuisine,Xa91UwBtZaUPpTygSm3qSw,Nur,34 E 20th St,40.73854,-73.9888,262,4,10003
+Vegetarian Cuisine,ifAVKbyj2Bt36-GiQ948Xg,North Miznon,161 W 72nd St,40.77843,-73.98079,90,3.5,10023
+Vegetarian Cuisine,7QNfgCS66llLCsVu_8VOyA,VLife,348 7th Ave,40.7481116799498,-73.992917656414,345,4,10001
+Vegetarian Cuisine,I6KHYESZdZQz0fnMaMyIpQ,Zusik,202 W14th St,40.73864,-74.00029,84,5,10011
+Vegetarian Cuisine,3Rah-cvFk79duFQ83voQ5A,99 Favor Taste,37 St Marks Pl,40.728833,-73.988094,551,4,10003
+Vegetarian Cuisine,Bdneg2FELG-GNQnc-zq1YA,Kāwi,20 Hudson Yards,40.7538408290715,-74.0003704647111,128,4,10001
+Vegetarian Cuisine,kxv4jD_qXRPVrV0oPR7isQ,Yu Kitchen,2656 Broadway,40.79759,-73.9693099,84,4.5,10025
+Vegetarian Cuisine,6uPzZapAHWEalyJdkjBqKw,Blank Slate - Midtown,941 2nd Ave,40.75485,-73.96878,32,4.5,10022
+Vegetarian Cuisine,EN9_LsFpY44Hkzcnu0jfIg,Dynasty Dim Sum,381 3rd Ave,40.74148,-73.98087,127,4,10016
+Vegetarian Cuisine,TxHx1fb8O_MsfQB_ODdTQg,Hummus Place,305 Amsterdam Ave,40.780044,-73.98027,599,4,10023
+Vegetarian Cuisine,6tASYtO9zOrXr8-LPnAToQ,Zest Szechuan,45 W 39th St,40.75274,-73.98445,550,4,10018
+Vegetarian Cuisine,Rj2ACaJcbroJLPDhRhzvBw,Shuka,38 Macdougal St,40.72707,-74.00283,386,4,10012
+Vegetarian Cuisine,f7xUsH1m8HxMDOXIdQeVyA,Dalup,350 7th Ave,40.748216,-73.992966,51,4,10001
+Vegetarian Cuisine,NzU2hb0z0jGEOOv0-zTLEQ,Sigiri,91 1st Ave,40.726261,-73.986686,590,4,10003
+Vegetarian Cuisine,RdETxi25tbocKIcMiW5TxQ,Darbar Fine Indian Cuisine,152 E 46th St,40.75358,-73.97348,551,4,10017
+Vegetarian Cuisine,zv29TbzPs9-rD5ql0qWw5A,The Shadmoor,1066 2nd Ave,40.75866,-73.9655499,268,4.5,10022
+Vegetarian Cuisine,npiIhpcWePbVT3JYEcy3zg,Wayan,20 Spring St,40.7213813139202,-73.9950757664721,138,4,10012
+Vegetarian Cuisine,sI4N411hfsslUJnTkEfqWw,Mémé Mediterranean,607 10th Ave,40.760929,-73.994827,267,4,10036
+Vegetarian Cuisine,EvAJBgBdgOt1jx1EufRN7w,Jin Ramen,462 Amsterdam Ave,40.78534,-73.97695,846,4,10024
+Vegetarian Cuisine,GticI2JB8Iw2ktRfLv6aRQ,Momofuku Ko,8 Extra Pl,40.724776,-73.991682,292,4.5,10003
+Vegetarian Cuisine,BEuZGvNlbM4tXq7YICyM6w,LuAnne's Wild Ginger All-Asian Vegan,380 Broome St,40.7204631,-73.9964956,637,4,10013
+Vegetarian Cuisine,gJSX5IDyhjeMjz9IS2DIwQ,Veggie Heaven,473 Cedar Ln,40.889845,-74.023091,426,4,07666
+Vegetarian Cuisine,Ti-957LNURM0Gy2CXIbQOw,Hummus Kitchen,768 9th Ave,40.76427,-73.98797,760,4,10019
+Vegetarian Cuisine,veq1Bl1DW3UWMekZJUsG1Q,Gramercy Tavern,42 E 20th St,40.738527,-73.988417,2821,4.5,10003
+Vegetarian Cuisine,Pr-q47vsmM4aoc2t_Sfk8w,Momofuku Noodle Bar,10 Columbus Cir,40.76847,-73.983092,223,4,10019
+Vegetarian Cuisine,DguAGioaK6ZIAt_6kk93tA,Thai Select,472 9th Ave,40.754764,-73.994903,546,3.5,10018
+Vegetarian Cuisine,9YXvNE2jpEhA4k6M8WDH7A,Ñaño Ecuadorian Kitchen,691 10th Ave,40.7631,-73.99335,533,4.5,10036
+Vegetarian Cuisine,yhcIOtM95lTrWI_QGCuR4Q,La Ventura,615 Hudson St,40.73784,-74.00582,22,4.5,10014
+Vegetarian Cuisine,fMJQBBesd6IBq8vyL79Wqg,Mokum,464 Amsterdam Ave,40.78541,-73.9769,61,4,10024
+Vegetarian Cuisine,kTQ0rRfgtlPwX9_O8OY_UA,Miznon,435 W 15th St,40.742575,-74.006206,297,4,10011
+Vegetarian Cuisine,55spA8dSOvKRme3ix-k7gg,Westville West,210 W 10th St,40.7340046,-74.0041863,920,4,10014
+Vegetarian Cuisine,a-gG1ZBVBM1VJ-Y9JLUnhA,Vegan Food Court,12 St Marks Pl,40.729113,-73.989209,388,3.5,10003
+Vegetarian Cuisine,K_0tNvQd7gyabfJrodf-tw,Archer & Goat,187 Lenox Ave,40.80432,-73.94835,62,4.5,10026
+Vegetarian Cuisine,giL47kf_ln3aqJNWhGuNCA,Pinky's Space,70 E 1st St,40.72355,-73.98879,11,4.5,10003
+Vegetarian Cuisine,dzI6MzwKbrhJN5dEeUbX0w,The Hummus & Pita,585 6th Ave,40.73928,-73.99605,622,4,10011
+Vegetarian Cuisine,v13YWYVuRbYWRqcn10IBtA,OnDelivery.com,12 Pell St,40.714904,-73.997703,2,5,10013
+Vegetarian Cuisine,CaizM2WaGPX5eRLDOJaqIw,Angkor Cambodian Bistro,408 E 64th St,40.76226,-73.95914,263,4.5,10065
+Vegetarian Cuisine,3a4nugeOEVjoA_IPdY4qRA,Gillian de Sève,463 West St,40.7366401,-74.0096952,3,5,10014
+Vegetarian Cuisine,yb9o5T88FPUXYOzxyXlUcw,Ganesh Temple Canteen,143-09 Holly Ave,40.75262,-73.816511,235,4,11355
+Vegetarian Cuisine,PPQSf_1JWkbjFHi1S0nSNA,Lamoon,8140 Broadway,40.742890245749,-73.883034010715,232,4.5,11373
+Vegetarian Cuisine,bB3mkNsEkIpkwuaKSKxSfw,Tofubox,632 Grand St,40.71125,-73.9468,69,5,11211
+Vegetarian Cuisine,DoSU8IPq-Py_YV3kYmXPfQ,Trattoria Trecolori,254 West 47th St,40.75998,-73.98671,2264,4,10036
+Vegetarian Cuisine,w2-VGvlBCMYo9ko8Y_PzAw,Masala King,,40.747176,-73.981957,126,4.5,10016
+Vegetarian Cuisine,vVVmHacu2YAxKfpIjhfd1g,NORMA Gastronomia Siciliana,438 3rd Ave,40.743553,-73.980026,319,4.5,10016
+Vegetarian Cuisine,JSX6Pk56w4BhgO8eSvCrKg,aRoqa,206 9th Ave,40.746065,-74.001254,250,4,10011
+Vegetarian Cuisine,YfWBNXjV8OVOCxLfAtp6XA,Seven Valleys,936 Washington St,40.74845,-74.0278699,66,4.5,07030
+Vegetarian Cuisine,MhceeLrM2_3mcKw5EGLY6A,Pure Thai Cookhouse,766 9th Ave,40.764291,-73.988159,2464,4,10019
+Vegetarian Cuisine,L2ZW-MdvRJ3gM2RIq8STbA,Thai72,128 W 72nd St,40.77763,-73.98003,215,4,10023
+Vegetarian Cuisine,MonQfsHY4TOCRwsiFOuWkg,Peach Mart,20 Hudson Yards,40.7164977,-74.0089735,50,4,10001
+Vegetarian Cuisine,LcM9IizN90KGc3gYsW1_Hw,The Shanti Shack,85 N 3rd St,40.7171867,-73.9623409,33,5,11249
+Vegetarian Cuisine,8luFI6XwdopipGzC4EzSOw,Intersect by Lexus - NYC,412 W 14th St,40.74115,-74.00624,117,4.5,10014
+Vegetarian Cuisine,NN3mOWF5e_pnR1ArqM2bHQ,OBAO,647 9th Ave,40.7606544,-73.991332,2354,3.5,10036
+Vegetarian Cuisine,qf_AE2XEHzFsdLzZzRPHww,Areppas,954 3rd Ave,40.76052,-73.96756,170,3.5,10022
+Vegetarian Cuisine,_0WFGjXuenlBixOlbSlGeQ,Crown Shy,70 Pine St,40.7063449,-74.0076944,157,4.5,10005
+Vegetarian Cuisine,-b3J-5K_beWyGxQ1Id7KQg,Jeepney,201 1st Ave,40.730294,-73.9835395,1056,4,10003
+Vegetarian Cuisine,0XC6L2GCtuaNEI8XFEyD2g,Jungle Cafe,131 Greenpoint Ave,40.730358,-73.954885,231,4,11222
+Vegetarian Cuisine,Nvhx093-K2xwHIZVnFstJw,Copper Throat Thai Cuisine,123 Ludlow St,40.71978,-73.98877,88,4,10002
+Vegetarian Cuisine,Wx6lMnEh7dCmX-9PQF1Ifw,Toloache 50,251 West 50th St,40.762325,-73.9855741,1873,4,10012
+Vegetarian Cuisine,fePu8xy0ir_ikZcS_vVSBA,Asuka Sushi,300 W 23rd St,40.74529,-73.99888,907,4,10011
+Vegetarian Cuisine,58jCXglRFRn6qwZ_IxYb6A,Maison Bangkok,355 E 78th St,40.7719298818515,-73.9535799622536,72,4.5,10075
+Vegetarian Cuisine,8AM1gGIk6KVb27Q9TYwD9Q,Green Symphony,255 W 43rd St,40.7575266,-73.9880669,464,4,10036
+Vegetarian Cuisine,UiOUyzrVPTAAjNpGMFhFyQ,Dill & Parsley,425 Madison Ave,40.75696,-73.9759,42,3.5,10017
+Vegetarian Cuisine,oXRZXo0am8GNyCAgrewqow,Lucky Vegetarian,5101 8th Ave,40.6403389,-74.004158,54,4.5,11220
+Vegetarian Cuisine,haK6aVs_oIUqwOn0LVZlRA,Turkuaz Restaurant,310 West 53rd St,40.7643988,-73.9855199,111,4.5,10019
+Vegetarian Cuisine,5z7OuOWuZRu6byp2XDKbQw,Saravanaa Bhavan,81 Lexington Ave,40.7414,-73.98306,869,3.5,10016
+Vegetarian Cuisine,rKeUUuD4s0e6igmxTqbFnA,Coco J'adore,1 Little W 12th St,40.7396062,-74.005997,89,4.5,10014
+Vegetarian Cuisine,3hlAeWgSKAnSQ1tg8k8D8g,Alachi Masala,488 Amsterdam Ave,40.78616,-73.97635,203,4,10024
+Vegetarian Cuisine,jJYQJGygWjIX6_0MiIoJRQ,Ashoka on 2nd Avenue,1718 2nd Ave,40.7798555,-73.9500904,119,4.5,10128
+Vegetarian Cuisine,oe8GEFE4QLFAKt87y7zcgA,Very Fresh Noodles,425 W 15th St,40.7423387008486,-74.00625,883,4.5,10011
+Vegetarian Cuisine,Rc1lxc5lSKJYd162JHNMfQ,Bea,403 W 43rd St,40.7591968,-73.9923361,2391,4,10036
+Vegetarian Cuisine,uXtaduMyk2oGdnHYR4ZafA,Vegetarian Palate,603 Washington Ave,40.679648,-73.963867,184,3.5,11238
+Vegetarian Cuisine,dYqWosnE1UlJs4Wx-M_u_A,Oda House,76 Ave B,40.7240282,-73.9821844,346,4,10009
+Vegetarian Cuisine,HnTcWZbZJzNAYO8YseQlSQ,PuTawn Local Thai Kitchen,1584 First Av,40.77446,-73.95077,195,4.5,10028
+Vegetarian Cuisine,XDv71A1J3aIOu_W5sVzZ2w,SHI MIAODAO Yunnan Rice Noodle,33 Saint Marks Pl,40.72904,-73.9881,86,4,10003
+Vegetarian Cuisine,S0Qydvh12n5E_uodsLa8eA,Co Co Lin Vegetarian House,64-19 Fresh Pond Rd,40.70989,-73.89871,233,4,11385
+Vegetarian Cuisine,7USPKYeaAfxl0Ch9j_1l7A,Moti Mahal Delux,1149 1st Ave,40.76213,-73.9605,446,4,10065
+Vegetarian Cuisine,rCtsqHtOAOjZ7EUQDFRSbA,Pinto Garden,117 W 10th St,40.734882,-73.9994844,209,4,10011
+Vegetarian Cuisine,fgGRIM0b9JGIoNOAnHzROQ,Yuqi's Cuisine,813 9th Ave,40.7659,-73.98741,80,4,10019
+Vegetarian Cuisine,BKMCAYb9EAivUm3p-vrC9w,Khe-Yo,157 Duane St,40.716906,-74.008587,706,4,10013
+Vegetarian Cuisine,LJntAPKObO0OfydYm3_bzQ,Kings Co Imperial,168 1/2 Delancey St,40.7179421782795,-73.9854200459023,49,4,10002
+Vegetarian Cuisine,scjoZtbTQHi35xhAlUm2iQ,L'ADRESSE,1065 Ave Of The Americas,40.75403,-73.98539,529,4,10018
+Vegetarian Cuisine,PwrYnl3j3YCGzILX_5UHpw,Davelle,102 Suffolk St,40.71852,-73.98605,100,4,10002
+Vegetarian Cuisine,qNVN0dsnl4akLNueEoY-Hw,Gem,116 Forsyth St,40.7190867,-73.9923073,29,4,10002
+Vegetarian Cuisine,2BRJP7YeiNuWSwyn2TdAoA,Kafana,116 Ave C,40.72432,-73.97851,392,4,10009
+Vegetarian Cuisine,IGZkGbwE36iE1yaDW5NNKA,The Flying Cock,497 3rd Ave,40.745296,-73.978073,499,4,10016
+Vegetarian Cuisine,50eKjWOB-H9iuo1ocACOaQ,Imli Urban Indian Food,1136 1st Ave,40.7616660604253,-73.9601389691234,170,4.5,10065
+Vegetarian Cuisine,ojbH3wnRu050hRhkmoxRiA,Han Dynasty,215 W 85th St,40.78752,-73.97647,567,4,10024
+Vegetarian Cuisine,MctQwL9Mp5X7DJk13VoERg,Westville Chelsea,246 W 18th St,40.74175,-74.00007,1087,4,10011
+Vegetarian Cuisine,z7H9ApIGopnDnQaglnPTzg,Allora Ristorante,145 E 47th St,40.75433,-73.97277,484,4.5,10017
+Vegetarian Cuisine,PdzL9svqapSqH4o8bF86Pw,Punjabi Grocery & Deli,114 E 1st St,40.7227225423661,-73.9866224576721,382,4.5,10009
+Vegetarian Cuisine,aJqjC4uAo6vhOpsVNCiMDA,Samba Kitchen,661 9th Ave,40.76095,-73.99115,420,4.5,10036
+Vegetarian Cuisine,6emR8SU0UlcKI2o-0yO7Wg,Antique Garage Tribeca,313 Church St,40.71972,-74.00397,90,4,10013
+Vegetarian Cuisine,lxNU-aBq0yPwBDx-i89ahA,Seva Indian Cuisine,3007 34th St,40.7653633,-73.9191014,1169,4.5,11103
+Vegetarian Cuisine,BQRfaq0U75B5EEblBZ2Aqg,The Ribbon,220 West 44th St,40.7576,-73.98693,117,4,10036
+Vegetarian Cuisine,q-QEwZi32JCnjb7zbY-PQw,Soogil,108 E 4th St,40.72551,-73.98838,92,4,10003
+Vegetarian Cuisine,aAjW58zhOUid3kOvwNONDQ,Organic Soul Cafe,638 E 6th St,40.7238155,-73.9801883,6,5,10009
+Vegetarian Cuisine,sfsjk1h50ooC2ioY7m48gw,Pig Heaven,1420 3rd Ave,40.77544,-73.95686,330,4,10028
+Vegetarian Cuisine,zXCGF0XtqjOv1s4DUHOtqg,Hart's Restaurant,506 Franklin Ave,40.681458,-73.955893,86,4.5,11238
+Vegetarian Cuisine,tsHdT1GDibhYYA0JA7Z9tg,Xi'an Famous Foods,37 W 54th St,40.7620999,-73.97732,447,4,10019
+Vegetarian Cuisine,dxK7_NNqLDYG39VGZI9B3w,Himalayan Curry house,254 W 108th St,40.8023275567219,-73.9662716345275,19,3.5,10025
+Vegetarian Cuisine,c7z96m0UdMkJRhlz0Ht5XQ,Siri Thai,641 10th Ave,40.7618590612994,-73.9940920472145,202,4,10036
+Vegetarian Cuisine,1hdwhb6kzLxL3Lt3PxoHKA,Shoo Shoo,371 Broome St,40.72015,-73.99623,53,4,10013
+Vegetarian Cuisine,C2o3Iw-DXjoUJFgQIbiqkQ,BoCaphe,222 Lafayette St,40.722046,-73.997557,1298,4,10012
+Vegetarian Cuisine,BPErPpKSNluwcjbKRgze3w,Xi'an Famous Foods,328 E 78th St,40.77197,-73.95452,491,4,10075
+Vegetarian Cuisine,Gc7OVEIs4HodL4hw9U3C3w,Copinette,891 1st Ave,40.75407,-73.96623,97,4,10022
+Vegetarian Cuisine,B55Ocx5RBWxo6AGSucYSIA,ilili,236 5th Ave,40.74435,-73.98778,2335,4,10001
+Vegetarian Cuisine,qd9_gxrmskbOT6OLN9sShA,Dock Asian Eatery,22 Wyckoff Ave,40.70628,-73.92274,97,4.5,11237
+Vegetarian Cuisine,e64Y17DJgjotSz8B9gEI7Q,Ugly Baby,407 Smith St,40.67795,-73.9961,297,4.5,11231
+Vegetarian Cuisine,ykf5siP-2CXY3leFbeeabQ,An'Nam,234 W 48th St,40.7605285644531,-73.9863891601562,273,4,10036
+Vegetarian Cuisine,dOQjniOt57mI9l9CmrCSJQ,Curry India,148 W 49th St,40.76006,-73.98306,127,4,10019
+Vegetarian Cuisine,CgYWuNH0UHd5vp2vGgKflw,wagamama - murray hill,605 3rd Ave,40.74909,-73.9754,186,4,10158
+Vegetarian Cuisine,RqCMsa0IuHWhML0BEjW8_w,Boulud Sud,20 West 64th Street,40.7718614234522,-73.9816256082283,719,4,10023
+Vegetarian Cuisine,_7BGw3YFNOTzP1Www3zB7g,Mughlai Grill,6 Clinton St,40.7210905,-73.9840446,315,4.5,10002
+Vegetarian Cuisine,AILf_L7I9vJ2pyHmSo9v8Q,OBAO,222 E 53rd St,40.757122,-73.968566,818,3.5,10022
+Vegetarian Cuisine,duofsxNkSFWVre6eV1uhUQ,Little Sheep Mongolian Hot Pot,105 Bowery,40.71764,-73.99504,252,4,10002
+Vegetarian Cuisine,xTWpl9DgIkkr5B8h8_xUpA,Lokal 83 Mediterranean Kitchen,473 Columbus Ave,40.7842696,-73.9734941,283,4.5,10024
+Vegetarian Cuisine,S3dtt6qNyYfdF-I4rZTbXw,Graffitti Earth,190 Church St,40.7159379,-74.0071884,21,3.5,10013
+Vegetarian Cuisine,x64xHVZoQj1ZOjzPqVprkw,Little Tong Noodle Shop,177 1st Ave,40.72937,-73.98424,250,4,10003
+Vegetarian Cuisine,JFFVmuwj8pnSLePgy3f2Iw,Mi Noodle Bar,391 2nd Ave,40.7377,-73.981304,204,4.5,10010
+Vegetarian Cuisine,jf3JRaxUYU93x8LFU-8gkA,GupShup,115 E18th St,40.7368323318866,-73.9877132715179,216,4,10003
+Vegetarian Cuisine,Xl-zlT0NLLiKhym88em22w,Adda,31-31 Thomson Ave,40.74507,-73.93415,250,4,11101
+Vegetarian Cuisine,Csg_qjYzhQxKAinj814AKw,Namaste,1448 1st Ave,40.76985,-73.95412,32,4,10021
+Vegetarian Cuisine,z2VXX7wGl8XZ6_oo9W3koA,Patiala Indian Grill,371 W 34th St,40.7533149,-73.9960898,292,4,10001
+Vegetarian Cuisine,FVGTLWis-xBCrLmprgVXEg,Miraj Healthy Grill,120 E 34th St,40.7464441,-73.9802022,118,4.5,10016
+Vegetarian Cuisine,CesS-E8Q3ztX6VnkXO6wBg,Chinese Tuxedo,5 Doyers St,40.71433,-73.99804,247,3.5,10013
+Vegetarian Cuisine,wGFSTTB6b4MHJJUzBnVJeg,Top Thai Greenwich,235 Sullivan St,40.72977,-73.99939,1254,4.5,10012
+Vegetarian Cuisine,J-wZAcn2SfjsncFViLKO8g,Ital Kitchen,1032 Union St,40.66962,-73.95804,131,4.5,11225
+Vegetarian Cuisine,N9OihQ22xLyfeDRSZoDCVQ,Beyoglu,1431 3rd Ave,40.7754199,-73.9562399,1118,4,10028
+Vegetarian Cuisine,SysAthrDghPL62a6OElOCQ,Local 92,92 2nd Ave,40.726957,-73.9885354,395,4,10003
+Vegetarian Cuisine,w3wKbjuNCZnYoPOr-FCk5w,New Moon,536 3rd Ave,40.74692,-73.97766,101,4,10016
+Vegetarian Cuisine,gWuHmSQ8G5FiKv-rEogwvA,Pongal,110 Lexington Ave,40.74246,-73.9829,448,3.5,10016
+Vegetarian Cuisine,LJaLQby_H8E9eHvcIW0xnw,Spoon Table & Bar,40 East 33rd St,40.7469069957733,-73.9831063896418,404,4,10016
+Vegetarian Cuisine,wfJCzfotoMELb74z4lITOA,Pet Shop,193 Newark Ave,40.72123,-74.04592,217,4,07302
+Vegetarian Cuisine,_ArDQIKj5qHgmwNnnIaIIg,I Am Thai Restaurant,49-08 43rd Ave,40.7445421133747,-73.9154577255249,270,4,11377
+Vegetarian Cuisine,5XQgZQF-5N94bkQ2d_PJIQ,Pascalou,1308 Madison Ave,40.78521,-73.95595,203,4,10128
+Vegetarian Cuisine,Hgc27X2PX2jZQMcVtbJ9vQ,Mother of Pearl,95 Ave A,40.72566,-73.98412,408,4,10009
+Vegetarian Cuisine,AA54rKcNIMglGhofj0huvg,Deng Ji II,51 Division St,40.71416,-73.995061,54,4,10002
+Vegetarian Cuisine,PHSsvGDW6Rh2pGWEDTrDew,Death Ave,315 10th Ave,40.75112,-74.00208,556,3.5,10001
+Vegetarian Cuisine,VMugGjWqmOfCXnYv_7aFWw,Kubeh,464 Avenue Of The Americas,40.7355205142767,-73.9979605809656,213,4,10011
+Vegetarian Cuisine,Kqb7MjTPNkjPMoFRd-rWpw,MáLà Project,122 1st Ave,40.72713,-73.98542,590,4,10009
+Vegetarian Cuisine,7YJxZAvMxB-oVZfHAuvBmw,Lakruwana,668 Bay St,40.62571,-74.075373,288,4.5,10304
+Vegetarian Cuisine,lynQoI3w_pzYfHGeuUU-Qg,Shu Jiao Fu Zhou Cuisine Restaurant,118 Eldridge St,40.7184290357839,-73.9916928979573,773,4.5,10002
+Vegetarian Cuisine,3OT1deSiIYhrcXWJ1sD3wA,Shui Mei Cafe,67 E Broadway,40.7135318,-73.9948386,40,4.5,10002
+Vegetarian Cuisine,QqrEF8_ZQCGi63cL10J5oA,Chola,232 E 58th St,40.76026,-73.96576,578,4,10022
+Vegetarian Cuisine,eGIY_25KFspf8KefDQMj-Q,Lan Larb,637 2nd Ave,40.745373,-73.975807,276,4,10016
+Vegetarian Cuisine,_R6EjbrynW_LFnmWoRqgww,Surya,154 Bleecker St,40.7281,-73.99963,199,4,10012
+Vegetarian Cuisine,LDScBEu3splSQlhGBEH2hg,Bao by Kaya,570 Lexington Ave,40.7569200941962,-73.9723208919168,155,4,10022
+Vegetarian Cuisine,-X-jyF6Wblm3R3ExI-6EVg,Pasha Restaurant,70 W 71st St,40.7765809,-73.9790791,386,4,10023
+Vegetarian Cuisine,wXiIxbnFRaFBS9RI4wJrdw,Baba Cool,64 Lafayette Ave,40.68701,-73.97537,167,4,11217
+Vegetarian Cuisine,M-odQWSEfsR2mVEw7nKG-g,Nyonya,199 Grand St,40.7190148,-73.9968228,2033,4,10013
+Vegetarian Cuisine,VC1udoc_sbHdFaBr0-bMsA,Bombay Chowk,1378 1st Ave,40.76873,-73.9549,60,4,10021
+Vegetarian Cuisine,dLY4qk0v6XRePTtiEL4Tkg,Yummy Eats,,40.7107,-73.95494,9,5,11211
+Vegetarian Cuisine,0FaLilJs2VN83hOEBcBnPg,Au Za'atar,188 Avenue A,40.728901,-73.981185,754,4,10009
+Vegetarian Cuisine,rEbwps11tIERRkwQrIXQog,Hakkasan,311 W 43rd St,40.758619,-73.989961,886,3.5,10036
+Vegetarian Cuisine,B9UfgHgm5-hOErK8-54EsA,Very Thai,186 Ave B,40.72784,-73.97933,100,4,10009
+Vegetarian Cuisine,C7e6WIM4CFa4EkzxHWHBRA,PhoBar,43 Mott St,40.7152346,-73.9990079,177,4,10013
+Vegetarian Cuisine,5mOzZ17qU_8ijlP54Q206Q,Safari Restaurant NYC,219 W 116th St,40.80381,-73.9535,181,4.5,10026
+Vegetarian Cuisine,RdGWCbcxA79G1ZMPVL3SGQ,Nora Thai,176 N 9th St,40.71864,-73.95625,38,4,11211
+Vegetarian Cuisine,eTR6nfHvQzvKX7Dcd6JrfA,District Social,252 W 37th St,40.75369,-73.99136,646,4,10018
+Vegetarian Cuisine,mtcv1ZV9EpXP3mOm6ORMrQ,Ital Fusion,2085 Nostrand Ave,40.6347265850368,-73.9479939267039,66,4.5,11210
+Vegetarian Cuisine,LQHegfNHe7ylY3bocrFlpg,Calle Dao - Bryant Park,38 W 39th St,40.752155,-73.984223,1647,4,10018
+Vegetarian Cuisine,5YBYGnZtTGJABXC4Jahhzg,Jasmine Restaurant,216 E 49th St,40.75467,-73.97057,237,4,10017
+Vegetarian Cuisine,a7VT5ljjI6aHhgog9ANa1Q,Middle Eats,171 W 23rd St,40.74412,-73.9953,61,4,10011
+Vegetarian Cuisine,8SehQovJOuQDLbtzLLYLyw,RH Rooftop Restaurant,9 9th Ave,40.73985,-74.00639,228,4,10014
+Vegetarian Cuisine,W4hobe10Fy54MKqmLaObEg,Cafe Mogador,101 St Marks Pl,40.727258767439,-73.9845085144043,1852,4,10009
+Vegetarian Cuisine,lxHKbp0hReRBPZcq4fUUow,Naya Mezze & Grill,1057 2nd Ave,40.758541,-73.966255,499,4,10022
+Vegetarian Cuisine,_7Maf5WG682E7R-EHSz18w,Bangklyn East Harlem,2051 2nd Ave,40.7903,-73.94307,105,4.5,10029
+Vegetarian Cuisine,Ulr_Nyp2nvt82EPH_BiftA,Olmsted,659 Vanderbilt Ave,40.67713,-73.96869,355,4,11238
+Vegetarian Cuisine,GjAHO7PA-3Sxg1lkGza4sQ,B&B Restaurant Corporation,165 West 26th St,40.7459112,-73.9936086,146,4.5,10001
+Vegetarian Cuisine,pepM7-yv4-jCT6S1nl6fPg,Asian Spicy Curry Pop-up,46 Mulberry St,40.715031,-73.99931,137,4.5,10013
+Vegetarian Cuisine,UnFe6mLcCdHVyyDxnIBkAA,Manchi,224 W 35th St,40.75202,-73.99121,112,4,10001
+Vegetarian Cuisine,x7Q721PDf7s1iYYP7diaVw,Karvouna Mezze,241 Bowery,40.72252,-73.99296,39,4.5,10002
+Vegetarian Cuisine,lzUkaMCuxYWR1cL_q3ElsQ,Dar 525,168 Driggs Ave,40.72308,-73.9452699,112,4.5,11222
+Vegetarian Cuisine,sinDhwX8Egru_3FCI7bhkw,Laut,15 E 17th St,40.73756,-73.9911,1168,3.5,10003
+Vegetarian Cuisine,tKog0Ewz1roBME_kX1G6hg,Eva's Kitchen,11 W 8th St,40.732822,-73.997152,390,4.5,10011
+Vegetarian Cuisine,5K0b-fEk96xUJCV_5ytNog,Contra,138 Orchard St,40.719878,-73.989063,309,4,10002
+Vegetarian Cuisine,TwxP5xU_xyzlf7SVzCnpuA,Proong Noodle Bar,347 1st Ave,40.73528,-73.98003,131,4.5,10010
+Vegetarian Cuisine,ces2MaPyKrWt6c0MpIv8sQ,Four Seasons Bakery & Juice Bar,2281 Church Ave,40.65064,-73.95609,24,4.5,11226
+Vegetarian Cuisine,WojnO4OcLHo8EBIRgJrGsQ,Dill & Parsley,829 3rd Ave,40.7560462224459,-73.9703554478851,142,3.5,10022
+Vegetarian Cuisine,YYMbXek5-Upj0g3RAjuI7A,Ousia,629 W 57th St,40.7707946574904,-73.992433445755,214,4,10019
+Vegetarian Cuisine,wdGMVLUzocmnl2tST0lheg,YunShang Rice Noodle House,53 Bayard St,40.71525,-73.99765,152,4,10013
+Vegetarian Cuisine,StF9WWWbrRzEOmNAcEINcA,Balzem,202 Mott St,40.721408,-73.995415,415,4,10012
+Vegetarian Cuisine,ETgJqJHV7BW6pIr9Ox74sA,Amélie,22 W 8th St,40.7327,-73.99766,2579,4.5,10011
+Vegetarian Cuisine,NqwwyMMXIS-JnwdDQBQT9A,Bazar Tapas Bar and Restaurant,31 W 26th St,40.74437,-73.99014,377,4,10010
+Vegetarian Cuisine,hNFe8WhCibrqT4sFcZmAgw,Kong Sihk Tong 港食堂,65 Bayard St,40.71542,-73.99813,177,4,10013
+Vegetarian Cuisine,xemN4tP9RlK5c-yUT-M71Q,Mamasita Bar & Grill,818 10th Ave,40.76733,-73.98945,985,4,10019
+Vegetarian Cuisine,41kYchR12Eclmp1w_EzpfA,Wafa's,812 Grand St,40.7117118835449,-73.9409408569336,138,4.5,11211
+Vegetarian Cuisine,Xu8H24NxJJxEE-9wGp_AMA,The Brazen Tavern,356 W 44th St,40.7593269348145,-73.9913101196289,353,4.5,10036
+Vegetarian Cuisine,ucWrNKS65jUVK6ICUoHC8Q,Bangkok Cuisine Upper East Side,1586 2nd Ave,40.77537,-73.95335,278,4,10028
+Vegetarian Cuisine,Ih9Zh1eRwPowzufbGVXfoA,Green Bean Cafe,1413 York Ave,40.7692020589518,-73.9524103614292,125,3.5,10301
+Vegetarian Cuisine,K_RLEEEkMmlis5hteYlYUQ,Majorelle,28 E 63rd St,40.7657132,-73.9692137,51,4,10065
+Vegetarian Cuisine,C9CMcFCDbrRq2aKfeMMvYw,Saffron59,59 4th Ave,40.7306969,-73.9903591,13,5,10003
+Vegetarian Cuisine,M8xnlKQOh0tl58LJCnPUVA,Ravagh Persian Grill,1135 1st Ave,40.7618025365842,-73.9605525538847,283,4,10065
+Vegetarian Cuisine,HScFap2SwbUlfC-QXVkxFA,Xi'an Famous Foods,24 W 45th St,40.75606,-73.9808,1614,4,10036
+Vegetarian Cuisine,vfTCDSUqWMqDQwjk4Fh7gg,Ramen Goku,435 Park Ave S,40.74425,-73.98318,29,4,10016
+Vegetarian Cuisine,PEEw2ip9VrmiMBP4b6op_g,Govinda's Vegetarian,305 Schermerhorn St,40.68771,-73.98241,164,4.5,11217
+Vegetarian Cuisine,cCesIqo-LQt0cRlZAnrAZQ,Friedman's,132 W 31st St,40.748297,-73.990649,2285,4,10001
+Vegetarian Cuisine,1DfbZ0VsSCg9g1KILmnvzQ,Per Se,10 Columbus Cir,40.7681528889558,-73.9827629623657,1607,4.5,10019
+Vegetarian Cuisine,_du3ilTsbLqBmEY-ZyfqxA,Van Da,234 E 4th St,40.72341,-73.98307,74,4,10009
+Vegetarian Cuisine,y0HfYHoQJaguVCRuYVTIJg,Effy's Kitchen,1393B  2nd Ave,40.7693069,-73.95823,82,4,10029
+Vegetarian Cuisine,OR9oqAJW-U5ZnqhwH12Nuw,Khao Nom,42-06 77th St,40.7432731562959,-73.8879961885031,89,4.5,11373
+Vegetarian Cuisine,ZCAkVl5SeCDeBWg_xjfYeg,Clay Pot - East Village,58 St Mark's Pl,40.7279880270274,-73.9865907985248,288,4.5,10003
+Vegetarian Cuisine,H87m0azdhuw5uo6Y166uUg,Loi Estiatorio,132 W 58th St,40.765385,-73.978002,339,4.5,10019
+Vegetarian Cuisine,S4Euw4DYSqeU4KcteFXqHg,Little Beet Table,333 Park Ave S,40.74116,-73.98545,514,4,10010
+Vegetarian Cuisine,xCHApgtkLpEyh0lz-uhZvg,Szechuan Garden,239 W 105th St,40.8003719688892,-73.9676491308602,276,4,10025
+Vegetarian Cuisine,RkPakW9XloEm-QB0eNlHmw,indi thai,123 Allen St,40.71983,-73.99035,66,4.5,10029
+Vegetarian Cuisine,gjIctg7P18f6UocGVW2IMQ,Bite,62 W 22nd St,40.74189,-73.99305,297,4,10010
+Vegetarian Cuisine,viPKFWURtx09AVOa6iiKSg,Momo Crave,3807 69th St,40.7468991,-73.8962601,100,4,11377
+Vegetarian Cuisine,83BXSwE0166sObnXLUE4bQ,Land,450 Amsterdam Ave,40.78497,-73.9772182,1031,4,10024
+Vegetarian Cuisine,TAANt0fPbfHqVP5LyMBioA,Kashkaval Garden,852 9th Ave,40.766758,-73.986144,551,4,10019
+Vegetarian Cuisine,fjjzAn0j6zCs2SNViuNfwQ,Kailash Parbat,99 Lexington Ave,40.74206,-73.98273,292,3.5,10016
+Vegetarian Cuisine,m8Ytb_3eYIiWla68Lk2fFA,Under The Bridge,1079 1st Ave,40.7596400253254,-73.9623098820448,185,4,10022
+Vegetarian Cuisine,p51Ff2fByfVayA2YsHsWCA,Greens & Grains,115 Essex St,40.7194999,-73.9878899,32,4,10002
+Vegetarian Cuisine,51_f1MyuRFpEIpzb57YmEA,Hendriks,557 3rd Ave,40.747395,-73.97649,361,4,10016
+Vegetarian Cuisine,izRJeBfDQYJmd6ibIQ6Mfg,Mughlai Indian Cuisine,1724 2nd Ave,40.78002,-73.94978,437,4.5,10128
+Vegetarian Cuisine,0vg2Z-HPwkyVVX613j2ysg,Peng's Noodle Folk,1659 1st Ave,40.77726,-73.94932,407,4.5,10028
+Vegetarian Cuisine,63nYipWuA42RZmESBMUNkQ,The Bluebell Cafe,293 3rd Ave,40.73845,-73.98321,598,4,10010
+Vegetarian Cuisine,m2Zsy2UAkcDf0cRzk2Yoqw,Madame Vo,212 E 10th St,40.72925,-73.98612,726,4,10003
+Vegetarian Cuisine,FlZ1zdVEKWv7dwqm8Uw8-w,Raku,342 E 6th St,40.7264988089246,-73.9866526052356,971,4.5,10003
+Vegetarian Cuisine,tN37MOvqzrmpU0h0PfoDmw,Utsav,1185 Avenue Of The Americas Plz,40.7578756,-73.9824244,497,3.5,10036
+Vegetarian Cuisine,0AoaUlXkQOlalpA3v-Ivqw,Zyara NY,57 Clinton St,40.71964,-73.98507,149,4.5,10002
+Vegetarian Cuisine,_LJFf9YqpYxvExTvVxb7Rw,The Modern,9 W 53rd St,40.7610060884932,-73.9767725608521,971,4.5,10019
+Vegetarian Cuisine,9wRlyAndMwK0n1SlzywRjQ,The Family Store,6905 3rd Ave,40.63544,-74.026,163,4.5,11209
+Vegetarian Cuisine,uqBBk5o9McSEYQ88CG6yHg,deep indian kitchen - indikitch,109 W 37th St,40.75216,-73.98724,109,4,10018
+Vegetarian Cuisine,7Qvh0oFRsoqrO9qNlcMKXQ,Saigon Shack,114 Macdougal St,40.72969,-74.000629,2319,4,10012
+Vegetarian Cuisine,sxv1oJxG8uu6u4tjKHiJMA,Bugis Street Brasserie and Bar,145 W 44th St,40.7567689,-73.9843329,68,3.5,10036
+Vegetarian Cuisine,srhEv1OqoK9W5JRdiMWDyw,Ayza Wine & Chocolate Bar,11 W 31st St,40.7471774721074,-73.987011312828,1601,4,10001
+Vegetarian Cuisine,ZD9OPTKRx-BWqXgfqwCy7w,Souvlaki GR,231 E 53rd St,40.75725,-73.96808,105,4.5,10022
+Vegetarian Cuisine,Ey45ZiAN1TSVmvfM6DVZqA,Persepolis,1407 2nd Ave,40.76984,-73.958015,438,4,10021
+Vegetarian Cuisine,noKyBvc-z4eTGgxlvMnKjA,PhoBar,82 W 3rd St,40.72975,-73.99893,152,4,10013
+Vegetarian Cuisine,M2wnfA4K3DVwuAv0DCPTdQ,Covina,127 E 27th St,40.7423054,-73.9832149,327,4.5,10016
+Vegetarian Cuisine,CNbY3C2vZ2ZYNunXq-EmNQ,Gitano Jungle Room,23 Grand St,40.72279,-74.00491,74,3.5,10013
+Vegetarian Cuisine,AKHA6ZU8uM3vmLwH2hqH_A,Loring Place,21 W 8th St,40.73299,-73.99754,370,4.5,10011
+Vegetarian Cuisine,2wVirrAVg3ltAFHoHeXHMQ,Dim Sum Palace,59 2nd Ave,40.7259,-73.98986,99,4.5,10003
+Vegetarian Cuisine,BEYmqrP1_TC0nhnTGKkkJg,Ella Kitchen & Bar,249 Columbus Ave,40.7770496467021,-73.9788913948279,477,4,10023
+Vegetarian Cuisine,iXSuNKKUBIrBX7zUerlQDQ,Benares,45 Murray St,40.71415,-74.009209,479,4,10007
+Vegetarian Cuisine,Jqnm2_8Rt70YYQBhhFLwGQ,Omar's Mediterranean Cuisine,20 E 39th St,40.751888,-73.981211,144,4,10016
+Vegetarian Cuisine,m4CFfE1_u5rwVgb45ZqRpA,Sofreh,75 St Marks Ave,40.6798617,-73.973984,206,4,11217
+Vegetarian Cuisine,Y39SdfmS0Z_GepcFnFqlMA,Natureworks,113 E 31st St,40.745068,-73.981859,247,4,10016
+Vegetarian Cuisine,obFs12x7mgYPGxgalBd22w,Le Coucou,138 Lafayette St,40.71909,-74.00013,515,4,10013
+Vegetarian Cuisine,oyxk3hv9F7dGZGARmNDSYg,Zoob Zib,460 9th Ave,40.75438,-73.99536,276,3.5,10018
+Vegetarian Cuisine,60KTvpWASee4CecRsEfXYw,Black Flamingo,168 Borinquen Pl,40.710437,-73.953916,197,4,11211
+Vegetarian Cuisine,_zRVdCfUcx1cwseFycSQdQ,Thai Farm Kitchen,416 Church Ave,40.644041754256,-73.9760518446565,160,4.5,11218
+Vegetarian Cuisine,IiYRxMJLfLCsgifzRNvrtA,Thai Sliders & Co,150 8th Ave,40.7419442,-74.0007071,86,4,10011
+Vegetarian Cuisine,vx2JV9juVzSBRGWHOZCTAQ,ABA Turkish Restaurant,325 W 57th St,40.7672794037324,-73.9838727571167,491,4,10019
+Vegetarian Cuisine,SLD513aTy53UMk4wQP8Wcg,The Expat,64 Tiemann Pl,40.81551,-73.96008,41,4.5,10027
+Vegetarian Cuisine,H4fS32597GN025rMM85W-g,Sisters' Caribbean Cuisine,47 E 124th St,40.80503,-73.94082,159,4,10035
+Vegetarian Cuisine,CkIuzZ71nhSgoPayPFVTUA,Wuhan Delicacies,41-28 41st Rd,40.7558614,-73.832636,1,5,11355
+Vegetarian Cuisine,amoGEhgkE4xcNXwYqWeoaw,Yonah Schimmel's Knish Bakery,137 E Houston St,40.7231,-73.99015,612,4,10002
+Vegetarian Cuisine,oWBDdSamOzxMJzsD_-seXg,Noodies,830 9th Ave,40.7662850538302,-73.9866788007826,484,4,10019
+Vegetarian Cuisine,4wyPdXX96e0akxvCp268iw,Accra Restaurant,2065 Adam Clayton Powell Jr Blvd,40.8079504,-73.9490877,107,4,10027
+Vegetarian Cuisine,t0DMoQI5uB0hcjmAU8gbyQ,Byblos Restaurant,80 Madison Ave,40.74423,-73.98571,212,4,10016
+Vegetarian Cuisine,coQAQmIKG9dBPA6-RHqJag,CHARM'S,200 8th Ave,40.74346,-73.99947,112,4,10011
+Vegetarian Cuisine,XEugUtbw4rRmGr9S1XA-aQ,Alta,64 W 10th St,40.7345163811398,-73.9983369619683,1850,4,10011
+Vegetarian Cuisine,2-z6dRAkKupCyz1LF251pQ,Jintana Thai Farmhouse,344 7th Ave,40.666597,-73.98211,62,4.5,11215
+Vegetarian Cuisine,kwqOmEwWJ0D9PyCdFGE3-g,Xian Famous Foods,14 E 34th St,40.747844,-73.983901,713,4,10016
+Vegetarian Cuisine,JUGgD5WXc8eU5MoBKrfSGA,L'Atelier de Joël Robuchon,85 10th Ave,40.743052,-74.007872,116,4.5,10011
+Vegetarian Cuisine,E1NbrEDNxq_cl39sMfxX5A,Phayul,37-65 74th St,40.74716,-73.89124,275,4,11372
+Vegetarian Cuisine,FxOt8Exq5CA5izlDPFPoUg,Gazala's,447 Amsterdam Ave,40.78458,-73.97706,60,4,10024
+Vegetarian Cuisine,u0qfikB-ppp6UwoNKqxlRw,Flame,100 W 82nd St,40.78396,-73.97444,372,4,10024
+Vegetarian Cuisine,tkr_VTiuW_nZw_C_yeqNNw,Sol Sips,203 Wilson Ave,40.6991512984966,-73.9225060558197,117,4.5,11237
+Vegetarian Cuisine,Va_mnsEvBghHXvc7uZIWJQ,Spice Symphony,182 Lexington Ave,40.744722,-73.981202,578,4,10016
+Vegetarian Cuisine,enT7NJ7tLMvUMCWQcsUonw,Mémé Mediterranean,581 Hudson St,40.736412,-74.00616,576,4,10014
+Vegetarian Cuisine,59oP8zLjQLPY0Dyh004HSQ,Omai,158 9th Ave,40.744289,-74.002563,259,4,10011
+Vegetarian Cuisine,iYh7mB7PDd5ZvZZ4lFPF1w,Anand Indian Cuisine,304 E 78th St,40.77228,-73.95525,111,4.5,10075
+Vegetarian Cuisine,Q1TpfbuPwKPFrNFyu-u2_g,Han Dynasty,1 Dekalb Ave,40.6911319610036,-73.9825977757573,237,4,11201
+Vegetarian Cuisine,lcI9kOcRqxxMhM4b5pHqsg,Dawa's,51-18 Skillman Ave,40.7456869,-73.9126859,218,4.5,11377
+Vegetarian Cuisine,v0LGazMDlyPX5ceLYpZyTg,Akdeniz Mediterranean Restaurant,19 W 46th St,40.756519714277,-73.9800018306885,388,4,10036
+Vegetarian Cuisine,8ig0yf0003DAp4YOGTlbVg,Spicy Village,68 Forsyth St,40.71695,-73.99327,624,4,10002
+Vegetarian Cuisine,9VyMJICKGbC7Y5Ssq-Xk7w,The Sabieng Thai,71 1st Ave,40.72554,-73.98722,81,4,10003
