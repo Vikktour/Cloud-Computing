@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <script src="main.js"></script> <!--sending data through apigateway-->
+
+        <script src="https://sdk.amazonaws.com/js/aws-sdk-2.418.0.min.js"></script>
+        <script type="text/javascript" src="lib/axios/dist/axios.standalone.js"></script>
+        <script type="text/javascript" src="lib/CryptoJS/rollups/hmac-sha256.js"></script>
+        <script type="text/javascript" src="lib/CryptoJS/rollups/sha256.js"></script>
+        <script type="text/javascript" src="lib/CryptoJS/components/hmac.js"></script>
+        <script type="text/javascript" src="lib/CryptoJS/components/enc-base64.js"></script>
+        <script type="text/javascript" src="lib/url-template/url-template.js"></script>
+        <script type="text/javascript" src="lib/apiGatewayCore/sigV4Client.js"></script>
+        <script type="text/javascript" src="lib/apiGatewayCore/apiGatewayClient.js"></script>
+        <script type="text/javascript" src="lib/apiGatewayCore/simpleHttpClient.js"></script>
+        <script type="text/javascript" src="lib/apiGatewayCore/utils.js"></script>
+        <script type="text/javascript" src="apigClient.js"></script>
+
+        <title>Login Form Design</title>
+            <link rel="stylesheet" type="text/css" href="style.css">
+        <body>
+            <div class="loginbox">
+            <img src="avatar.png" class="avatar">
+                <h1>Register</h1>
+                <!--<form>-->
+                    <p>Email</p>
+                    <input type="text" name="theEmail" id="theEmail" placeholder="Email">
+                    <p>Password</p>
+                    <input type="password" name="thePassword" id="thePassword" placeholder="Password">
+                    <p>Repeat Password</p>
+                    <input type="password" name="repeatPassword" id="repeatPassword" placeholder="Repeat Password">
+                    <!--<input type="submit" name="" value="Signup"> -->
+                    <td><button onClick="register(document.getElementById('theEmail').value, document.getElementById('thePassword').value)">Signup</button></td>
+                    <script> console.log(`print inside register.html: email${document.getElementById('theEmail').value},password${document.getElementById('thePassword').value}`)</script>
+                    <a href="index.html">Already have an account?</a>
+                <!--</form>-->
+                
+            </div>
+
+        </body>
+    </head>
+</html>
