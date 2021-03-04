@@ -6,6 +6,6 @@ This data is then parsed again in Lambda1.0 (a lambda function placed in AWS) to
 and insert it into DynamoDB (AWS noSQL database) and also to ElasticSearch.
 
 Summary:
-• Pulled Yelp's restaurant data with Yelp Fusion API. Formatted the data into a file, which is then parsed using lambda functions to push the data into dynamoDB
-• AWS: S3, API Gateway, Lambda, Lex, SQS, SNS, DynamoDB, ElasticSearch
-• Programming: Python, noSQL, csv, json
+* Pulled Yelp's restaurant data with Yelp Fusion API. Formatted the data into a file, which is then parsed using lambda functions to push the data into dynamoDB
+* AWS: S3, API Gateway, Lambda, Lex, SQS, SNS, DynamoDB, ElasticSearch
+* Programming: Python, noSQL, csv, json
